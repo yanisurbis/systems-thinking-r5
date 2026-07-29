@@ -225,6 +225,19 @@ td:first-child{font-weight:500;color:var(--t)}
 @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 .tab-desc h3{font-size:22px;font-weight:700;letter-spacing:-.5px;margin-bottom:12px}
 .tab-desc p{font-size:17px;color:var(--ts);line-height:1.7;margin-bottom:0}
+/* Две карточки-варианта внутри вкладки (Claude / Kimi) */
+.channel-note{
+  grid-column:1/-1;font-size:17px;color:var(--t);line-height:1.65;
+  background:var(--bg);border:1px solid var(--b);border-radius:12px;padding:16px 20px
+}
+.channel-card{background:var(--bg);border:1px solid var(--b);border-radius:14px;padding:26px}
+.channel-card h4{font-size:19px;font-weight:700;letter-spacing:-.3px;margin-bottom:8px}
+.channel-card>p{font-size:15px;color:var(--ts);line-height:1.65;margin-bottom:18px}
+.channel-tag{
+  display:inline-block;font-size:13px;font-weight:600;color:var(--a);
+  background:var(--al);border-radius:999px;padding:3px 12px;margin-bottom:14px
+}
+.channel-card .steps-list .step-item{padding:14px 0}
 .steps-list{list-style:none;display:flex;flex-direction:column;gap:0}
 .step-item{
   display:flex;gap:16px;align-items:flex-start;
@@ -424,7 +437,7 @@ hr.d{border:none;border-top:1px solid var(--b);margin:0}
     </p>
     <div class="btns">
       <a href="https://t.me/aist_me_bot" class="btn-p">Начать в Telegram</a>
-      <a href="https://claude.ai" class="btn-s">Подключить в браузере</a>
+      <a href="#connect" class="btn-s">Подключить в браузере</a>
     </div>
   </div>
 </section>
@@ -508,7 +521,7 @@ hr.d{border:none;border-top:1px solid var(--b);margin:0}
             <td><span class="ch">✓</span></td>
           </tr>
           <tr>
-            <td>Подписка на ИИ (Claude.ai)</td>
+            <td>Подписка на ИИ (Claude.ai или через платформу)</td>
             <td><span class="dash-cell">—</span></td>
             <td><span class="ch">✓</span></td>
             <td><span class="ch">✓</span></td>
@@ -549,7 +562,7 @@ hr.d{border:none;border-top:1px solid var(--b);margin:0}
 <hr class="d">
 
 <!-- ═══════════ КАК ПОДКЛЮЧИТЬ ═══════════ -->
-<section class="connect-section">
+<section class="connect-section" id="connect">
   <div class="ctr">
     <div class="lbl">Инструкции подключения</div>
     <h2 class="stitle">Начните за 5 минут</h2>
@@ -607,14 +620,14 @@ hr.d{border:none;border-top:1px solid var(--b);margin:0}
 
     <!-- TAB: BROWSER -->
     <div id="tab-browser" class="tab-pane">
-      <div class="tab-desc">
-        <h3>Браузер — полная среда без установки</h3>
-        <p>Удобно вне рабочего места — на телефоне, в дороге, на чужом компьютере. Стратегические сессии и общение с ИИ фиксируются в твоей базе знаний, включая личные проекты. Освоение программ МИМ через персональные руководства, которые можно сразу применять в работе.</p>
-        <div class="tip-box" style="margin-top:24px">
-          Дальше — спроси Claude: <strong>«Как мне развиваться дальше?»</strong> или <strong>«Создай для меня персональное руководство по личному развитию, включая IWE»</strong>. Claude запустит программу «Личное развитие» через твоё персональное руководство в Projects.
-        </div>
+      <div class="channel-note">
+        Удобно вне рабочего места — на телефоне, в дороге, на чужом компьютере. Стратегические сессии и общение с ИИ фиксируются в твоей базе знаний, включая личные проекты.<br>
+        <strong>Как выбрать:</strong> есть аккаунт Claude.ai → вариант 1 (полный коннектор). Claude недоступен или его нет → вариант 2 (Kimi) — вход своим логином Aisystant, оплата через подписку платформы.
       </div>
-      <div>
+      <div class="channel-card">
+        <span class="channel-tag">Вариант 1 · Claude.ai</span>
+        <h4>Полный коннектор</h4>
+        <p>Вся база знаний и личные проекты прямо в claude.ai. Освоение программ МИМ через персональные руководства, которые можно сразу применять в работе.</p>
         <ol class="steps-list">
           <li class="step-item">
             <div class="step-n">1</div>
@@ -643,6 +656,37 @@ hr.d{border:none;border-top:1px solid var(--b);margin:0}
             <div class="step-body">
               <h4>Подключись</h4>
               <p>Нажми Add, затем Connect и пройди верификацию. Готово.</p>
+            </div>
+          </li>
+        </ol>
+        <div class="tip-box" style="margin-top:18px">
+          Дальше — спроси Claude: <strong>«Как мне развиваться дальше?»</strong> или <strong>«Создай для меня персональное руководство по личному развитию, включая IWE»</strong>. Claude запустит программу «Личное развитие» через твоё персональное руководство в Projects.
+        </div>
+      </div>
+      <div class="channel-card">
+        <span class="channel-tag">Вариант 2 · Kimi</span>
+        <h4>Без аккаунта Claude</h4>
+        <p>Тот же доступ к базе знаний и личным заметкам через наш веб-стенд. Ничего дополнительно заводить не нужно — оплата уже включена в подписку платформы.</p>
+        <ol class="steps-list">
+          <li class="step-item">
+            <div class="step-n">1</div>
+            <div class="step-body">
+              <h4>Открой стенд</h4>
+              <p>Перейди на <a href="https://kimi-adapter-production.up.railway.app">kimi-adapter-production.up.railway.app</a>.</p>
+            </div>
+          </li>
+          <li class="step-item">
+            <div class="step-n">2</div>
+            <div class="step-body">
+              <h4>Войди через Aisystant</h4>
+              <p>Тот же логин, что в Telegram-боте — пройди экран входа, и откроется чат.</p>
+            </div>
+          </li>
+          <li class="step-item">
+            <div class="step-n">3</div>
+            <div class="step-body">
+              <h4>Пиши в чат</h4>
+              <p>Спроси, например: <strong>«Что такое ОРЗ-фрактал?»</strong> — ответ придёт из твоей базы знаний. Попроси записать заметку — она сохранится в твоих личных знаниях.</p>
             </div>
           </li>
         </ol>
