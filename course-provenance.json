@@ -8,7 +8,7 @@
   "upstream_commit": "b9989a2bf229510ab66304c0a44f86a5f96689de",
   "upstream_commit_date": "2026-08-31T16:24:40Z",
   "acquisition": "Native GitHub fork; publisher Markdown retained with GitHub formatting compatibility changes",
-  "scope": "Russian R5 course; complete upstream repository retained as fork",
+  "scope": "Russian R5 course only: course pages, navigation, referenced images, and provenance. Unrelated publisher repository files removed from the current tree.",
   "table_of_contents": {
     "requested_page_count": 107,
     "official_public_page_count": 107,
