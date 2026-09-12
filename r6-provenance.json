@@ -1,0 +1,2348 @@
+{
+  "course": "R6. Системное моделирование",
+  "author": "А. Левенчук",
+  "language": "ru",
+  "verified_at": "2026-09-12T11:39:17.643964+00:00",
+  "upstream_repository": "https://github.com/aisystant/docs",
+  "upstream_commit": "b9989a2bf229510ab66304c0a44f86a5f96689de",
+  "upstream_commit_date": "2026-08-31T16:24:40Z",
+  "acquisition": "Selected publisher Markdown and referenced images from existing native GitHub fork; local Git objects processed sequentially.",
+  "scope": "Russian R6 book pages, chapter navigation, referenced images, reading index and provenance.",
+  "version_note": "Official public Markdown snapshot; exact equivalence to a dated Aisystant interactive edition has not been verified.",
+  "coverage": {
+    "content_page": 72,
+    "workbook_placeholder": 36,
+    "navigation": 7
+  },
+  "assets": [
+    {
+      "path": "docs/public/ru/professional/systems-modeling/14.png",
+      "source_sha256": "d9e9a132a4c4255f3a2d5ea437627bc227694329bf383e647c814c61d728a012"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/16.png",
+      "source_sha256": "0c8e9573631decb7b45e2ebd9a8a9595cd4ffbfbd7a93ad905b67d9dc291519c"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/17.jpeg",
+      "source_sha256": "585291a0cb64427ddee84dfc2d10b8a402fda8d0ad2af908cfba07ecf886f515"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/18.png",
+      "source_sha256": "f9f3c22c8c8d648d2ab6a72a6f1586137219b306ee67d70fb9b717dc68a37cf8"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/20.png",
+      "source_sha256": "053ca190898a9f0f7ee021ce3acf3b259318acd004a82299e78a8dfd94666f90"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/21.jpeg",
+      "source_sha256": "a7ef6b301e0a9e32f5f7f81290ed61620c4a9f5d8dd29b8a47dd11a074bdf62d"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/15.png",
+      "source_sha256": "434a14bbcb999cf84b0f9e066fe67d24ee50317e6cc3157c8c6bc9ae4ec345a5"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/19.png",
+      "source_sha256": "98f20458555eb53168dfa30b9887f9ed2309be88526b9a859f8818bf20f0e94b"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/53.png",
+      "source_sha256": "b057890efd163471f56ecd229f714732f57f510afd984b69bc728c1a0e3c8c33"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/41.png",
+      "source_sha256": "45874a477cc119b5809d17d7305ff65fbe110f56ebb3545f976660ba0d1d967a"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/42.png",
+      "source_sha256": "ece1e6def4be1ac68e61b5571c52542fc3ffa1957e5b85a7746cd60f13c4e189"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/43.png",
+      "source_sha256": "c22ed31fc529037c603a180edf3d5cfa7474fddb3613344aaf823c9b7c7d9171"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/44.png",
+      "source_sha256": "e25758410027e8fa745099bc74ac46604d1b15d7c1681f390b6625b370d714d5"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/45.jpeg",
+      "source_sha256": "0b9d6b64833fdb5352872cdc31ecd128eb0e9f60c69b9ed839b67a7de8fa0bff"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/46.png",
+      "source_sha256": "11ce8789379d8ef4a7768907dee879046af0d2ca5eba23f38992a6da55dd892b"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/49.png",
+      "source_sha256": "1f029949d223bc4c1a53aa34f91e0fcc0132d22e98d937a81e1e973780cab4bb"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/50.jpeg",
+      "source_sha256": "26329a2619637e9876e831b4341eba6415fbd1aae061ad2c72a52600ce2bdeff"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/51.png",
+      "source_sha256": "ffc0fefe1164e117e854b72b5e4730fd6e8bd3dbe3a7a38956c588b47a1ba82e"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/47.png",
+      "source_sha256": "ee3d8464bfe72304266672eb77529cc05e7c09b80e8de2d6092edfc17289c27b"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/48.png",
+      "source_sha256": "2684e9670ed2e5f6b3cdf7cfd7defec312f79039e98deabef2195b9cf1657e5e"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/52.png",
+      "source_sha256": "da3f5dab9f62ffd2cdfda792f04f0f780ccb93fc4622cf1058c4c752e8137d21"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/37.png",
+      "source_sha256": "5ebe32d87f4172e20ad13491c0a7c7c5c4b5f66b5aa28769021c0b2572ce8694"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/36.png",
+      "source_sha256": "a6d82c01ed93009285ccbc360a4073c63ef8d2681cb6b0d271f4a1d17fad55a5"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/30.png",
+      "source_sha256": "f8808831d202476e797aa48525783f38de55c951c668824d1935b3f4dfc07a77"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/31.png",
+      "source_sha256": "9c9bf22f7040b26efbaa6dbe209d7b813567b897d0b8eba4959ec95cf478d20d"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/32.png",
+      "source_sha256": "7ce7d93cccd056247911d78aa464445d81139b9aa3514f0aa521b310d2f30547"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/33.jpeg",
+      "source_sha256": "baad5b9132737f8d0d2032b2443d022fb921778b1212eabaac975c0918dd49da"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/34.png",
+      "source_sha256": "f1aa5dd5be170d7532a06f33e53e46f0fb6a454b8c377270acb19d222f28ea00"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/35.png",
+      "source_sha256": "931c1e326eef2c15ff876b1b5be6be19058273fb126b115f97a3aa29681671f6"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/40.png",
+      "source_sha256": "fbb484005edc4244f842620e77605f898715b003a3881e437635fe0c5542114f"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/38.png",
+      "source_sha256": "d8abf2c01120c1574d6ed32ac7a9fbabf8d236bd4d15a90254876c2bddf1f50e"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/39.png",
+      "source_sha256": "c04cb1f00238d116d1377707aaf6d73a2df75378e70b62e6c7878434fa881e30"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/54.png",
+      "source_sha256": "d1abaa8317a32908e42845a68df3fe5d730c6f783e5e96cac879514dbd2602ec"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/55.png",
+      "source_sha256": "02ff6af388f2aa093c2bbce2e27b0024b096737df503e71d90cd6e729b33e1b4"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/0.jpeg",
+      "source_sha256": "d7abfef3391a0c7e65f8ca7a576a51a2c7b455812dfdb9e2ccef034dc4ea7277"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/2.png",
+      "source_sha256": "cb27e1a57f0d754396c497a8d8db405d4a4df4e5c1171849f648fd418a9e81db"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/3.png",
+      "source_sha256": "89f97a23ccda8d47fe3b5b9fbaebb1e0da00d35e4518ade48c28e681eab9d796"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/7.png",
+      "source_sha256": "48fcf1a432e868668d7b3f0cf79cf3d38a0c54195eca70dc962caa194b6c4331"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/4.png",
+      "source_sha256": "5e60e01f9ead6c7e62a5c5f1fba181748b165948c8931711fb43041cf55b6577"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/5.png",
+      "source_sha256": "abe22c35b5f6e30d08735c92f8d6a952ca70300ff0852d9a838cc02c872dde81"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/12.png",
+      "source_sha256": "baf9dcc9e774103fcfc3a61b35fd5c42bd583327621da7bf3b115c4f21ab6054"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/13.jpeg",
+      "source_sha256": "e99ebc93641d499545c854cb1d544fc4f3c39601575308050818d0c7562f429f"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/1.png",
+      "source_sha256": "f1af4175c6f18cc0806e304d6d4fdf1036c3723f38d41e387e2aa695201409f5"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/8.jpeg",
+      "source_sha256": "d312dbac38a69c84313af1743c31eeb70054a62e1a57d383b0f4172e561ec0fa"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/9.png",
+      "source_sha256": "fc05de92cdb1988145d0890b335761baf2603b109ace927890eb803a92ea6f35"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/10.png",
+      "source_sha256": "d42f1adb94641c9eff0ccb3bca4a936c16fa7dc32027ab266b36d6d99a6b2506"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/11.png",
+      "source_sha256": "7730dcf73e5f75d257c8b61f47cb9c474b9b4290e77646342ac31f9e0838334b"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/6.png",
+      "source_sha256": "160a19afd445139545ede8280c1fa8ccc002fdc9855874da0f3df7fb655578c3"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/26.png",
+      "source_sha256": "073e5d0b575b981cf610000609420d12a80beba1b2c033696afe50941dcd3b34"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/22.png",
+      "source_sha256": "2d95d01de6c9d55e7d8eb73c87d13ea6d68beb6cc111337e03474c803fda55ba"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/27.png",
+      "source_sha256": "1ded4391355231690b6824cffd1273c010b39407fec45deea48ba7db97217cff"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/23.png",
+      "source_sha256": "a1a02ce42a8387865a47b8161035e3ae9d2e2b3d485931123f41abca14af29f8"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/25.png",
+      "source_sha256": "bdbd28fb38b53e33a206298a326fdb7a39703b7b33a6c59eb328b82bb05cfd41"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/28.png",
+      "source_sha256": "a7fa27a1d55c05acd7eb0a1948ebea54e90bd60556c8edb54ac31d61f4f7da5c"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/29.png",
+      "source_sha256": "86570045857ee5f7171385ae5cbf9910f7b1cf390e5efb127efa153868231eaa"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-modeling/24.png",
+      "source_sha256": "26af4f93652bb2c4373b8f51c4ffc16002e17236272a69e0c1ce1faca3359c09"
+    }
+  ],
+  "pages": [
+    {
+      "title": "R6. Системное моделирование",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-modeling/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "06869771c9d42eed2b8231310b05eb8d4c2104b8ed3c0b648082dec6e32382d5",
+        "reading_copy_sha256": "06869771c9d42eed2b8231310b05eb8d4c2104b8ed3c0b648082dec6e32382d5",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Введение",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-modeling/introduction.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/introduction",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "385e3d7012c728a6ab0c8b0b0a87d6c08b29c93b35b1f2ed7a082e3bde0596b9",
+        "reading_copy_sha256": "a43fec95d6f810d8445f5b517d2256bebe2c2fef4e4aafa3c8aea5aab0c5ca32",
+        "joined_adjacent_bold_spans": 10,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/0.jpeg",
+            "reading_copy": "../../../public/ru/professional/systems-modeling/0.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 3,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системные уровни",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "cb5db44b245be09a3a3178e6c23a1972c28dc2449d3bc1992cc3774374fe61c6",
+        "reading_copy_sha256": "cb5db44b245be09a3a3178e6c23a1972c28dc2449d3bc1992cc3774374fe61c6",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Не всё системы, что ими называют",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/not-everything-called-a-system-is-one.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/not-everything-called-a-system-is-one",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "89e267d925cefa03ac56392d844265271dc03a1e2286254623624652315e180f",
+        "reading_copy_sha256": "82e4e4f89224c986e173a96a5de2f8d745597d2bbb4674ef260e67bab4c81e64",
+        "joined_adjacent_bold_spans": 30,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Что считать системой",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/questions-what-to-consider-a-system.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/questions-what-to-consider-a-system",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "5e89f9b296a8d9fd358595738688a4e94a2121691c646fd4d13c07c38cf516f8",
+        "reading_copy_sha256": "5e89f9b296a8d9fd358595738688a4e94a2121691c646fd4d13c07c38cf516f8",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системное разбиение",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/system-breakdown.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/system-breakdown",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "76ebf6ba8bcff5e4338fb5748a8f98a0806e91334d4950ba08ce3fb03a1b41b6",
+        "reading_copy_sha256": "165822c97c04a7042a24c0ec2447d6704154cf96a024c9ca7fd72c0b27edf22f",
+        "joined_adjacent_bold_spans": 56,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/1.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/1.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Эмерджентность и мета-системный переход",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/emergence-and-meta-system-transition.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/emergence-and-meta-system-transition",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b065f4d4c195ea1f701aade5a8c45491e1e3ae2f0a66f7a7d342fe0497fb2793",
+        "reading_copy_sha256": "b7173c5d140f4ecb86bcbaff70ac58c7517a8338e30afec3e4fa48267d81641e",
+        "joined_adjacent_bold_spans": 13,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/2.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/2.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/3.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/3.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Системное разбиение и эмерджентность",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/questions-system-breakdown-and-emergence.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/questions-system-breakdown-and-emergence",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "d176c3fe40f7d76a4d3a05d7a309cd0ab723f06e3117456672f1b231e500d883",
+        "reading_copy_sha256": "d176c3fe40f7d76a4d3a05d7a309cd0ab723f06e3117456672f1b231e500d883",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Неустроенность и мета-системный переход",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/misalignments-and-meta-system-transition.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/misalignments-and-meta-system-transition",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "75a12d080567c4eed452636254d7b4dfaceb875874c1a6ca558ae3c99b40b764",
+        "reading_copy_sha256": "728af732ebda9c83620976c6251208f1f8e72217bfadde75b93839a3aa973f0a",
+        "joined_adjacent_bold_spans": 54,
+        "converted_inline_footnotes": 16,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/4.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/4.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/5.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/5.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системный подход против и редукционизма, и холизма.",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/systems-approach-versus-both-reductionism-and-holism.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/systems-approach-versus-both-reductionism-and-holism",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "099e9410a33fb475f8391f38f75eb32dcbe39f07039e3d65b4b6d908773d4445",
+        "reading_copy_sha256": "00161aa56952fb252e02274a8b943101b4d54cdf5fa8b35c217a0b43bc3e82e2",
+        "joined_adjacent_bold_spans": 4,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Целевая система и коллективное системное мышление",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/system-of-interest-and-collective-systems-thinking.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/system-of-interest-and-collective-systems-thinking",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "086db0fb7766edfb9bafdcbb7462c6c162ebee103d291e37a94010a6538594d8",
+        "reading_copy_sha256": "29946671b05111ad2d7e54d92f5d9cfdf67e99ffc10b9088b53a5b09f7514c06",
+        "joined_adjacent_bold_spans": 24,
+        "converted_inline_footnotes": 0,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/6.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/6.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Форматы описания системных уровней",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/formats-for-describing-system-levels.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/formats-for-describing-system-levels",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f4797d02142ab064ea7e9db1394e72fca461ce0518d54820c4ccb187a9537f85",
+        "reading_copy_sha256": "f4bb2c1eeefa185952e9171db8b7d0aa6a6b641ce26db8ea1499f08dd527d023",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/7.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/7.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системные уровни в системной инженерии. Пример вычислительной техники.",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/system-levels-in-systems-engineering-a-computing-example.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/system-levels-in-systems-engineering-a-computing-example",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2dc780bcd822a93fc8c44e0c9978839b1f6b7da0c6f1d8633d742f527531f893",
+        "reading_copy_sha256": "4ddc93c9c87175545a568cc1bdf053f0e1f426dbed9a1a370537eb2265b5c1e9",
+        "joined_adjacent_bold_spans": 15,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: системные уровни",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/modeling-system-levels.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/modeling-system-levels",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ed913c35fdf17574819c062f21699c829fcb1fb34e0a4f92e92dcea732adc421",
+        "reading_copy_sha256": "ed913c35fdf17574819c062f21699c829fcb1fb34e0a4f92e92dcea732adc421",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "4D системность: паттерны в пространстве-времени, ритмы",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/4d-systems-thinking-patterns-in-space-time-rhythms.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/4d-systems-thinking-patterns-in-space-time-rhythms",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "19a2d92720111ea245c8066b2244166b9695a865dc4eb77b5db99dc8491e5b18",
+        "reading_copy_sha256": "9bdcbfd028a538ca2f6e8a12ee3fe47c5dc79d9a51cfb76256c72b5a85056cb2",
+        "joined_adjacent_bold_spans": 29,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование ритмики",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/rhythm-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/rhythm-modeling",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "fdaf03cf925e78de807349a9040f7823a3eee5b11c0db373aa1ab7ca546f76a6",
+        "reading_copy_sha256": "fdaf03cf925e78de807349a9040f7823a3eee5b11c0db373aa1ab7ca546f76a6",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Задания по ритмике",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/rhythm-exercises.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/rhythm-exercises",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "d55372e189dc869c7f2798ad1af86019a61a9799453e769a7cfdc697564a668f",
+        "reading_copy_sha256": "d55372e189dc869c7f2798ad1af86019a61a9799453e769a7cfdc697564a668f",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системные уровни выделяются вниманием. Пример методов телесной работы",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/system-levels-highlighted-by-attention-example-methods-of-somatic-work.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/system-levels-highlighted-by-attention-example-methods-of-somatic-work",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "dc8542b0b9f7974f60ba478be20ecb44ce6c494309f996e08ce3fb3e807c490a",
+        "reading_copy_sha256": "ca19e897120986fd1fe9d635db59bb3aaf79f27065f50a342f81294599ccf079",
+        "joined_adjacent_bold_spans": 25,
+        "converted_inline_footnotes": 6,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/8.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/8.jpeg"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/9.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/9.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/10.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/10.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/11.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/11.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Выделение системных уровней вниманием. Пример социальных танцев",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/focusing-on-system-levels-example-of-social-dances.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/focusing-on-system-levels-example-of-social-dances",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0949b01aad9fab146f963debbd0505494fe818291cc0f27db0c7433c44ebf76a",
+        "reading_copy_sha256": "9aa16b44cd138838786fb86fe5bf4ef45156535ce215f2f4b0745d99e340aeb1",
+        "joined_adjacent_bold_spans": 68,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системные уровни. Продолжение примера социальных танцев: уровни выше танцора.",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/system-levels-continuing-the-social-dance-example-levels-above-the-dancer.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/system-levels-continuing-the-social-dance-example-levels-above-the-dancer",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "21bb630e50e6228e33a32843bc4999d3a47b3c53d04ec56ab319226f5b7a77a9",
+        "reading_copy_sha256": "fb04adba7f5591e058268fb5ef56f20c9581dcce6ff9bf7862470ef25ca8de99",
+        "joined_adjacent_bold_spans": 36,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 45,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Разделение труда между создателями. Наша система. Граф создателей.",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/division-of-labor-among-creators-our-system-creators-graph.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/division-of-labor-among-creators-our-system-creators-graph",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2da31ca3547c6ea8763696d90ea912ff7182ed5dda710f310551f0653a21b42e",
+        "reading_copy_sha256": "8188d2a1dce365b80eaa1007b837c3e0c484bc5cf1844aba09c698c9e8b6abe0",
+        "joined_adjacent_bold_spans": 30,
+        "converted_inline_footnotes": 8,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Целевая система и соотношение систем",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/questions-system-of-interest-and-system-relationships.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/questions-system-of-interest-and-system-relationships",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "02b282a8ac325ab9bf3262d4fdaab01e26e995be294d84c0dc460ed7a85db8bb",
+        "reading_copy_sha256": "02b282a8ac325ab9bf3262d4fdaab01e26e995be294d84c0dc460ed7a85db8bb",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Рекурсивное применение системного мышления: рекурсивное управление вниманием",
+      "order": 19,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/recursive-application-of-systems-thinking-recursive-attention-management.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/recursive-application-of-systems-thinking-recursive-attention-management",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "93cd2e8fcc717d26e6e21f94a7162b19de1e2a305c6df35153aa3aa886799a41",
+        "reading_copy_sha256": "29742a73c8c7e00c35e1e548384dccdc0bc77aead5408d162d636bf2eaed5478",
+        "joined_adjacent_bold_spans": 25,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/12.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/12.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/13.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/13.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Задания по системным уровням",
+      "order": 20,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-levels/assignments-on-system-levels.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-levels/assignments-on-system-levels",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "5d94b4290f3827fbb768a92a1876129b65c209000223f538165d7d419513ca14",
+        "reading_copy_sha256": "5d94b4290f3827fbb768a92a1876129b65c209000223f538165d7d419513ca14",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Графы создателей",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "ad59ff472c92bb113c5225d27169a6fcfdbf5f24148e7c6873f1f5660534954d",
+        "reading_copy_sha256": "ad59ff472c92bb113c5225d27169a6fcfdbf5f24148e7c6873f1f5660534954d",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Отношения создания",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/creation-relationships.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/creation-relationships",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7a598e0bd031e40a2bd63d4f74539338052d044393b6851ecceb93d7ac3e00ac",
+        "reading_copy_sha256": "d8dd7c3206c0968437dbb2b60ae0718a4c4cb922f685e4a3031e353ad003e23b",
+        "joined_adjacent_bold_spans": 25,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/14.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/14.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: граф создателей",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/modeling-creator-graph.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/modeling-creator-graph",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "54b2f8b4f48533335db6725b9dd1b49bb7768fa8e3a0f13db8630bfbd00bd937",
+        "reading_copy_sha256": "54b2f8b4f48533335db6725b9dd1b49bb7768fa8e3a0f13db8630bfbd00bd937",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Концепция использования",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/usage-concept.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/usage-concept",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f8ed1ea1a9df6aacced57bb543e1ef646ebd80301ec5b7dfd5d7c6a82706c568",
+        "reading_copy_sha256": "d854038a7f3c303bf89506d301d886a6a35458bce580f4dc70cb79465289e2cf",
+        "joined_adjacent_bold_spans": 36,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 64,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Концепция системы и архитектура",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/system-concept-and-architecture.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/system-concept-and-architecture",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "de3ae20c41516171f7209f6763350c73165c13311c65b6ae7114e3b40ddc284d",
+        "reading_copy_sha256": "0d464ff15bb7bdca457ed9ad0061f7841d171eec9b3a0953f74c5701ef7a59d5",
+        "joined_adjacent_bold_spans": 10,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: концепция использования и концепция системы",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/modeling-usage-concept-and-system-concept.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/modeling-usage-concept-and-system-concept",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "15ed6f6351591256f5b470cb9cb9ec5df11e617c2b7a2aa847e430a6ec6256ea",
+        "reading_copy_sha256": "15ed6f6351591256f5b470cb9cb9ec5df11e617c2b7a2aa847e430a6ec6256ea",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Рекурсивное рассмотрение в системном мышлении",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/recursive-consideration-in-systems-thinking.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/recursive-consideration-in-systems-thinking",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "60d65a626ed2c54a7a1f35113eb2b5e9c46c8923e31839acb33d861c3128df03",
+        "reading_copy_sha256": "e0c00aad5d8721d827ed5de8677b2e080f9368abea157b54c6a4cfd6c0806b17",
+        "joined_adjacent_bold_spans": 44,
+        "converted_inline_footnotes": 0,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/15.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/15.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Примеры системной терминологии",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/examples-of-systems-terminology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/examples-of-systems-terminology",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c6e0324eb59d14133106693f4614b5fac0437892b87faae32233bf546a175845",
+        "reading_copy_sha256": "e1e3e393c23baeb10f5a2cc632b7784fc6d7c4980c7148efcc84b894bed39dca",
+        "joined_adjacent_bold_spans": 13,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/16.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/16.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/17.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/17.jpeg"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/18.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/18.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: краткое описание системы",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/modeling-brief-system-description.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/modeling-brief-system-description",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "41a35eb59bbee521a55fc93c7a5dab92906322406d10afde9ed0fdd88a865096",
+        "reading_copy_sha256": "41a35eb59bbee521a55fc93c7a5dab92906322406d10afde9ed0fdd88a865096",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Разделение труда и системные уровни",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/division-of-labor-and-system-levels.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/division-of-labor-and-system-levels",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2a12459a472f9d575b18bf16ca62df19f127a237579116d7e2c7eafaaf94fb42",
+        "reading_copy_sha256": "c407c03117a98a32bf060a1dd029142b55b70c4111242a010266a0d7097e6c2b",
+        "joined_adjacent_bold_spans": 9,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Концепция использования и концепция системы",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/questions-usage-concept-and-system-concept.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/questions-usage-concept-and-system-concept",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "00390f53f15a7f79b08f82ecf0b363318b127c48db475677d57544182b973b90",
+        "reading_copy_sha256": "00390f53f15a7f79b08f82ecf0b363318b127c48db475677d57544182b973b90",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: концепция использования",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/modeling-usage-concept.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/modeling-usage-concept",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "8c2f3cd40cde06e78bc349427830b52bbd7d6c581a103d299068615008c093be",
+        "reading_copy_sha256": "8c2f3cd40cde06e78bc349427830b52bbd7d6c581a103d299068615008c093be",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системы систем",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/systems-of-systems.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/systems-of-systems",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3f21c9f82298747a6d401e96708d6478a5e00e737518788b40694149b5b319b2",
+        "reading_copy_sha256": "0505d55ccfe1d4bbd01f7fcb802a066f8c6815566987f1e0458c8c082df90d17",
+        "joined_adjacent_bold_spans": 3,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/19.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/19.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Интеллектуальные агенты в системах",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/intelligent-agents-in-systems.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/intelligent-agents-in-systems",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e6be21635a24f51fce26fc912a8d9ccb8171f80d6661df8078754bf4129fb97a",
+        "reading_copy_sha256": "46dd1c93623478377cdaadcdf45ca381167c43c62cb0526df6d4a249d674dc8c",
+        "joined_adjacent_bold_spans": 35,
+        "converted_inline_footnotes": 7,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 60,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системная этика",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/systems-ethics.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/systems-ethics",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6a8e1dc06b2281d1d783428b7c820d00cb7141c0da6cc5987c431d95bd05d7f5",
+        "reading_copy_sha256": "f45e5f5630c7f94341b3c3e8dcaa8a8251c4b4042f227e2dd71a4eaae5d2b230",
+        "joined_adjacent_bold_spans": 28,
+        "converted_inline_footnotes": 23,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Государственное строительство и госпроекты",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/state-construction-and-government-projects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/state-construction-and-government-projects",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b11ca7d65fa71a93e6fbc7f50605deb1d20095123d9b26164d9aeb0ad74f24fa",
+        "reading_copy_sha256": "8fa3586e382525ae882416e811a38f62e8fe54766036e2b7043842277056686f",
+        "joined_adjacent_bold_spans": 13,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Будущее и проактивность деятельности",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/future-and-proactive-activities.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/future-and-proactive-activities",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4bdd73084d45d719fa5a77fde70bb911a3488955f201a24fde267c0c433e2339",
+        "reading_copy_sha256": "98ddcfe1e3e7a3418a59e3a6fa4e0e180a2395d5e9b703b85e56e2156c202940",
+        "joined_adjacent_bold_spans": 27,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/20.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/20.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Сложность и меры сложности",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/complexity-and-complexity-measures.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/complexity-and-complexity-measures",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4cd4ff5e8351f12858e1a4d6e4d25cb8a471e437012f4a4eff6e734078eb6490",
+        "reading_copy_sha256": "1e4f6b52de075880ee88c939d7bb9c946111449967699eb76ddc76d4fb210b42",
+        "joined_adjacent_bold_spans": 21,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 33,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Задания: системность мышления окружающих вас людей",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/tasks-systems-thinking-of-people-around-you.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/tasks-systems-thinking-of-people-around-you",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "7ecaa78feb8903288e3c5e4f22da73407c210e4f9ef22633166ffc392c40b1f0",
+        "reading_copy_sha256": "7ecaa78feb8903288e3c5e4f22da73407c210e4f9ef22633166ffc392c40b1f0",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Проблема наборов/collections как систем: чаще всего нет, но иногда — да.",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/systems-modeling/creators-graphs/problem-of-sets-collections-as-systems-usually-no-but-sometimes-yes.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/creators-graphs/problem-of-sets-collections-as-systems-usually-no-but-sometimes-yes",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "fc2f7bff432ebd7ed2f1367febfaf177a2188e3849f45c75e7bed4923249175d",
+        "reading_copy_sha256": "2c4ffd5d25496dfdf07d880e276d157e2190ff5de63e162b5388fbb192c91c5f",
+        "joined_adjacent_bold_spans": 13,
+        "converted_inline_footnotes": 10,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/21.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/21.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Целевая система и её надсистема",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "5e9da262f7bc6d4bf924fa55d47135186a67efdf671bc663ee46f8996ac63220",
+        "reading_copy_sha256": "5e9da262f7bc6d4bf924fa55d47135186a67efdf671bc663ee46f8996ac63220",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Сначала найти целевую систему",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/first-identify-the-system-of-interest.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/first-identify-the-system-of-interest",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ecbc4e8320d7a8f6c83a9702c8f794425e8c5b0a9ec39e4450a3331c472044eb",
+        "reading_copy_sha256": "67cb7bb54de77300fbfc2b3d7ec925d69328b49e4f009035de074f72efc3dea3",
+        "joined_adjacent_bold_spans": 44,
+        "converted_inline_footnotes": 0,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/22.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/22.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 41,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Целевая система зависит от того, кто её ищет",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/the-system-of-interest-depends-on-who-is-looking-for-it.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/the-system-of-interest-depends-on-who-is-looking-for-it",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d9dc88529078d134e3f6478cd5ec71c5f81ea4ec6b6dff3f0d1062529f99c35e",
+        "reading_copy_sha256": "78954ca691169d4c0b0e0821836e7f43ebb24ba2a90517f8d2d4b490e901a118",
+        "joined_adjacent_bold_spans": 40,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 46,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: целевые системы",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/modeling-systems-of-interest.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/modeling-systems-of-interest",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "9b858cb94a1d0bf6d2306068280a91c340e16e436e151df139f4a6b0c6fe4ddb",
+        "reading_copy_sha256": "9b858cb94a1d0bf6d2306068280a91c340e16e436e151df139f4a6b0c6fe4ddb",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системы-продукты и сервисы/методы провайдеров/создателей",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/systems-products-and-services-methods-of-providers-creators.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/systems-products-and-services-methods-of-providers-creators",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "04fba502153d18da67884187c6ea57e245c5e3ac82429e4fdcd1610af5dda54b",
+        "reading_copy_sha256": "e765e1b06f7aa12367ecc5e79df453664ef70575b82cb38dbff86c76ab1f6077",
+        "joined_adjacent_bold_spans": 4,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 4,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Пример парикмахерской как сервис-провайдера",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/example-of-a-hair-salon-as-a-service-provider.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/example-of-a-hair-salon-as-a-service-provider",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7c1c2fa43433bd118241015462d9ce144af1011f16aae2518c1d397f1ac27d08",
+        "reading_copy_sha256": "f99e67da8a04d1b73112b9e13cddf446941c9ef09da6472a9625e02baaa55a95",
+        "joined_adjacent_bold_spans": 13,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Сервис-ориентация. Мир провайдеров.",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/service-orientation-the-world-of-providers.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/service-orientation-the-world-of-providers",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1547047c254dfdfbf0202542608451038c20f8f2b7c52e9f4e9a2cf45c6cd6c8",
+        "reading_copy_sha256": "75cce494884e4baef6de7de93b218f76c4a4ced36375ce6bac95df2a2fc80849",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/23.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/23.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 1,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Примеры сервисов и их провайдеров",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/examples-of-services-and-their-providers.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/examples-of-services-and-their-providers",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b769d8802d03288111ea009037e74e29d630904584a7aa30f99c5687cce0a25e",
+        "reading_copy_sha256": "f4f835c76b52e95d85eb6ae4f241782908c251fb48c2c202d9bcc935f31532fe",
+        "joined_adjacent_bold_spans": 7,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: сервисы в компании",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/modeling-services-in-the-company.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/modeling-services-in-the-company",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "5c62f78d6faca06a1f4117fa2d6cc72a1f1b134d274a04c5043f2e0eeffc5a34",
+        "reading_copy_sha256": "5c62f78d6faca06a1f4117fa2d6cc72a1f1b134d274a04c5043f2e0eeffc5a34",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Ты — член команды",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/you-are-a-team-member.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/you-are-a-team-member",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1863e4d404b2af4041866d8dd4689327c860664b099aba47d9d37404b8955769",
+        "reading_copy_sha256": "91b16f760c09ed7b240bd0051c4e020b8cda34e2085e69a0277b4a06430cc1ca",
+        "joined_adjacent_bold_spans": 43,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/24.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/24.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: целевая система и ваша система",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/modeling-system-of-interest-and-your-system.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/modeling-system-of-interest-and-your-system",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "eab0d5497815636f73727ed9b9e3cb7c61d287ab1ef9f5b4d5cdeed415d33262",
+        "reading_copy_sha256": "eab0d5497815636f73727ed9b9e3cb7c61d287ab1ef9f5b4d5cdeed415d33262",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Признаки целевой системы",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/signs-of-the-system-of-interest.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/signs-of-the-system-of-interest",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9ca6b3b5f78d8c05bc7b731b78cc17fe2a7a29d52070129b651cffc8f13e265d",
+        "reading_copy_sha256": "99a5952087a1c5bcc650af6880456c2535162e0a2f8731ed6801ff254b2e6aeb",
+        "joined_adjacent_bold_spans": 14,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/25.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/25.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Частые ошибки в выявлении целевой системы",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/common-mistakes-in-identifying-the-system-of-interest.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/common-mistakes-in-identifying-the-system-of-interest",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1d11a407bcdf962e562c77d682085982b6964c04e89722c771f326fda5f77425",
+        "reading_copy_sha256": "e5b435f009ac4ecfdf2b681eeb143a53ba4fb7cce319b559b87602757512a32b",
+        "joined_adjacent_bold_spans": 34,
+        "converted_inline_footnotes": 8,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/26.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/26.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 47,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: проверка на ошибки выявления целевой системы",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/modeling-checking-for-errors-in-identifying-the-system-of-interest.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/modeling-checking-for-errors-in-identifying-the-system-of-interest",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "731dc688e453c37704a1442e32c37726298ef046f453abafb0b3be8629c7d5ad",
+        "reading_copy_sha256": "731dc688e453c37704a1442e32c37726298ef046f453abafb0b3be8629c7d5ad",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Именование системы",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/naming-the-system.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/naming-the-system",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b3d9c47149eaaf13ed892f931a50b7900cd15fdace0f6e6d4c876aada1ee8d9b",
+        "reading_copy_sha256": "1a4fffe7f9090701a97727a25edb0a05d4fb8d48ed0db51169fd6b1b39fbfbf7",
+        "joined_adjacent_bold_spans": 5,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/27.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/27.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 10,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Именование системы",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/questions-naming-the-system.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/questions-naming-the-system",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "8bd72eef5cc84d9b857d4a8c3974aada7fef48f3b5284bb18259b79c61f92f7e",
+        "reading_copy_sha256": "8bd72eef5cc84d9b857d4a8c3974aada7fef48f3b5284bb18259b79c61f92f7e",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Надсистема: её тоже нужно выявить!",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/supersystem-it-must-also-be-identified.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/supersystem-it-must-also-be-identified",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ac9dcf283e0dc9637af1145796585e2b44be20ae33bc8ca3a9402539f9a359ed",
+        "reading_copy_sha256": "fd0ffb5eec1b1bee9089145fa2fa32c509dc8aee981ca986f2d39056874c9ec8",
+        "joined_adjacent_bold_spans": 4,
+        "converted_inline_footnotes": 0,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/28.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/28.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/29.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/29.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системный подход: для всех видов систем, не только для целевой",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/systems-approach-for-all-types-of-systems-not-just-the-system-of-interest.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/systems-approach-for-all-types-of-systems-not-just-the-system-of-interest",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3cf51be93b4ba28901f39b573f4d32a5377c6d0ec6799b57613869065785924c",
+        "reading_copy_sha256": "c746c6b1c5e023466ccca79ebd59bc3208d919e5851b2eec1d352769488a9709",
+        "joined_adjacent_bold_spans": 18,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 30,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Системы создания",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/questions-creation-systems.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/questions-creation-systems",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "283bb496bb5934f0cae17c230b1a62077b228c1fa62225c72fdb19807b22321a",
+        "reading_copy_sha256": "283bb496bb5934f0cae17c230b1a62077b228c1fa62225c72fdb19807b22321a",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Задания: вы — сервис-провайдер",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/assignments-you-are-a-service-provider.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/system-of-interest-and-its-supersystem/assignments-you-are-a-service-provider",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "36ad5a92e5c72d8a605b96212798d23172269ec112ad76d054c8f4c980be8eed",
+        "reading_copy_sha256": "36ad5a92e5c72d8a605b96212798d23172269ec112ad76d054c8f4c980be8eed",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Как описывать системы",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "6f2cd24c280ca907c27f48421baf8f2ad6b05faae26729112805dacbc9fc2950",
+        "reading_copy_sha256": "6f2cd24c280ca907c27f48421baf8f2ad6b05faae26729112805dacbc9fc2950",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Фундаментальность/трансдисциплинарность системного мышления",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/fundamentality-transdisciplinarity-of-systems-thinking.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/fundamentality-transdisciplinarity-of-systems-thinking",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f09e154f9b48e24ab51ba326d7b5949ed87923c53771a46a71a4a63057afa4b4",
+        "reading_copy_sha256": "47b0e4b0e5bef1655af8293875a39b8839a9709ba39868e9fb5c7371ce2b65e9",
+        "joined_adjacent_bold_spans": 11,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Четыре основных вида описания системы на базе четырёх способов разбиения системы",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/four-main-types-of-system-descriptions-based-on-four-system-breakdown-methods.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/four-main-types-of-system-descriptions-based-on-four-system-breakdown-methods",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ba17a9b7151272a72f4a89511d93df9a51c965489ad9aa0eb47f3ca88e74343c",
+        "reading_copy_sha256": "37214297ce3d4e8e63e9b6c040df38ab4e12004daa0be3633311501b667147aa",
+        "joined_adjacent_bold_spans": 30,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/30.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/30.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 41,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Функциональный анализ и модульный синтез",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/functional-analysis-and-modular-synthesis.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/functional-analysis-and-modular-synthesis",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4181ff518fcd9e30520215a7f9d8c272435dac69063e63b25c42abaebadc8565",
+        "reading_copy_sha256": "26491b4c74dd5a05b7352897cf07d0652a9e87c3959ca585f6079868474c0c38",
+        "joined_adjacent_bold_spans": 30,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Одна система, но множество описаний, множество имён: это нормально!",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/one-system-many-descriptions-many-names-that-s-normal.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/one-system-many-descriptions-many-names-that-s-normal",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e62a8ed952fa82182f013b30021ff541c349b508330f6b4659623b4cd4d5da5c",
+        "reading_copy_sha256": "0a8149402e8206f150e25fa69c780997adddf0429a6687fc72345a1253805b41",
+        "joined_adjacent_bold_spans": 37,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 46,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Альтернативные варианты основных видов разбиения системы на части",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/alternative-options-for-main-types-of-system-breakdown-into-parts.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/alternative-options-for-main-types-of-system-breakdown-into-parts",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "12ed5fa8042e3c56873581ce0073d38591d445919f26344e1bf5554339b5bb19",
+        "reading_copy_sha256": "b9d0c8abc48744b30686d3e89de7f83539dddce85bfdb32bafe1e0950d9fc86e",
+        "joined_adjacent_bold_spans": 12,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Несовпадение функционального и конструктивного разбиений системы",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/mismatch-of-functional-and-structural-system-breakdowns.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/mismatch-of-functional-and-structural-system-breakdowns",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a0953ad4d5b5248a3bf14b070be4f9bb8d5273aa2b22b0d6a4eb29cdfe0ad7bc",
+        "reading_copy_sha256": "39975887289819d36f5e1b084c43b72ed821302513a6f3bf31aa4730322f9df5",
+        "joined_adjacent_bold_spans": 23,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/31.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/31.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/32.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/32.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/33.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/33.jpeg"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/34.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/34.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/35.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/35.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: функциональные и конструктивные разбиения",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/modeling-functional-and-structural-breakdowns.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/modeling-functional-and-structural-breakdowns",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "030b45882a7c665e8537d46f780ac852b2d3de3b73eb6bf30ad25efc2cedc673",
+        "reading_copy_sha256": "030b45882a7c665e8537d46f780ac852b2d3de3b73eb6bf30ad25efc2cedc673",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Разработка концепции системы: функциональный анализ и модульный синтез",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/developing-a-system-concept-functional-analysis-and-modular-synthesis.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/developing-a-system-concept-functional-analysis-and-modular-synthesis",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a6f56577ffb5cded00144a18ac674f731903e1fbb5c1725e36f293a5e865157b",
+        "reading_copy_sha256": "353559bfc40c0d75a30192fc3c9aef680b8bddbadaf9dcbe1ecd0849c3580aed",
+        "joined_adjacent_bold_spans": 23,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/36.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/36.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Функциональные, конструктивные, пространственные, стоимостные части - 1",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/questions-functional-structural-spatial-cost-components-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/questions-functional-structural-spatial-cost-components-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "9ca5c2e42d0ccaecf95453dd9af6e66aaf9809a3f2e2dbaa8d71285dca254ce5",
+        "reading_copy_sha256": "9ca5c2e42d0ccaecf95453dd9af6e66aaf9809a3f2e2dbaa8d71285dca254ce5",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Функциональные, конструктивные, пространственные, стоимостные части — 2",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/questions-functional-structural-spatial-cost-components-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/questions-functional-structural-spatial-cost-components-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "404ed21849b816ff8843d6e6cea660a9824a6179707bafb6caa244ca523eb625",
+        "reading_copy_sha256": "404ed21849b816ff8843d6e6cea660a9824a6179707bafb6caa244ca523eb625",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: изобретение (поиск аффорданса)",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/modeling-invention-affordance-search.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/modeling-invention-affordance-search",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "40c0de46d9a1e572719673eed5b6945ceea3dcdbfe58358ab86c8a8683036413",
+        "reading_copy_sha256": "40c0de46d9a1e572719673eed5b6945ceea3dcdbfe58358ab86c8a8683036413",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Альфы и артефакты/«рабочие продукты»",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/alphas-and-artifacts-work-artifacts.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/alphas-and-artifacts-work-artifacts",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "460000166153d64a4dc8ba93c139d4ce436694e0224a7e8615622a6b262f6162",
+        "reading_copy_sha256": "a59de7f5def5e1e7bc541612fd0ca7fae7290a7bcf9f494206fad68d327da428",
+        "joined_adjacent_bold_spans": 27,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/37.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/37.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Рабочие продукты",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/questions-work-artifacts.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/questions-work-artifacts",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "316ea9fd304b52950ecaa24d23da17760db3607b0a19cea504f0e0e95f56d9ad",
+        "reading_copy_sha256": "316ea9fd304b52950ecaa24d23da17760db3607b0a19cea504f0e0e95f56d9ad",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Яблоки из жизни, яблоки из задачи",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/apples-from-life-apples-from-the-task.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/apples-from-life-apples-from-the-task",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1a994445d7920b781a8bcb3e975cbbeadcd248c0d77f356783fbbb129a0084df",
+        "reading_copy_sha256": "550e491495954517cabc15c9a8bff26c96e6f6a0ee8949755000cb5949ad0717",
+        "joined_adjacent_bold_spans": 25,
+        "converted_inline_footnotes": 6,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: классификация типов мета-модели типами мета-мета-модели",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/modeling-classification-of-meta-model-types-by-meta-meta-model-types.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/modeling-classification-of-meta-model-types-by-meta-meta-model-types",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "3266982e125e29b4efd534f47e24d13c599a1c3b369dc156b7212fde4a2b5ed7",
+        "reading_copy_sha256": "3266982e125e29b4efd534f47e24d13c599a1c3b369dc156b7212fde4a2b5ed7",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Альфы",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/alphas.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/alphas",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3cc37f806a5a0e9d618e80dff36af65fdb468ba1d9604355b8addd47bd8db2c5",
+        "reading_copy_sha256": "aecc92579887f808b6f7aa1a90e8f0be40e453d69d845a086c3e1dd8c7ac3fa1",
+        "joined_adjacent_bold_spans": 38,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 74,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системное описание",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/system-description.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/system-description",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e7fb1ad55db9c4906c280c95173ead25f48d5762f90dca14ac63aee2f40606d0",
+        "reading_copy_sha256": "a06f255b59019157a03de7b18d58e15dfc2d775974dc02ac36d8bf6cbf8e66c1",
+        "joined_adjacent_bold_spans": 56,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/38.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/38.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/39.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/39.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: описания, методы описания, предметы интереса описания, заинтересованные стороны",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/modeling-descriptions-description-methods-subjects-of-interest-stakeholders.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/modeling-descriptions-description-methods-subjects-of-interest-stakeholders",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "a0e628192f047520d565a520b47b79645cdcf2c5e975c5948ce566649639cd0c",
+        "reading_copy_sha256": "a0e628192f047520d565a520b47b79645cdcf2c5e975c5948ce566649639cd0c",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системное описание (предметов) деятельности предприятия",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/system-description-of-enterprise-activities.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/system-description-of-enterprise-activities",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6e908faa121d576d5e72faa314862daabf7308bf8ce3d137dce4048104f79fb2",
+        "reading_copy_sha256": "8aaf3df100bfba294c0033f2b547da8f2fb19466bfe5eaa1122b4bb329294659",
+        "joined_adjacent_bold_spans": 5,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/40.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/40.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системное описание, описание, метод описания",
+      "order": 19,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/system-description-description-description-method.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/system-description-description-description-method",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0cf4e56856012b7aa339f09b37571b8e7bd0f2b1810322f07527156aa6f91eb7",
+        "reading_copy_sha256": "879ae26b03d01f28c27287dde9e7e724b70730b27f1e8ab03897018762a2344b",
+        "joined_adjacent_bold_spans": 50,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Описания и важные характеристики",
+      "order": 20,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/questions-descriptions-and-key-characteristics.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/questions-descriptions-and-key-characteristics",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "1977112a1c0c0ee914c052a8daaef755e107f069cf933d16b47042febae2ef37",
+        "reading_copy_sha256": "1977112a1c0c0ee914c052a8daaef755e107f069cf933d16b47042febae2ef37",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Задания: мета-моделирование",
+      "order": 21,
+      "markdown_path": "docs/ru/professional/systems-modeling/how-to-describe-systems/assignments-meta-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/how-to-describe-systems/assignments-meta-modeling",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "889db0079947cc830549fe159bbdee330307a4a84abb71c947087a929895bafe",
+        "reading_copy_sha256": "889db0079947cc830549fe159bbdee330307a4a84abb71c947087a929895bafe",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Особенности системного моделирования",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "25da83b817e3419ea6ff4f667271f487cc90a39821c54b11072e8cfac9281ff3",
+        "reading_copy_sha256": "25da83b817e3419ea6ff4f667271f487cc90a39821c54b11072e8cfac9281ff3",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Описания и методы описания, модели и мета-модели",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/descriptions-and-description-methods-models-and-meta-models.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/descriptions-and-description-methods-models-and-meta-models",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b7ebcdf836de00ad56e854664d2916287eaa82402983bd8e6bf4257bae387b66",
+        "reading_copy_sha256": "75d2db9a6220a2c3d73944530f16d48137b2f5d00ce06369ee9b260e37149acf",
+        "joined_adjacent_bold_spans": 25,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: цепочки классификации (операционная модель, мета-модель, мета-мета-модель)",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/modeling-classification-chains-operational-model-meta-model-meta-meta-model.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/modeling-classification-chains-operational-model-meta-model-meta-meta-model",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "986494b1e6c730e297d2d4333fd6e568e31ba820404eb142064bfc27f1888c7f",
+        "reading_copy_sha256": "986494b1e6c730e297d2d4333fd6e568e31ba820404eb142064bfc27f1888c7f",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Системная модель, мета-модель, мета-мета-модель",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/system-model-meta-model-meta-meta-model.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/system-model-meta-model-meta-meta-model",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0ee26952e38b8f1c717fcb5e4834283fc27af08565b9622adf8bc15d066415e2",
+        "reading_copy_sha256": "011c24cbb102b2ad4c62355de1f7c56cc36a622150c2269cf95175baec6a606f",
+        "joined_adjacent_bold_spans": 12,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Мульти-модель. Мега-модель.",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/multi-model-mega-model.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/multi-model-mega-model",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c054f536c16c92bd94b5f6c14b0dbb8d69d44978d6c3d7a3867bd61a4078ac99",
+        "reading_copy_sha256": "75d86b06f0a9eab484ba3c42fa762392e209aac859f701e01f9699576ad8bfdd",
+        "joined_adjacent_bold_spans": 73,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Множественность описаний в системном моделировании",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/questions-multiple-descriptions-in-systems-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/questions-multiple-descriptions-in-systems-modeling",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "b05d37fe9045ad3a45ce140e72d02cbc5ec74321c08aa5aeb078e58757ccec8c",
+        "reading_copy_sha256": "b05d37fe9045ad3a45ce140e72d02cbc5ec74321c08aa5aeb078e58757ccec8c",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Понятие конфигурации системы",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/system-configuration-concept.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/system-configuration-concept",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0dbaa87c114548cf6f54adb96b26c39987c4ee52a3a269a82b2cee3535aa656f",
+        "reading_copy_sha256": "184ef6bd45712f3a4f3d927b82e7658d8b4cc19bad4c2afdecc54498c5257c77",
+        "joined_adjacent_bold_spans": 7,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Функциональные описания: принципиальные схемы и сценарии",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/functional-descriptions-schematics-and-use-cases.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/functional-descriptions-schematics-and-use-cases",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "51a4a60735a0b0b266e96674915affa1f0b8ae3e3637b4e35e654db7d6bc3746",
+        "reading_copy_sha256": "425f2d3f92c3c16227c8231bb1e80abfcefa4ae85ee1153aaf0c012760f0088f",
+        "joined_adjacent_bold_spans": 15,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/41.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/41.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/42.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/42.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/43.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/43.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/44.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/44.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/45.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/45.jpeg"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/46.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/46.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Конструктивные/продуктовые описания",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/structural-product-descriptions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/structural-product-descriptions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ca90ce7b9e5be20a91947c715dc85b60a18b633158bad01d874496bcbdedc4af",
+        "reading_copy_sha256": "40c63150935896aa58f7d88ed910451fc91325477e2db6eaf9e8278db8e4d48b",
+        "joined_adjacent_bold_spans": 12,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/47.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/47.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/48.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/48.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Функциональные, конструктивные, пространственные, стоимостные части — 3",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/questions-functional-structural-spatial-cost-components-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/questions-functional-structural-spatial-cost-components-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "32dca444074ccdc2c7b2a34e14042c185fad4bb7290b42f9666d281cd48c7a68",
+        "reading_copy_sha256": "32dca444074ccdc2c7b2a34e14042c185fad4bb7290b42f9666d281cd48c7a68",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Платформы и платформенные/инструментальные стеки",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/platforms-and-platform-tool-stacks.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/platforms-and-platform-tool-stacks",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "46955684160bcffb2044474e81163dd21c50bc6e226e0e76d6969225c24f7e35",
+        "reading_copy_sha256": "b5b08261dc7ea3ff0107811b18fad5dbb974ec9f4e9d18906730b5607cdc73ee",
+        "joined_adjacent_bold_spans": 20,
+        "converted_inline_footnotes": 14,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/49.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/49.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/50.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/50.jpeg"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/51.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/51.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: уровни платформенного стека",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/modeling-levels-of-the-platform-stack.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/modeling-levels-of-the-platform-stack",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "bbb1e1c4d4bd9fad5ed796312e18c155c81cbd52f79deadbc5e9ec8c4a0d33d7",
+        "reading_copy_sha256": "bbb1e1c4d4bd9fad5ed796312e18c155c81cbd52f79deadbc5e9ec8c4a0d33d7",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Прикладная функциональность против универсальной конструкции",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/applied-functionality-vs-universal-design.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/applied-functionality-vs-universal-design",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ff76c29c3ff5999a91eef03b6ac110fc24babf8ea3c451b915464c54c27039f1",
+        "reading_copy_sha256": "25a1ceb6d6febaeb89b3603ce36da43df7096ea8c6e9e59cec29563a36b03b5f",
+        "joined_adjacent_bold_spans": 76,
+        "converted_inline_footnotes": 8,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 82,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вопросы. Наличие описания функциональности",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/questions-availability-of-functionality-description.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/questions-availability-of-functionality-description",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "7e2a24a3293426bf647253472f7b96a71d646900b5598eb37a990f0b4618ad89",
+        "reading_copy_sha256": "7e2a24a3293426bf647253472f7b96a71d646900b5598eb37a990f0b4618ad89",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Оргзвенья",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/organizational-units.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/organizational-units",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6dd21c5f305869b9cdc4ed1f8ff726833f58791de174caf0b50f8d5c6f22a36a",
+        "reading_copy_sha256": "b32daa05c9cfa9ec38b11e67a5a77e19a8446ac216d82b6e6ec93bdc0baa6ba0",
+        "joined_adjacent_bold_spans": 2,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Моделирование: назначение оргзвеньев на оргроли, выполняющие практики",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/modeling-assigning-organizational-units-to-organizational-roles-performing-practices.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/modeling-assigning-organizational-units-to-organizational-roles-performing-practices",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "b1c1adb5392bb5f5db9ee1443ad4bf2288e0ccc99caa987ce46af2e3020adead",
+        "reading_copy_sha256": "b1c1adb5392bb5f5db9ee1443ad4bf2288e0ccc99caa987ce46af2e3020adead",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Необходимость хорошей модульности",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/the-need-for-good-modularity.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/the-need-for-good-modularity",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "259e9cd247c2dc9ca19e0f9079bea28de9603a8070905889897c44cb6b45fe6f",
+        "reading_copy_sha256": "c0bc291ff6e8cc49b784a2fb5c5c5894a3513236e26c7bdd99b823f60b0454ce",
+        "joined_adjacent_bold_spans": 8,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/52.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/52.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Борьба со сложностью в мышлении",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/combating-complexity-in-thinking.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/combating-complexity-in-thinking",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d8d85ea49c7e4ca43db0ee073a3669eb60479729d7e529c20e7cffa72236c531",
+        "reading_copy_sha256": "650f784ce141d14f6e780ca94aa478a82884dca7e3457a80cc1631bf90974309",
+        "joined_adjacent_bold_spans": 20,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/53.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/53.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Задания: системное моделирование",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/systems-modeling/features-of-systems-modeling/assignments-systems-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/features-of-systems-modeling/assignments-systems-modeling",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "661833f9b1f9697ef96a09cc2ee89343d095df2f5d75686d071dbb2448b30720",
+        "reading_copy_sha256": "661833f9b1f9697ef96a09cc2ee89343d095df2f5d75686d071dbb2448b30720",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Вместо глоссария: онтология системного подхода третьего поколения",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "d2b84c4ac60c4c461eb59cc45d503a41bee4e82d72cae5d7a5ee5995c9b84fb0",
+        "reading_copy_sha256": "d2b84c4ac60c4c461eb59cc45d503a41bee4e82d72cae5d7a5ee5995c9b84fb0",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Онтология системы как набор описаний для понятийного наведения внимания",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/ontology-of-a-system-as-a-set-of-descriptions-for-conceptual-focus.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/ontology-of-a-system-as-a-set-of-descriptions-for-conceptual-focus",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "72ca96b9bf924bce0f3cbb20287b6985c6d1ac29b55170c9b198fee38f9d108b",
+        "reading_copy_sha256": "80ac2dca65c778145ef797b47025d09f752373c9576b9c30bb9434f59c4931ad",
+        "joined_adjacent_bold_spans": 11,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Первое поколение системного подхода: система в её окружении во время operations/эксплуатации",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/first-generation-of-the-systems-approach-system-in-its-environment-during-operations.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/first-generation-of-the-systems-approach-system-in-its-environment-during-operations",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3feb3cf5f44bb8ba4f7344cd7f621e35d4a9e28a5565c744501330ffdef7628b",
+        "reading_copy_sha256": "c2a1f93e1c7d180efed24c458fc64fc0ec44177351a1b6b984cdb745c942ab7d",
+        "joined_adjacent_bold_spans": 1,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Второе поколение системного подхода: целевая система в её окружении, которую создают системы-создатели в их графе",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/second-generation-of-the-systems-approach-system-of-interest-in-its-environment-created-by-system-creators-in-their-graph.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/second-generation-of-the-systems-approach-system-of-interest-in-its-environment-created-by-system-creators-in-their-graph",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "be6a5a2d825edf89051ba1b76d85da95b171c261fae9a99b4b57d9fd24cff0f0",
+        "reading_copy_sha256": "22595cbd4ed3f18771be34f090df9e1cb5d0d20ff7608d88718310a504208ff1",
+        "joined_adjacent_bold_spans": 6,
+        "converted_inline_footnotes": 12,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Continuous everything в инженерии как техно-эволюция",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/continuous-everything-in-engineering-as-techno-evolution.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/continuous-everything-in-engineering-as-techno-evolution",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2a7650b0e26ac0429de588865df1e1c1d5f326bd32168d3ba7d2a4b4fcbcb7c1",
+        "reading_copy_sha256": "83633eec19a90cb0f02ce4047e49bbd6dc20bdf104be11a83abb0f98d0eb7217",
+        "joined_adjacent_bold_spans": 17,
+        "converted_inline_footnotes": 10,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Безмасштабные описания физических систем",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/scale-free-descriptions-of-physical-systems.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/scale-free-descriptions-of-physical-systems",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e4efccb4504132b6462c0668a147ab1ee94987775efe4aaafa06086dcb23758e",
+        "reading_copy_sha256": "c2a2ada295abae662e582fde8fde35161349ba3b44d4c5bf261fb19e99a577ad",
+        "joined_adjacent_bold_spans": 16,
+        "converted_inline_footnotes": 8,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Конструктивизм: системы выполняют операции как с физическими объектами, так и с абстрактными объектами",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/constructivism-systems-perform-operations-on-both-physical-and-abstract-objects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/constructivism-systems-perform-operations-on-both-physical-and-abstract-objects",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "63b254dbf7193dc7d70360f896d28690bdb24c069e3808250fd9f4c7eca5dab8",
+        "reading_copy_sha256": "6b5297ab3891ac9ba45a4347384dd14309a4892f9cb029f6367c0706db1d1198",
+        "joined_adjacent_bold_spans": 7,
+        "converted_inline_footnotes": 11,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Третье поколение системного подхода: учёт времени эволюции",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/third-generation-of-the-systems-approach-accounting-for-evolution-time.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/third-generation-of-the-systems-approach-accounting-for-evolution-time",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2434ac17abbd0728557c51e9bb3f09900661de92ab56dfce45194b81175bcbad",
+        "reading_copy_sha256": "ba4c1dc1f9007209bfb1ef8077b237dba82369fb55879c67aa3b5881b9edde4d",
+        "joined_adjacent_bold_spans": 17,
+        "converted_inline_footnotes": 9,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-modeling/54.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/54.png"
+          },
+          {
+            "source": "/ru/professional/systems-modeling/55.png",
+            "reading_copy": "../../../../public/ru/professional/systems-modeling/55.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    },
+    {
+      "title": "Что дальше",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/what-s-next.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-modeling/instead-of-a-glossary-ontology-of-the-third-generation-systems-approach/what-s-next",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "25b4621259e0dd28c0e433acde6a3356c0cd6b0f48666d4c48452ed889744f82",
+        "reading_copy_sha256": "69b4bbddeba0b43951121efc758fe666c1388b2a938dafd4200c5288d84f6937",
+        "joined_adjacent_bold_spans": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "adjacent_italic_boundaries_joined": 0
+      }
+    }
+  ],
+  "formatting_totals": {
+    "joined_adjacent_bold_spans": 1634,
+    "converted_inline_footnotes": 279,
+    "strong_spans_using_html_for_github": 627,
+    "adjacent_italic_boundaries_joined": 0
+  }
+}

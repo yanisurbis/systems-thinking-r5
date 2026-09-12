@@ -1,0 +1,2792 @@
+{
+  "course": "R7. Методология",
+  "author": "А. Левенчук",
+  "language": "ru",
+  "verified_at": "2026-09-12T11:42:46.532688+00:00",
+  "upstream_repository": "https://github.com/aisystant/docs",
+  "upstream_commit": "b9989a2bf229510ab66304c0a44f86a5f96689de",
+  "upstream_commit_date": "2026-08-31T16:24:40Z",
+  "acquisition": "Selected publisher Markdown and referenced images from existing native GitHub fork; local Git objects processed sequentially.",
+  "scope": "Russian R7 book pages, chapter navigation, referenced images, reading index and provenance.",
+  "version_note": "Official public Markdown snapshot; exact equivalence to a dated Aisystant interactive edition has not been verified.",
+  "coverage": {
+    "content_page": 76,
+    "workbook_placeholder": 34,
+    "navigation": 7
+  },
+  "assets": [
+    {
+      "path": "docs/public/ru/professional/methodology/67.jpeg",
+      "source_sha256": "82dd5911812fae80fccf8d81e5a25369a34fc4f7ef167000b788115a09aa9f9b"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/68.jpeg",
+      "source_sha256": "62622de236af104cb1ec75c12009be4c61651b6b6abd75d0b4d08f4bfda48381"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/66.png",
+      "source_sha256": "70b921e33b1d738c363be479af61c463b5980865d2470b45e6b91e3a27055122"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/63.png",
+      "source_sha256": "f99a097644e610e855498bd0e43ea2b92cef47e2761c97925a303f3c33877976"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/64.png",
+      "source_sha256": "00da2715297556120243cfd1ef638ba0eccf96f139dd33a55c94878abe81a2c7"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/65.png",
+      "source_sha256": "54396250d0bcea7e8ba4db344f050eb3c50b5966cea9520e5e4084ebd78c8697"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/69.jpeg",
+      "source_sha256": "268c8a816b4ce6721cf691ddf3c1954c9d283feb2612106ccf7168b76d94bcfb"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/62.png",
+      "source_sha256": "e2b106810d2814cbe6621641383d83d0bcff3e0fd9af904c779507a52f266c26"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/20.png",
+      "source_sha256": "479d28e4902ceae680029fd17ce70baeaa0f68ba6457784fa4e7f0861755625f"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/21.png",
+      "source_sha256": "0faf9067fed9f9607bff13cde87ed6af1a9abbe3073a590f361d8259b96534ae"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/39.png",
+      "source_sha256": "f021246f306bcc4c64e41b541f937223c5d117531e6e2a55cd1814192ba77348"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/40.png",
+      "source_sha256": "a3311072ff91704fa488b6cdfe3ff79d6468c1f826d0662c97554cf8df9bfbc8"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/33.png",
+      "source_sha256": "3e6a5dcb812bc1907e0d336a8993fb1638d5b9044b2e0a5060a92d836f0b63f1"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/34.png",
+      "source_sha256": "5ee2bfc2226d75e8d329efc5e2f4c29b3c8192ace244a6700c5930121a5f04d9"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/23.png",
+      "source_sha256": "cdaa6bfd717f08f0353983b83b2dbcc8cd3197689be4cfd9d9a846e650f6619c"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/35.png",
+      "source_sha256": "0a0a759bf4be25f27e117f3e95f88beadcab24e981449b7b7a5f8f59c59c413d"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/36.png",
+      "source_sha256": "54f98334e0c062a24cfc7ec974a0c1f65173ae721ec0a48b635f36af361fac22"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/31.png",
+      "source_sha256": "74ea3bcfef5149db4f3dc5b50b93373be448c6f9e4a83e6e5ce932d409a6dca8"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/32.png",
+      "source_sha256": "cd777846eadf0c3c7aba01c04b16fa6f5a4b05f16b5fec911707bc78f68fe7bd"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/24.png",
+      "source_sha256": "add8efd406168163d5df83e82b21dfb2cf4eea65f4ac3ad8a8e31c8309f37523"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/25.png",
+      "source_sha256": "923637ec189e1c239c7451baa62a8e494cd33295c0cc7fd9cc50fa48d6dbea07"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/26.png",
+      "source_sha256": "856db6902c5e9595c3dcd07fbe0538aec3aaca963224f4cc978bf540aec1c539"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/27.png",
+      "source_sha256": "a7ffc5cf7b9324ec6d2fd97547c0faadf1f2ff4a4e9bcfe188bbc8a581749701"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/28.png",
+      "source_sha256": "bc89f16a7d7b307cd630b2b86e4cecf136ff323dd45a3bfbc1dcec3cf3bff8d5"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/29.png",
+      "source_sha256": "9033e1b61c927be6fdee9f143256e1284518e1b04344a27f9158ea2b262a34ae"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/30.png",
+      "source_sha256": "9e73f1757e0fda25e2ed15dcc9aaacc16eb2a00db5cf3a0ed2076949145b1a87"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/37.png",
+      "source_sha256": "1132437215bc7ed8fe7788924a4608149dac5a27d324e97e9c7e3e64d141a121"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/38.png",
+      "source_sha256": "cb3181f7449314321d462fd0f2859875d72fd3b5b59e4575587725a3d9a4b462"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/22.png",
+      "source_sha256": "8dd8847918d3fe74bdaf7156037cb4f69e3da47e6283887d096797874072ae0a"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/48.png",
+      "source_sha256": "453d23be74541cbec3e36a5e69ca3e44ccbe0d215db50b0587a9232ac94471fe"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/49.jpeg",
+      "source_sha256": "8be0bd2b72bb2ec2e96e907bcac032a7a69a536964cca24bc15e08109cddb8e0"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/42.png",
+      "source_sha256": "d0ffeb6150719818748487a6c365eaa866f989a007b46076755b09d10d8ae160"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/45.png",
+      "source_sha256": "a3c45858cb03aa7f14f6d97149f45f170490b3569fed7b0a71cd36c404f7ea96"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/46.png",
+      "source_sha256": "7448bb81c26d3c03c552f8e4550a8608afe28909062c3ced7f2e5ac26d5aeec5"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/47.jpeg",
+      "source_sha256": "1679c720456adfb2a0036a1988e8bea88e8e5c3179abcc73ea7d384e0abf3af4"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/43.png",
+      "source_sha256": "1b0f7d4dac86abe940613bc6f6cf1ad0c97a7c7efa5c8b33a39b3d6bc716ce0a"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/44.png",
+      "source_sha256": "d2d8f513e89dac648acaaaf21878c303ad23605aaa0a369a8cf310a4585a824b"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/41.png",
+      "source_sha256": "ec7a041a2ff78cd6c76009dfd56aeac9bf458a06b909b7ca97278a9be51bf136"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/55.png",
+      "source_sha256": "f33ea1ee10d3a3f2d0caa136845bbf5a1e2a50c99e1736114de919f96787a370"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/56.png",
+      "source_sha256": "710dd2932f154e8bcabc2f7b1e6456363df6cdc4da3a9ee8f0b021001c6c4a7e"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/57.png",
+      "source_sha256": "3de37536a7bb5c8994695bc8c19673d9c457c4c0dd4c04dcb6bb5bd05d2c440a"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/58.png",
+      "source_sha256": "8d81edd51453f079379b7e231da5c481316531cdc6408472876441dbc81e1096"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/59.png",
+      "source_sha256": "df9ccf8aa57e46dd68bb189574c125ad37f6eb502716ea170c94699002d27d13"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/60.png",
+      "source_sha256": "4588550ff82c3052adf36c7f146774eed773a03b34c13681710d8788d5ef7b59"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/52.png",
+      "source_sha256": "c1b413ba2d48c51e4cf590003ea936d93ccaad6e544125dfe6e51b0af418096d"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/50.png",
+      "source_sha256": "71325429c38d8609e5f3d9f6563fe2b6c0ce8263faf94ed1ecc6562ffa1e4bda"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/51.png",
+      "source_sha256": "594aaae983250fce328b4e5293e068e1aa0f510c36aed1a0a24986ddf3bd86a4"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/53.png",
+      "source_sha256": "aacf2446d40c58fb4fe08f70f2a8c80a828ab0eba7c682dc1e7d8e5c7506af79"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/54.png",
+      "source_sha256": "71f3cb8941b752e2c1a870ccc81e4635b6dee094b8162a8038fa9bdf421b21a2"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/61.png",
+      "source_sha256": "15bf51c756fa633720a33fb101277ad1b40cdeda290526a23e4f5b2627bd4270"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/11.jpeg",
+      "source_sha256": "5e3e2c7cd0d588851623904151ce42f9eb9f6c649c793fd207e154092ea3a77c"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/15.png",
+      "source_sha256": "e1be4e4e1815e88f46f75a3632ab602ad174725eb04a90cb1a19e6643e9076ee"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/16.png",
+      "source_sha256": "01003b905d53d5313fe9e8f581a43ee9f434db4f7a6fc7fac4d33f34002e3463"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/17.png",
+      "source_sha256": "5398202028743629d95cb8e5476f2bc393c16ffdc6047417155c8db75a73b851"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/18.jpeg",
+      "source_sha256": "6b4a59a129e4ca8ea0dc5b0bf9c33d21d0023029e918d6731d4938dc342e0adc"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/19.png",
+      "source_sha256": "42ce23b2155b1c8dd9fea3d4e52f2c87ddf5d617c0dd0c22e1f41a02b2352719"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/1.png",
+      "source_sha256": "1548703efceaf87a158153c8722c63785c88f6646e34f36071cfa3f79be30bdc"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/2.png",
+      "source_sha256": "d60577b66df7ea70e4059e3fc79754ddaea89a1cf6ef836bf25d6a8111a5cfb0"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/3.png",
+      "source_sha256": "cd27c8546cc3dbc7a4b7d3493e564721cd3befbe33d4fb21ec61b0812ac7bbcf"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/4.png",
+      "source_sha256": "b58b8d14f0215231d4e7e8e19804382aef32e926774a202f0d57c28095080fa1"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/5.png",
+      "source_sha256": "bb319bd1ff2fb31a91a708fc457bc9fd770643ad51858f2961f1647343c159eb"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/6.png",
+      "source_sha256": "ea6cb0dbedbb84e2459719405700dd42ddfeb10c1c239d7c4f5f511c59427a30"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/7.png",
+      "source_sha256": "9be50752041d80a88423d3f87b6ba256f0b54f98174b45d9add05e8da573e9ee"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/0.png",
+      "source_sha256": "3a0166364c3a4fae173a4208b138b4fee335c85c447491c48f29461a75bdb52d"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/8.jpeg",
+      "source_sha256": "d59269f8cb00086aa778604b04926598c4927726ea5f6b36126cd8de43728c62"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/9.jpeg",
+      "source_sha256": "c2ba8d39db5b2d0d1e3a84d8510e1aa4f294d6486bd1e9019b2f43edc5d51d8b"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/10.jpeg",
+      "source_sha256": "70a06d6730da580aca0f9d43e66dce44edd1479fb99b975e9324c88443703c05"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/12.jpeg",
+      "source_sha256": "6d9a652fcd895f7147dc2b043ed2eb38a298c52afb10fbb954931dd6346cd3a5"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/13.png",
+      "source_sha256": "43a7bc726c455c3ac9de3b31ea399e434d5fcc0dcdb76ed90626f738fb84740e"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/14.png",
+      "source_sha256": "76918094f45721b04f666caf3473346207991f52dfa9ed430b49fb7bf25981fc"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/93.png",
+      "source_sha256": "8873dd8c72ebbdb626bfcce42c32445a7cf5e1d3cafd5ff9dd3bf98bee2b3435"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/94.jpg",
+      "source_sha256": "70dc0e3d2a1daf30212476d71f0f1299ab38ca2a82bdf0ccb13a4696139e059e"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/95.jpeg",
+      "source_sha256": "a95056c08de7040bd60ee0e51c912607e87c8229076847a8c1755ace4a733496"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/99.png",
+      "source_sha256": "24097110be08d1441128b2ce289708d684328349e8e56ed4fb85c5aa9985bbfd"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/100.jpeg",
+      "source_sha256": "54add0221a058a204ac9f1f6fc963dd4cfd6b6345f7796a7188ddfb6959d7ad3"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/101.png",
+      "source_sha256": "22b4341b14c6d72543cef128d9c71a364bf66f099b79b3db39b0c2a5009ec581"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/75.png",
+      "source_sha256": "d7258d7d837f65284b1f1d5d7b0f9e3421622f6cd19648c90b7b0e8d91179b3d"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/76.png",
+      "source_sha256": "a8c6f1e92b2ed2f85323988403f4b5472a26a9d1e854393ef932087b58d84b91"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/77.png",
+      "source_sha256": "71b822b75803b41dfce57b0b1fb54aaf6c9065d27bfafe1a39b5786f84abe28c"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/78.png",
+      "source_sha256": "5255064da3dbba1aa0c9ba8f3a77cd2d4fd32bcae228582b7b406e061db5314b"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/87.png",
+      "source_sha256": "e02a5e1633ad1a800ce9b00ac5a6c57258b46a2a67256952695bd9a01b27a19b"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/88.png",
+      "source_sha256": "328a2194bcdfd64eb49c1fe278496a73622b523e5ea3e73475852aa4a6ced86d"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/96.jpeg",
+      "source_sha256": "285141f581939e0d219609741e3822eef28ed144fd8186938743eab978a2c641"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/97.png",
+      "source_sha256": "6840df0b55d43c24ff8b8adc7dd2ef312bde630b1e7ee9c5ac1ac2d564bdf2f7"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/98.jpeg",
+      "source_sha256": "cb9c7f1a385884034b1365ddd8e3bdd48cce2fd07328a14fef0b360e7841c121"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/82.png",
+      "source_sha256": "61955bdc34fdc73ebc43d4f3c674edf419d736b44c741a5ff856b94aa6f52bd4"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/83.png",
+      "source_sha256": "3ac0fdf3efd824605810ad2ce9f3685e7fc6354c95657421f49f477e373dcd80"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/84.png",
+      "source_sha256": "96462187f3d8ff248a9847c8b42d1f4f64b373e1b3d563d507ac825eb0fbac97"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/85.jpeg",
+      "source_sha256": "f008054a5822d0b37ddc29b1f0c2716b574ff5d922f8075d612827d2b33b749f"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/86.png",
+      "source_sha256": "85d9afcfb340d0c108511022e328d33c01b154e45d1e92ee97c465d7969bc562"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/89.jpeg",
+      "source_sha256": "5e204bb40c4f886fed389becfd961812da4ee76f5a27e772e9d137a1153c75a3"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/90.png",
+      "source_sha256": "a08cd9213b5074911ff9a6022b40b1a96c2167579caed122eeb13674d2d0caff"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/91.png",
+      "source_sha256": "04c3e97375cb1600e5a29a7344117523d12ff51cd3f19f2911a1ab0be93491a3"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/92.png",
+      "source_sha256": "9bbac94e57118ba92473a4e5099cd8f87f9dcf30c42f08c6ac618391a6e4f16c"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/70.png",
+      "source_sha256": "fd61bbe96c36d605a2de331a92b70a0a3ff5e29f339adc24f093250a9666c466"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/102.png",
+      "source_sha256": "aa48e63d5104e37cd644d7f5f6afbded43b70b4150f11fef127c85b5c1c8c5e1"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/103.png",
+      "source_sha256": "6ebe79d93485a3a29572a263dfdab63101c5cd9f1e48e6e55aa6e7c129658f48"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/104.png",
+      "source_sha256": "8fdb7c2477ef478b81cc76fb073b76253f56837c23d4b0544db3c4f8aab487e8"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/105.png",
+      "source_sha256": "797b2437e2905b875a8f34d476aab7571cecf3900f026d5ed86901c84d1cdc8e"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/71.png",
+      "source_sha256": "809b0148d93130e0f41260d9d86f231ded6ed8e92e59e40eec58c1b709e8293a"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/72.png",
+      "source_sha256": "1fa6886d1b17242f3c789e7944ed9f6ebb9006c8b273d54bf275c4c59569cbde"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/73.png",
+      "source_sha256": "9b608997cae4a1c257dfc54551975f7fa5892b6a69c209438e9233276f3e5fb0"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/74.png",
+      "source_sha256": "daf485e58c440cc90e5ab293380b28819187aed378a4d4db6269c218354507ae"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/79.png",
+      "source_sha256": "3ce2c12c9851300b58a23a010e575fef6a696123b47f7f2852abfca753f91984"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/80.png",
+      "source_sha256": "f5671bb9e885b0f9b9281e0b04adffc57d9ab232a988f14d6fdd0f8c1c33c322"
+    },
+    {
+      "path": "docs/public/ru/professional/methodology/81.png",
+      "source_sha256": "6b0378b1393fe57ea335368fd6a0408f0e7be0a1488df7d1fef889049ed9f979"
+    }
+  ],
+  "pages": [
+    {
+      "title": "R7. Методология",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/methodology/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "4021331f08429be82c7a06d0bd6fe942d289a914708aea3a4b7a2dd5eec2a600",
+        "reading_copy_sha256": "4021331f08429be82c7a06d0bd6fe942d289a914708aea3a4b7a2dd5eec2a600",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Введение",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/methodology/introduction.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/introduction",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c10022754073696c95789ac816ed8a586bbdb964090c1615c2a94938b40910fa",
+        "reading_copy_sha256": "c10022754073696c95789ac816ed8a586bbdb964090c1615c2a94938b40910fa",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Методология как фундаментальный метод мышления",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "ec85ba09b2713c44c3f880a6c2299150902f3248ad0021063e101d4cfb06a0a6",
+        "reading_copy_sha256": "ec85ba09b2713c44c3f880a6c2299150902f3248ad0021063e101d4cfb06a0a6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "О чём будет, и о чём не будет рассказано в руководстве по методологии",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/what-the-methodology-guide-will-and-will-not-cover.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/what-the-methodology-guide-will-and-will-not-cover",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3b8e584a67db2feb4772ea7d7127d1f9c2092c05b509daa1bf7dd1f40056cf28",
+        "reading_copy_sha256": "bab9769fd0f50ff130e2fd4e2e3456c9e7f31219cc7b576103016d29adf9c4ac",
+        "joined_adjacent_bold_spans": 7,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: онтика методологии из руководства по системному мышлению",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/modeling-ontics-of-methodology-from-the-systems-thinking-guide.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/modeling-ontics-of-methodology-from-the-systems-thinking-guide",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "47f8c162aeeb684018b775562f1d1abaa39bdcae590b69d8dff2a18d5f1c95ce",
+        "reading_copy_sha256": "47f8c162aeeb684018b775562f1d1abaa39bdcae590b69d8dff2a18d5f1c95ce",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Фундаментальная и прикладная методология",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/fundamental-and-applied-methodology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/fundamental-and-applied-methodology",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "eabbd4cbe70e78c4d843341c8321a767d158cb524e3ba5d9124edca7d72ce289",
+        "reading_copy_sha256": "2b0164b44d960249d0657f643adafbfe140dfd3ae7f8543f6dd1ff8595cf4e0a",
+        "joined_adjacent_bold_spans": 9,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 17,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Понятие метода",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/concept-of-method.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/concept-of-method",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6b933ec17cdb0bc18bb2b2027b495e847b556b914cace87b394ca9317e5d76d8",
+        "reading_copy_sha256": "6f326e7e21414629e04a33599c123ef5fb3359664ff4e049999e79669aab1f8b",
+        "joined_adjacent_bold_spans": 19,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Зачем изучать методологию",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/why-study-methodology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/why-study-methodology",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a534a522a15ec008689cd145510ab9dff18d544c355ab9ea3912878404ce6040",
+        "reading_copy_sha256": "a534a522a15ec008689cd145510ab9dff18d544c355ab9ea3912878404ce6040",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Методология в интеллект-стеке",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/methodology-in-the-intelligence-stack.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/methodology-in-the-intelligence-stack",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3a57f8e85bcd83c1371d3ac10eb38a31dc2c1e26cbec82e8d57eabc309d9f70d",
+        "reading_copy_sha256": "ae1f5f63c97be372a7477d72152fe0d98bc10739240ccf5388cb9b4f0614590a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/0.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/0.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: выбор метода",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/modeling-choosing-a-method.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/modeling-choosing-a-method",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ab0d5cf4671c3a06b0f08e79bc8eb50b082f3cf950b28fb73f9f3e417f3c5085",
+        "reading_copy_sha256": "ab0d5cf4671c3a06b0f08e79bc8eb50b082f3cf950b28fb73f9f3e417f3c5085",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Метафора разложения метода в стек. Спектр мастерства по стеку методов как спектральной шкале.",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/metaphor-of-method-decomposition-into-a-stack-mastery-spectrum-by-method-stack-as-a-spectral-scale.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/metaphor-of-method-decomposition-into-a-stack-mastery-spectrum-by-method-stack-as-a-spectral-scale",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "36c8e7557580ee0aec4ef63cb96172e5728d7a73c9cdb48b84e0ce9209eb4dc2",
+        "reading_copy_sha256": "6a186c9ba2a0ec43acb3c669624bbe52b081a3007e6afed042fb4f0699bb9b3a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/1.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/1.png"
+          },
+          {
+            "source": "/ru/professional/methodology/2.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/2.png"
+          },
+          {
+            "source": "/ru/professional/methodology/3.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/3.png"
+          },
+          {
+            "source": "/ru/professional/methodology/4.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/4.png"
+          },
+          {
+            "source": "/ru/professional/methodology/5.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/5.png"
+          },
+          {
+            "source": "/ru/professional/methodology/6.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/6.png"
+          },
+          {
+            "source": "/ru/professional/methodology/7.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/7.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: разложение культурного движения в стек",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/modeling-decomposition-of-cultural-movement-into-a-stack.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/modeling-decomposition-of-cultural-movement-into-a-stack",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "387d9380ac74024604a096008ac7eaccdbb0dfeb2e15fb95a8be89e8799f61cc",
+        "reading_copy_sha256": "387d9380ac74024604a096008ac7eaccdbb0dfeb2e15fb95a8be89e8799f61cc",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Представление разложения метода деревом",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/tree-method-decomposition-presentation.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/tree-method-decomposition-presentation",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "88b48cb84f8ec795603b0cca42d0c05d57fb928e91c885e3df2364e8785a222e",
+        "reading_copy_sha256": "c5406a0a412cb2509b53b8cebf87a226668e4399b88b3733855bc11e525013bf",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/8.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/8.jpeg"
+          },
+          {
+            "source": "/ru/professional/methodology/9.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/9.jpeg"
+          },
+          {
+            "source": "/ru/professional/methodology/10.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/10.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "«Схемотехника»: представление метода работы графом потоков.",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/circuit-design-presenting-the-method-of-flow-graphs.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/circuit-design-presenting-the-method-of-flow-graphs",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "70a65d54a7743c41cd9494272114c5c37d6463a3ac16972a7c601783cef9c0ce",
+        "reading_copy_sha256": "42101dae20b3d6b363c8477599777a3d02dc99a626fae03173d39ebff8dfde70",
+        "joined_adjacent_bold_spans": 3,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/11.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/11.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Виды физического системного моделирования: функциональные диаграммы есть, но вместо них может быть компьютерный код",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/types-of-physical-system-modeling-functional-diagrams-or-computer-code.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/types-of-physical-system-modeling-functional-diagrams-or-computer-code",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "510f3fbe0c8f42b52a0210005a788b991b95cc9cc7e9fb8b2e184193b8f7a3c1",
+        "reading_copy_sha256": "aa15a51d5eb2d9eece2e778f122824bc548d75dc118068b7810ca52025e51a92",
+        "joined_adjacent_bold_spans": 5,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 14,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/12.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/12.jpeg"
+          },
+          {
+            "source": "/ru/professional/methodology/13.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/13.png"
+          },
+          {
+            "source": "/ru/professional/methodology/14.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/14.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания: принципиальные схемы",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/assignments-schematic-diagrams.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/assignments-schematic-diagrams",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "90b871af144843f977719c8faf42e4f3a1d329da2a51cca26d08089ecb7ca806",
+        "reading_copy_sha256": "90b871af144843f977719c8faf42e4f3a1d329da2a51cca26d08089ecb7ca806",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Пример: методы создания систем AI",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/example-methods-for-creating-ai-systems.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/example-methods-for-creating-ai-systems",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4871261f108cfe804bd98a346d650fb06d9117fe54bbcaee64596aab70fc84f1",
+        "reading_copy_sha256": "c1a5969ea44cfe99e3d098fc41e180db5ba943c55634bc2bae1c86cda257b21a",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/15.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/15.png"
+          },
+          {
+            "source": "/ru/professional/methodology/16.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/16.png"
+          },
+          {
+            "source": "/ru/professional/methodology/17.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/17.png"
+          },
+          {
+            "source": "/ru/professional/methodology/18.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/18.jpeg"
+          },
+          {
+            "source": "/ru/professional/methodology/19.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/19.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Представление метода работы как алгоритма: методология как алгоритмика-на-стероидах",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/presenting-the-work-method-as-an-algorithm-methodology-as-algorithmics-on-steroids.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/presenting-the-work-method-as-an-algorithm-methodology-as-algorithmics-on-steroids",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "8117e188d09e4d428e613e6ff3a698e6a1dad6bfeaec1728a0bb28ea50df724e",
+        "reading_copy_sha256": "09b4962bf8ac3f9adff518158370c94f728383a3f463658779d9c8378011bd0e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 20,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задание: разложение метода вашей работы",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/assignment-breakdown-of-your-work-method.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/methodology-as-a-fundamental-method-of-thinking/assignment-breakdown-of-your-work-method",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "4a6002339dfc776e10c00c7339b5970bd297b9c0bec90d6c71d917df438156fd",
+        "reading_copy_sha256": "4a6002339dfc776e10c00c7339b5970bd297b9c0bec90d6c71d917df438156fd",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Создание и развитие: не жизненный, не цикл",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "9972d52beacb7cb9ef707e2c5ec452a34142d1356a5347db8129a92c5ed7a0f1",
+        "reading_copy_sha256": "9972d52beacb7cb9ef707e2c5ec452a34142d1356a5347db8129a92c5ed7a0f1",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Биологический жизненный цикл, нулевая версия",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/biological-life-cycle-version-zero.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/biological-life-cycle-version-zero",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "057b7c51db04d4b15693f5a9bae1f305b47ab933d8d119ac42f16669e3c39e14",
+        "reading_copy_sha256": "40ce0c62650943295de649accacc760fa6cac41a6df79099ff64ccb41f12e2a1",
+        "joined_adjacent_bold_spans": 5,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/20.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/20.png"
+          },
+          {
+            "source": "/ru/professional/methodology/21.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/21.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Жизненный цикл системы 1.0: работы, меняющие состояния целевой системы",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/system-life-cycle-1-0-tasks-transforming-the-system-of-interest.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/system-life-cycle-1-0-tasks-transforming-the-system-of-interest",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d96b0e253a44c6f926239bdb0908f27be630862313ad44ec7639848573a99031",
+        "reading_copy_sha256": "b908c78cb0950d769e3a228ff780d98e07f3bb1f4592a60dd94b3c29e1dc408b",
+        "joined_adjacent_bold_spans": 16,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/22.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/22.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 31
+      }
+    },
+    {
+      "title": "Операционный менеджмент и методология.",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/operational-management-and-methodology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/operational-management-and-methodology",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4f69f254b92575aa23958a8823e10a410544ea7336a1872d7724bd13ddabeb07",
+        "reading_copy_sha256": "178c83596242f81e34e83b687023b12bd622323bbf1451d19340ee96fbc36dfb",
+        "joined_adjacent_bold_spans": 19,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 36
+      }
+    },
+    {
+      "title": "Жизненный цикл 1.0 — это работы создателей над создаваемой системой",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/life-cycle-1-0-the-work-of-creators-on-the-system-being-created.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/life-cycle-1-0-the-work-of-creators-on-the-system-being-created",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4e6383fcbbecbe0e4a7884b4d14a6916aa42ef9f109dc6c7ab6376019fc85382",
+        "reading_copy_sha256": "f87d1e0b61dbba2c1a190718adf8e3bd9da286cba65ff5327cdbfa71b34e1eff",
+        "joined_adjacent_bold_spans": 37,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 6,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/23.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/23.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: предметы кейса, их состояния, практики достижения состояний",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/modeling-case-subjects-their-states-practices-for-achieving-states.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/modeling-case-subjects-their-states-practices-for-achieving-states",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "881eb12ab5a7a2c4e0084ac013d4592ab2dcf28432aa2f763ef9ab777e4523f7",
+        "reading_copy_sha256": "881eb12ab5a7a2c4e0084ac013d4592ab2dcf28432aa2f763ef9ab777e4523f7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Управление последовательностью работ",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/managing-work-sequence.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/managing-work-sequence",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5881aaf6532d0e7058a99ad9f062dcb7179472320ade3eed0524f2ec02347cbd",
+        "reading_copy_sha256": "193038f5667d30e96e8aac07ae34fd35a1505551e07f66cb0884aa4e6524e02a",
+        "joined_adjacent_bold_spans": 96,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/24.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/24.png"
+          },
+          {
+            "source": "/ru/professional/methodology/25.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/25.png"
+          },
+          {
+            "source": "/ru/professional/methodology/26.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/26.png"
+          },
+          {
+            "source": "/ru/professional/methodology/27.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/27.png"
+          },
+          {
+            "source": "/ru/professional/methodology/28.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/28.png"
+          },
+          {
+            "source": "/ru/professional/methodology/29.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/29.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Жизненный цикл проекта",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/project-life-cycle.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/project-life-cycle",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7fbe144dba027a9a29f1987b3ad2cd6d81795d7e67ba8225c2212f87d81eb2ba",
+        "reading_copy_sha256": "852e9608a33b084b31c5d7fb8d34071904984c28a367f5b9e59d59f2a99ef758",
+        "joined_adjacent_bold_spans": 16,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/30.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/30.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 27
+      }
+    },
+    {
+      "title": "TEST Жизненный цикл 1.0",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/test-life-cycle-1-0.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/test-life-cycle-1-0",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "6cfc91ac51a99c50a31ffc8058909424619caece1ac22e758a4b88954ae39204",
+        "reading_copy_sha256": "6cfc91ac51a99c50a31ffc8058909424619caece1ac22e758a4b88954ae39204",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Проблемы с жизненным циклом 1.0",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/lifecycle-issues-1-0.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/lifecycle-issues-1-0",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7afbf276fe5b8a8a091d5a11acd308bb145bc900c69fc8855afee8dc5c95cd84",
+        "reading_copy_sha256": "982e5a36974582156fd7e5524780cb4f22c9ea22f93c72926fed0cbf505dad56",
+        "joined_adjacent_bold_spans": 43,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 6,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/31.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/31.png"
+          },
+          {
+            "source": "/ru/professional/methodology/32.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/32.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Провал водопадной модели жизненного цикла",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/failure-of-the-waterfall-model-lifecycle.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/failure-of-the-waterfall-model-lifecycle",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "effe020dc7908503bfc1eeea6144325b72a018e86e79e05b929ee55384bf0bb6",
+        "reading_copy_sha256": "95e661c6a94164e6be0b1c7e8c8d76dca076515a6f1c81a52b0653c565f234ab",
+        "joined_adjacent_bold_spans": 43,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/33.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/33.png"
+          },
+          {
+            "source": "/ru/professional/methodology/34.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/34.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Жизненный цикл 2.0: от стадий работ к методам разработки",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/life-cycle-2-0-from-work-stages-to-development-methods.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/life-cycle-2-0-from-work-stages-to-development-methods",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "dde891786e6ae0bd6430f34a24254d357b015165b3add789e9361733f43d86ce",
+        "reading_copy_sha256": "3e93faac0623c85f72f7bd59d404833a6d6f991951e70ef8246df302f7d24131",
+        "joined_adjacent_bold_spans": 30,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/35.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/35.png"
+          },
+          {
+            "source": "/ru/professional/methodology/36.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/36.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Время эксплуатации: пример человека",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/service-life-a-human-example.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/service-life-a-human-example",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c6f894b4257211ea6568a214440d2cbdeaa507d23b8bad56f18d5e2ab3f6b792",
+        "reading_copy_sha256": "4c922a56fe7f60b7d55a4ad3b9bc59903af73606cbfc7e6493abe32bc56d0e74",
+        "joined_adjacent_bold_spans": 7,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/37.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/37.png"
+          },
+          {
+            "source": "/ru/professional/methodology/38.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/38.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 18
+      }
+    },
+    {
+      "title": "Граф создателей",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/creators-graph.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/creators-graph",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d23450fd033a7655edcca2bc428ab9f9d71807734b4d39fe0a4ee85019bcf2a2",
+        "reading_copy_sha256": "8f3084f99b501c3f1cad0967878d90076be2d0d01a6b1f870402ef82e5ac456c",
+        "joined_adjacent_bold_spans": 21,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/39.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/39.png"
+          },
+          {
+            "source": "/ru/professional/methodology/40.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/40.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "«Времена» рассмотрения системы",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/times-of-system-consideration.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/times-of-system-consideration",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "8ee4c5644c832d2a5632d3dcbc3f4e78bb5435bd8de0e4acac7830a0b7794784",
+        "reading_copy_sha256": "92b25c288445659397dc68f9ed19904bd97b9c542ffc2fa4a0ff506f99f189ee",
+        "joined_adjacent_bold_spans": 28,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 33
+      }
+    },
+    {
+      "title": "Моделирование: время операционное, создания, методологическое",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/modeling-operational-creation-methodological-time.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/modeling-operational-creation-methodological-time",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "bb81a268d9eb246a6529eb318122e19125291075664a81e4352394a3820d9ead",
+        "reading_copy_sha256": "bb81a268d9eb246a6529eb318122e19125291075664a81e4352394a3820d9ead",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания: процесс инженерии и методологическое время",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/methodology/creation-and-development-not-life-not-cycle/assignments-engineering-process-and-methodological-time.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/creation-and-development-not-life-not-cycle/assignments-engineering-process-and-methodological-time",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "6a6320a4b6dc15b6741cf604e0a4428402524bede5596cf4e91ba63c0d76537e",
+        "reading_copy_sha256": "6a6320a4b6dc15b6741cf604e0a4428402524bede5596cf4e91ba63c0d76537e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инженерные процессы (методы разработки)",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "b4bf80e024d97ca5d31bd9b370bbeda69faa87ab0a18589b75004182d7ad71e9",
+        "reading_copy_sha256": "b4bf80e024d97ca5d31bd9b370bbeda69faa87ab0a18589b75004182d7ad71e9",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "V-диаграмма",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/v-model-diagram.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/v-model-diagram",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7a73ad6033c3a43e4e3882f5de33014a84c30b370d40c6e9d94829150c2a4601",
+        "reading_copy_sha256": "ba349bcf1c3dfa9556fef71ffaaa71632041e399f81845ea8c035e8d381004f8",
+        "joined_adjacent_bold_spans": 11,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/41.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/41.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Элегантность/lean за счёт повышения точности моделирования и изготовления",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/elegance-lean-through-improved-modeling-and-manufacturing-precision.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/elegance-lean-through-improved-modeling-and-manufacturing-precision",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1b49f455713766c675a82e840463af17f23c02d7a63af9bc2717b5b90fd1432e",
+        "reading_copy_sha256": "0b3ba9b0bd49e56b2d626483a2b94913742a0f0ab6d2b0943f62f40ee6c322a1",
+        "joined_adjacent_bold_spans": 60,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/42.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/42.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 84
+      }
+    },
+    {
+      "title": "Выбор инженерного процесса и организация разработки",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/selection-of-engineering-process-and-development-organization.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/selection-of-engineering-process-and-development-organization",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "79bc615581cdc0dfce39815e5b7fa10e6a930aa0351d2c7d0574b03594b3ae19",
+        "reading_copy_sha256": "c2dabc0f50db2a5f6b593799b6614548030b67b4e0dd057193dc562ecea461e5",
+        "joined_adjacent_bold_spans": 40,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 7,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/43.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/43.png"
+          },
+          {
+            "source": "/ru/professional/methodology/44.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/44.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Разнообразие методов управления работами",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/variety-of-work-management-methods.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/variety-of-work-management-methods",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2c2ba573366ceaae569747178978a28d0025196654cb098d11cccbba0c4c986d",
+        "reading_copy_sha256": "b589d12e7671a16b77e6b2cae28e39d67d50306b1787dc8c72fb69ab882f9d4c",
+        "joined_adjacent_bold_spans": 15,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Гибкие процессы разработки и управление кейсами",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/flexible-development-processes-and-case-management.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/flexible-development-processes-and-case-management",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9577e4c6f71a6e328e4022e9320237c966243fc861f354d00433c09beca8251c",
+        "reading_copy_sha256": "3338980bf27a3cadfe550e1f702955741ecafb628def46ad3483c4284072ecba",
+        "joined_adjacent_bold_spans": 50,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 14,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/45.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/45.png"
+          },
+          {
+            "source": "/ru/professional/methodology/46.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/46.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 81
+      }
+    },
+    {
+      "title": "JTBD: клиентоориентированность? Нет, метод-ориентированность!",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/jtbd-customer-orientation-no-method-orientation.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/jtbd-customer-orientation-no-method-orientation",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0582251db8b414f99801ccd931e1e54f219dba6fb2abf167f7a392f92fb8cdef",
+        "reading_copy_sha256": "70a18988add2408380dfa33a6353913f27253e8585d3da69f5ff64e73f4d678d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/47.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/47.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Пример методологии маркетинга: customer eXperience management.",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/example-of-marketing-methodology-customer-experience-management.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/example-of-marketing-methodology-customer-experience-management",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "280d4ee2f570174adca6401b28cc9d033c6cf5df7395db04bc043fdc9e793dd8",
+        "reading_copy_sha256": "b502fc0150e6df0052372a99560ab7140f0989be501e0083b1e531e3d12a17e9",
+        "joined_adjacent_bold_spans": 17,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 17,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Клиентоориентированность и управление впечатлениями",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/customer-orientation-and-experience-management.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/customer-orientation-and-experience-management",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "30a7fd2d353bccf66f15abd85e327668933ba3e00a024386e061f78085b7469d",
+        "reading_copy_sha256": "27573fdea7bce0022226c02dca8106debd9476b64520376414118eb44c3a7577",
+        "joined_adjacent_bold_spans": 14,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 11,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/48.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/48.png"
+          },
+          {
+            "source": "/ru/professional/methodology/49.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/49.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Корпоративные экзокортексы для управления впечатлениями: CRM, CXP, DXP, LXP.",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/corporate-exocortexes-for-experience-management-crm-cxp-dxp-lxp.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/corporate-exocortexes-for-experience-management-crm-cxp-dxp-lxp",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "fa5a430e710b42fc8f196c3759f76d1af8fd99c799a45af03e0ef8c9495b79c3",
+        "reading_copy_sha256": "09fb097ab396fb56b7bc19455a797eae8c8aabc0f7e5978f7be83678d9637b20",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 13,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST Метод разработки",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/test-development-method.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/test-development-method",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "c8693670541f7e399fc3f12897d9f23fa5e31838a2b388ce829664214219cb04",
+        "reading_copy_sha256": "c8693670541f7e399fc3f12897d9f23fa5e31838a2b388ce829664214219cb04",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Метод разработки ничего не скажет об оргзвеньях",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/the-development-method-won-t-reveal-organizational-units.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/the-development-method-won-t-reveal-organizational-units",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "001b681ab42c8aacc4d7e28fac32a8a955fdde37880be2d16e8ca8b779f05c67",
+        "reading_copy_sha256": "0163fa6f6b72e36e02dfaaa0848f6012bf14244ab4035ad2cb69936c8a7b119f",
+        "joined_adjacent_bold_spans": 19,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 33
+      }
+    },
+    {
+      "title": "Проект: это всё, что угодно",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/project-anything-and-everything.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/project-anything-and-everything",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "11cadb7ab67c40c3a186cf927858dad034b34ccf092565d51ad962f7a40e1726",
+        "reading_copy_sha256": "7397ad799e4d43eadf2c6fa29ce963fbb9c4f47d9f0fbdba9a5203eb6ebf75de",
+        "joined_adjacent_bold_spans": 12,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: управление инженерным процессом против управления работами",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/methodology/engineering-processes-development-methods/modeling-managing-the-engineering-process-vs-managing-work.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/engineering-processes-development-methods/modeling-managing-the-engineering-process-vs-managing-work",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "b57743bd4827fe25154414eaf5ec54cc813ac9c78b5e0c4babbf7b00179242e0",
+        "reading_copy_sha256": "b57743bd4827fe25154414eaf5ec54cc813ac9c78b5e0c4babbf7b00179242e0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Метод как объект первого класса",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "810c37ac8927f17a66670b4072527691dcafa7b0c885d6d6a499490b9f46451c",
+        "reading_copy_sha256": "810c37ac8927f17a66670b4072527691dcafa7b0c885d6d6a499490b9f46451c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Понятие метода: повторение",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/concept-of-method-review.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/concept-of-method-review",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "189454d227583b381b73089bdf3a7512dc19ab52d8af60b87b8ca52b4027901a",
+        "reading_copy_sha256": "b1ace404f0ccb15018976fe756d2d841b28dbec6eeb99cfa1a1f3a98399c99fd",
+        "joined_adjacent_bold_spans": 40,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST Методы",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/test-methods.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/test-methods",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "d4f72d70a5a1de655a04990452398861f2e2c7a1bdf44d60acb44f53ff097197",
+        "reading_copy_sha256": "d4f72d70a5a1de655a04990452398861f2e2c7a1bdf44d60acb44f53ff097197",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Знания метода и как их описывать.",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/method-knowledge-and-how-to-describe-it.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/method-knowledge-and-how-to-describe-it",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ba944d1ca6c6b30ada3141757ece1023430db14c376a02a202670f9ee4c59bdd",
+        "reading_copy_sha256": "01098aa1a6c48c6f6fe00a66662f68109b25b30d4059dda13ee484634b6819b0",
+        "joined_adjacent_bold_spans": 19,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 14,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST Дисциплины в основании методов работы",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/test-disciplines-underlying-work-methods.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/test-disciplines-underlying-work-methods",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "4584a1077b3b1d3e9eb4c913de7f41a0c187593494475dd04f584dbcf7633fdb",
+        "reading_copy_sha256": "4584a1077b3b1d3e9eb4c913de7f41a0c187593494475dd04f584dbcf7633fdb",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инструменты метода как поддержка его дисциплины",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/method-tools-as-support-for-its-discipline.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/method-tools-as-support-for-its-discipline",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2f810362877036cec066fc704bcffb951dc04f358ed19e1017d5f1a3019b4aab",
+        "reading_copy_sha256": "98998ddc78c17ee5eab2dac9606bf16dd015c46042ad3a6d467ef5f4b5b78ab2",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/50.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/50.png"
+          },
+          {
+            "source": "/ru/professional/methodology/51.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/51.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST Инструментарий",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/test-toolkit.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/test-toolkit",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "eb8cd84f92e091576b2704e313a04cc8b4389cd3069f432b0d6e24451e0d88cc",
+        "reading_copy_sha256": "eb8cd84f92e091576b2704e313a04cc8b4389cd3069f432b0d6e24451e0d88cc",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Совершенствование и развитие",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/improvement-and-development.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/improvement-and-development",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7e8bd3cb8c9794398da7db132496b15f2127153b498db6e552fbb2d7add3f404",
+        "reading_copy_sha256": "4d28cdd487870ca30f30ce77ba6515aa6cc79ef6cd538e6e86a5ef02b9d33559",
+        "joined_adjacent_bold_spans": 10,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/52.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/52.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Где искать описания современных методов менеджмента и инженерии",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/where-to-find-descriptions-of-modern-management-and-engineering-methods.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/where-to-find-descriptions-of-modern-management-and-engineering-methods",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1df2f82a3911ec37e389c58a04226e0c35107fc430d286c1c778df1624afa0c3",
+        "reading_copy_sha256": "dce38f94ae6b9771db7f279a935f5af540fd362f734654ea3b0fa4ffbf0b32cc",
+        "joined_adjacent_bold_spans": 28,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 10,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Стандарты классической системной инженерии",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/standards-of-classical-systems-engineering.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/standards-of-classical-systems-engineering",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5a320a3fe6feb2efbb69001256d0e0b22a484bbe3643d905363ddf28dcee4462",
+        "reading_copy_sha256": "2e74b1b08cda0aed530cdb4cdf918453eec6690aafad83824e1394de1b403a1d",
+        "joined_adjacent_bold_spans": 24,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/53.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/53.png"
+          },
+          {
+            "source": "/ru/professional/methodology/54.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/54.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Закат тяжеловесных методологий",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/the-decline-of-heavyweight-methodologies.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/the-decline-of-heavyweight-methodologies",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "65eaf0ba7aaf7260f8b190b3d6a0ba6aac8c0828ec1c0c4fe523187784fa4d8d",
+        "reading_copy_sha256": "13f75bee22d92104411c1724af45016e65bb565f0fa250bab0e66e6f12d0fe70",
+        "joined_adjacent_bold_spans": 19,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 10,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: методология разработки",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/modeling-development-methodology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/modeling-development-methodology",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "6df11290bce1ff7e1cf876c9bef3a335cdcf0fa49682553d8a08366550788f18",
+        "reading_copy_sha256": "6df11290bce1ff7e1cf876c9bef3a335cdcf0fa49682553d8a08366550788f18",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Онтологические нюансы в основе рациональности при стратегировании",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/ontological-nuances-underlying-rationality-in-strategizing.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/ontological-nuances-underlying-rationality-in-strategizing",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d182ef6a722aec5f683d578121519d5a0c661db6157d91b514c38c8f609e229f",
+        "reading_copy_sha256": "957e91ec3ef38a39e4c7d491ea3e56d0378ce316c9d77024ab3c64a35c6dfdea",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 3
+      }
+    },
+    {
+      "title": "Безмасштабность методологии",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/scalelessness-of-methodology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/scalelessness-of-methodology",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "285841cada60b3c57ac59e6609825a2d1dfaf375829b478c3482a91083f7fe32",
+        "reading_copy_sha256": "a8237e347faffd11a9dbeed4e6bfb42f7fdee548d57c98c9b83c897fe6281633",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Метод как объект первого класса",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/method-as-a-first-class-object.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/method-as-a-first-class-object",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3b06c173a65358b4bbed632127952a11cc4ff2dc8e995c59790b48edd969c554",
+        "reading_copy_sha256": "3bc97d1af4d53cc0071833574b5fafeafc88f7432089f471224375599bae09fc",
+        "joined_adjacent_bold_spans": 6,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Вариативность культур",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/cultural-variability.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/cultural-variability",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "857b95d37e3cb3e50982a3bc933718edd4a353c0d5df5f9462fd641b620b651b",
+        "reading_copy_sha256": "2e4b62ec5fe998c5cdc434cd16f2de7ee6473b8dab12d5fe8a2771d3ace197b4",
+        "joined_adjacent_bold_spans": 11,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 6,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/55.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/55.png"
+          },
+          {
+            "source": "/ru/professional/methodology/56.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/56.png"
+          },
+          {
+            "source": "/ru/professional/methodology/57.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/57.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST Онтология метода",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/test-method-ontology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/test-method-ontology",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ef04be9e9558959f22e641e873b12e7bbde3a78ad9018311f5e8404d4b69a003",
+        "reading_copy_sha256": "ef04be9e9558959f22e641e873b12e7bbde3a78ad9018311f5e8404d4b69a003",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: методы вашей работы",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/modeling-methods-of-your-work.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/modeling-methods-of-your-work",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "66b6892bf08693ce4285ec10f9911b14633cee761b22f9e0fc9960d9cef548ef",
+        "reading_copy_sha256": "66b6892bf08693ce4285ec10f9911b14633cee761b22f9e0fc9960d9cef548ef",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Эволюция методов",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/evolution-of-methods.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/evolution-of-methods",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3fd23252d57cbd4178854c9375bc3dbdfe3f00bdc40301594f8102e63e53a877",
+        "reading_copy_sha256": "d2b796cc56be5fd0e7b82b162ceb32d792ab7c6369ece14db6925be0d0e40bbf",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 11,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/58.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/58.png"
+          },
+          {
+            "source": "/ru/professional/methodology/59.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/59.png"
+          },
+          {
+            "source": "/ru/professional/methodology/60.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/60.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Системные уровни целевой системы и стратегирование",
+      "order": 19,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/system-levels-of-the-system-of-interest-and-strategizing.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/system-levels-of-the-system-of-interest-and-strategizing",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5a65a2d8cfb6220288f77e119a2e98890288ab6b8fb15e52b446dcd7ecb9a045",
+        "reading_copy_sha256": "661d8df9f3f9ea5eaa994f43a5c51ac63a419460b999425450f7ae942c3ad172",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/61.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/61.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: практики для различных системных уровней",
+      "order": 20,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/modeling-practices-for-different-system-levels.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/modeling-practices-for-different-system-levels",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "cb09f8be895f9541b067c63ecceb3e6b695a6ab8ef74ef2aab78aaf089e914ef",
+        "reading_copy_sha256": "cb09f8be895f9541b067c63ecceb3e6b695a6ab8ef74ef2aab78aaf089e914ef",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задание",
+      "order": 21,
+      "markdown_path": "docs/ru/professional/methodology/method-as-a-first-class-object/assignment.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/method-as-a-first-class-object/assignment",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "5f73ea0e3ac6b093741306c63cf0798380c258a35ed4d7b8601ad5cc2348a8e3",
+        "reading_copy_sha256": "5f73ea0e3ac6b093741306c63cf0798380c258a35ed4d7b8601ad5cc2348a8e3",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Коллективная собранность в отслеживании выполнения работ",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "dd2196b93b117ab3aa84b280d7387b96d2dd99f5de1a1b18fdeb81c54049fb0b",
+        "reading_copy_sha256": "dd2196b93b117ab3aa84b280d7387b96d2dd99f5de1a1b18fdeb81c54049fb0b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Диаграмма системного описания графов создателей",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/system-description-diagram-of-creator-graphs.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/system-description-diagram-of-creator-graphs",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "11ffbb2f92e38974f40dd77905d68b02fdef93b0cfc773f9d368d152c3c37342",
+        "reading_copy_sha256": "2f4566c7ece46d152d2718dcb5a36e62a9a32cebc035bf852dc01b6a1dce2e4f",
+        "joined_adjacent_bold_spans": 29,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 8,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/62.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/62.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Всегда используйте текст (аутлайн) и таблицу вместо диаграмм",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/always-use-text-outline-and-table-instead-of-diagrams.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/always-use-text-outline-and-table-instead-of-diagrams",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "283dddb50bf3108e39a13a04c5632c4bebc5352760f8b958ae17d199cf4b270f",
+        "reading_copy_sha256": "5ad8f46a3a6b0853c5c20c45815df82b03d0ea35a88e56ee8a103b696591616b",
+        "joined_adjacent_bold_spans": 15,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/63.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/63.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания: чеклисты",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/tasks-checklists.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/tasks-checklists",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e82850d1843f21f324958864aaef6a8e73c6650cf5a586fa10d53dac1d578bc2",
+        "reading_copy_sha256": "e82850d1843f21f324958864aaef6a8e73c6650cf5a586fa10d53dac1d578bc2",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Области интересов надсистем, целевой системы, создателя",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/areas-of-interest-of-supersystems-system-of-interest-creator.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/areas-of-interest-of-supersystems-system-of-interest-creator",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b8a38582078a317f1c3ea93222836fd74500c01aae295dcf6112e8a8dee3f332",
+        "reading_copy_sha256": "5122f730ea6a3b2687b7c26d7b96c055b3eda533e6ea92f75e99cd8bb811ad6f",
+        "joined_adjacent_bold_spans": 15,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/64.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/64.png"
+          },
+          {
+            "source": "/ru/professional/methodology/65.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/65.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST Область интересов, основные альфы",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/test-area-of-interest-main-alphas.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/test-area-of-interest-main-alphas",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "33414067abc931f2b28b0a1282034fa243bde329f828eb8d26eeddebf4dae464",
+        "reading_copy_sha256": "33414067abc931f2b28b0a1282034fa243bde329f828eb8d26eeddebf4dae464",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Альфы — общий объект отслеживания для организации",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/alphas-as-a-common-tracking-object-for-the-organization.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/alphas-as-a-common-tracking-object-for-the-organization",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9883c09b2d04ad44a5be6506b36ca2cc64af74fa1b05d08ce8d313b8d811468e",
+        "reading_copy_sha256": "7c90ad664d33fc1a40fb14854da7f9d62a69e20e206d8e6ba839b368cfa4101d",
+        "joined_adjacent_bold_spans": 61,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/66.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/66.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST Роли и их ведущие альфы",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/test-roles-and-their-leading-alphas.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/test-roles-and-their-leading-alphas",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "0095ce1f6f28681a82e3e97cb0f931dd017b261b161ef3df9e71f92b97bfbc9f",
+        "reading_copy_sha256": "0095ce1f6f28681a82e3e97cb0f931dd017b261b161ef3df9e71f92b97bfbc9f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Альфа коммерческой возможности ведения проекта",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-of-a-commercial-project-opportunity.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-of-a-commercial-project-opportunity",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a34cdaf2c3b073de9a9f521728839181b66cac9df6d54104c1c2860f7046bff7",
+        "reading_copy_sha256": "d6293798804ef83e14b01fa51b37a092f12060f88f4ec1380cc070ef04df5213",
+        "joined_adjacent_bold_spans": 7,
+        "adjacent_italic_boundaries_joined": 15,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/67.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/67.jpeg"
+          },
+          {
+            "source": "/ru/professional/methodology/68.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/68.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Альфа внешних проектных ролей",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-of-external-project-roles.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-of-external-project-roles",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2fb26a4e004660431022f7b73476590519a6c218e17635f9322ff8f2a21cd8f7",
+        "reading_copy_sha256": "e9c0a173bb92aeb416ae13ddcdc751b1e254856d94b42442898ef14689315288",
+        "joined_adjacent_bold_spans": 12,
+        "adjacent_italic_boundaries_joined": 19,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Альфа системы",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-systems.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-systems",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ffbcb1a8e1a93ba1825d656480fc5adf0988a6aafc65b0cee9979cb782c445e9",
+        "reading_copy_sha256": "ffde7541584a166ad80899a3ee94817c3d71e7b26d32dac7289320a5bcebaa31",
+        "joined_adjacent_bold_spans": 9,
+        "adjacent_italic_boundaries_joined": 28,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Альфа описания системы",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-system-descriptions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-system-descriptions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c3be35ecf3594a324422a199760efb5f874e51a8eb62b0e0c1f3f8510506ea09",
+        "reading_copy_sha256": "2cc131eee0713a02b75bfa2309d00f32f678b9d4c1b47ebb9a981a439bb68a20",
+        "joined_adjacent_bold_spans": 7,
+        "adjacent_italic_boundaries_joined": 54,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Альфа метода/способа/культуры работы",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-of-work-method-culture.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-of-work-method-culture",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d87a80ff1d6d746c443f03984c4ae079ec73d2beafe944b1d0bcb2d5a76f8e11",
+        "reading_copy_sha256": "de0bc70563d27c83ea3c367a6fc578776ed74d7d002940ac1df112f80cd2ff5b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 20,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Альфа работы (works/operations/эксплуатации/использования) целевой системы",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-operations-of-the-system-of-interest.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-operations-of-the-system-of-interest",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ab8a5c189b51e6bab91802e12a78e813427cf36f0017935fd81da5df275ee8b1",
+        "reading_copy_sha256": "0772c4aae287af98e492cdd4f94772f6c1ecc33c47cc4d9d7569eb42bb7c587d",
+        "joined_adjacent_bold_spans": 11,
+        "adjacent_italic_boundaries_joined": 26,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Пример: альфа «культура» для сообществ",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/example-alpha-culture-for-communities.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/example-alpha-culture-for-communities",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c37cafde5e2fe614662354a692aa6b62f1449b8cca7dc2392344a466e7c84c2d",
+        "reading_copy_sha256": "b458d71e77c59b229367db434a2eedd18b98d52004637013892da6220ac7bd18",
+        "joined_adjacent_bold_spans": 10,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 17,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/69.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/69.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "За чем следить в проекте",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/what-to-monitor-in-a-project.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/what-to-monitor-in-a-project",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "cc3d56e93d5ab6d68313d35b539a60e03b251796445e3a2b7b9c7b65c056938f",
+        "reading_copy_sha256": "8cea2b2aea64938388ce094f743b0ce80360da49e7d95ed0b75b262680ab8075",
+        "joined_adjacent_bold_spans": 18,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: распределение времени на целевую систему, надсистемы, создателя",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/modeling-time-allocation-for-system-of-interest-supersystems-creator.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/modeling-time-allocation-for-system-of-interest-supersystems-creator",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "954b4e6c5ebd22b533a1c35f0ed30a65000b22ae5a6775f18d09be9198c9d4de",
+        "reading_copy_sha256": "954b4e6c5ebd22b533a1c35f0ed30a65000b22ae5a6775f18d09be9198c9d4de",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Состояния альфы и артефакты/рабочие продукты",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-states-and-artifacts-work-artifacts.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/alpha-states-and-artifacts-work-artifacts",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e6ae1a52e23b73917e7ea265d78085f863d84b0ad15a6e3e19b8a901dabef376",
+        "reading_copy_sha256": "9b0284595c8e1074bb4446903edfd94adda5ed353815abb7b39fb30f7ebd0cc2",
+        "joined_adjacent_bold_spans": 13,
+        "adjacent_italic_boundaries_joined": 1,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Как работают с моделью графа создателей в форме чеклиста",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/how-to-work-with-the-graph-model-of-creators-in-checklist-form.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/how-to-work-with-the-graph-model-of-creators-in-checklist-form",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b658db5f36277c98dabfcdc849ff5f1308b6ce270cb56870d0c6f9f2a275a8e3",
+        "reading_copy_sha256": "327106cb5678a08e718b15bab36200462896a4d86d3323c308c9d9f46cf425e8",
+        "joined_adjacent_bold_spans": 27,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Подальфы",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/subalphas.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/subalphas",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "cda1864bb8e0c0cf1a70203d602febcc63c6031c873f0b1b82392aaa558e03cb",
+        "reading_copy_sha256": "2d178cfeddedb07d8c9af24bde0d622ce162850be53685bd41dbb0a4bed730b1",
+        "joined_adjacent_bold_spans": 20,
+        "adjacent_italic_boundaries_joined": 6,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: адаптация модели графа создателей",
+      "order": 19,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/modeling-adapting-the-graph-of-creators.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/modeling-adapting-the-graph-of-creators",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "f9f72f7ea7aeb3405de4519777975c0048d1f568eadc27cab0a7b03cf2ad6a2f",
+        "reading_copy_sha256": "f9f72f7ea7aeb3405de4519777975c0048d1f568eadc27cab0a7b03cf2ad6a2f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST Адаптация модели графа создателей",
+      "order": 20,
+      "markdown_path": "docs/ru/professional/methodology/collective-focus-in-tracking-work-execution/test-adapting-the-creator-graph-model.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/collective-focus-in-tracking-work-execution/test-adapting-the-creator-graph-model",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "6fe6bc2bbde6f608d32a506c3bfc60074492ae0ea3caa0e444864625b2c682fa",
+        "reading_copy_sha256": "6fe6bc2bbde6f608d32a506c3bfc60074492ae0ea3caa0e444864625b2c682fa",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Теория стратегирования",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "5b6ae8b0e30a3519a2644cb2e2b569c1df781bb80c3eba29ea909e3325a96406",
+        "reading_copy_sha256": "5b6ae8b0e30a3519a2644cb2e2b569c1df781bb80c3eba29ea909e3325a96406",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Понятие стратегирования",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/the-concept-of-strategizing.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/the-concept-of-strategizing",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9a4e42d850fe085d710cbdc709b63fc4fa3b3bdddc94463e9064a2a6109c3f46",
+        "reading_copy_sha256": "fcd05622f3cbf856044417be716bb7d021101510008ccec7667dd3cf85122185",
+        "joined_adjacent_bold_spans": 9,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Будущее уже здесь",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/the-future-is-here.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/the-future-is-here",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "64e1b53e0623aabf79e59d03b307c524441370d88568adae33dff7d9682937a9",
+        "reading_copy_sha256": "ce3400d47c2b796341af42ebf9631002dc24d0789f522d02a936a767313e5311",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 14,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/70.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/70.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Подрыв подо всей цивилизацией сразу: экспоненциальные технологии и конвергенция",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/undermining-all-of-civilization-at-once-exponential-technologies-and-convergence.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/undermining-all-of-civilization-at-once-exponential-technologies-and-convergence",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "685b2459fd6d01fdc4c64de43375f3ede4405c58e966eb4d6fb3337c754ffe45",
+        "reading_copy_sha256": "40504797ea7a9be56e7022c1c8e1bbe8609f1205dd6e25c05acf034b75d69f2f",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 15,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/71.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/71.png"
+          },
+          {
+            "source": "/ru/professional/methodology/72.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/72.png"
+          },
+          {
+            "source": "/ru/professional/methodology/73.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/73.png"
+          },
+          {
+            "source": "/ru/professional/methodology/74.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/74.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Пример подрыва: электромобили уже сейчас дешевле бензиновых автомобилей и их продаётся больше",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/example-disruption-electric-cars-are-already-cheaper-than-gasoline-cars-and-sell-more.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/example-disruption-electric-cars-are-already-cheaper-than-gasoline-cars-and-sell-more",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c873f57b6c17d0ddced399a4b7f27312b04ee3c0281a277926fc32a33b4fa54a",
+        "reading_copy_sha256": "6336234b58921e8c663df34388460d3b3939a4306dfbfa25b7b4d015176aea40",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 7,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/75.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/75.png"
+          },
+          {
+            "source": "/ru/professional/methodology/76.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/76.png"
+          },
+          {
+            "source": "/ru/professional/methodology/77.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/77.png"
+          },
+          {
+            "source": "/ru/professional/methodology/78.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/78.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Роботы заберут работу? Нет! Но работу/job/занятость надо будет менять часто.",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/will-robots-take-jobs-no-but-jobs-will-need-to-change-often.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/will-robots-take-jobs-no-but-jobs-will-need-to-change-often",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0191378548b27966fcc1564e7dbee5f72f75114b30e60fb6423d0a4ed8a24d65",
+        "reading_copy_sha256": "ab7c97791084250246f1cc491eab89d69e09f7119fc14325b233fe62223c1218",
+        "joined_adjacent_bold_spans": 33,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 10,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/79.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/79.png"
+          },
+          {
+            "source": "/ru/professional/methodology/80.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/80.png"
+          },
+          {
+            "source": "/ru/professional/methodology/81.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/81.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инновации: всегда сбоку",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/innovations-always-on-the-side.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/innovations-always-on-the-side",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "fc0a0ead4fe5a89b6a7b979eb176c8befc820d182f8379cb1bfc1300a49a256f",
+        "reading_copy_sha256": "3cb1e9e8e8dac2e401f6fed93538c4d1eb3a469919e6841fbebbee84527d106f",
+        "joined_adjacent_bold_spans": 17,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 31,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/82.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/82.png"
+          },
+          {
+            "source": "/ru/professional/methodology/83.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/83.png"
+          },
+          {
+            "source": "/ru/professional/methodology/84.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/84.png"
+          },
+          {
+            "source": "/ru/professional/methodology/85.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/85.jpeg"
+          },
+          {
+            "source": "/ru/professional/methodology/86.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/86.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST Скорость обучения нейросети",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/test-neural-network-learning-speed.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/test-neural-network-learning-speed",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "fe25c644aff9a592f80f6548f763377e1ac91f8fdd1177498acfbe34c8cf979c",
+        "reading_copy_sha256": "fe25c644aff9a592f80f6548f763377e1ac91f8fdd1177498acfbe34c8cf979c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: всё новое приходит сбоку",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/modeling-new-things-come-from-the-side.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/modeling-new-things-come-from-the-side",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "a80aa6c694ef78fc7457723f9665f130b153d1f230aa6d50280836cdc204c8c8",
+        "reading_copy_sha256": "a80aa6c694ef78fc7457723f9665f130b153d1f230aa6d50280836cdc204c8c8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Архистратегии ежа и лисы",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/hedgehog-and-fox-archistrategies.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/hedgehog-and-fox-archistrategies",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "8af0ae31af1c385cba81f8176ab757e73db137362a6688a595ac8616b9357083",
+        "reading_copy_sha256": "ca12899bcc1eca4f47c3acdaf0aa7d416a63c63334d1fd7065f077a4c3291a3b",
+        "joined_adjacent_bold_spans": 6,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/87.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/87.png"
+          },
+          {
+            "source": "/ru/professional/methodology/88.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/88.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: икигай по методу Коллинза",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/modeling-ikigai-using-collins-method.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/modeling-ikigai-using-collins-method",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e6bdbaa988d0f3dcede94e384d39e64b196033c532a5f3d644755947f487bfda",
+        "reading_copy_sha256": "e6bdbaa988d0f3dcede94e384d39e64b196033c532a5f3d644755947f487bfda",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Мечту вполне можно иметь. На мечте просто нельзя застревать.",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/it-s-okay-to-have-a-dream-just-don-t-get-stuck-on-it.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/it-s-okay-to-have-a-dream-just-don-t-get-stuck-on-it",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e1979832500e13f54efc32a6a2ff62d039e30e77f8cb34071ca259a3544fae8e",
+        "reading_copy_sha256": "ab850a3877c87172f2e269dfcd1c47e11f6596e80dbbabbc5c567b1fe0fac70a",
+        "joined_adjacent_bold_spans": 8,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 6,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/89.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/89.jpeg"
+          },
+          {
+            "source": "/ru/professional/methodology/90.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/90.png"
+          },
+          {
+            "source": "/ru/professional/methodology/91.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/91.png"
+          },
+          {
+            "source": "/ru/professional/methodology/92.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/92.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Не шагай в туман, не надейся на «авось»!",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/don-t-step-into-the-fog-don-t-rely-on-luck.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/don-t-step-into-the-fog-don-t-rely-on-luck",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2910841d6060975a535faca186e394dbcdc9e07c73176303d82f4fc4f9b58a0d",
+        "reading_copy_sha256": "423d4f4abf0025aefb08d8ad371c667041ebf1a7d10b4ca5177c4529a37c7f45",
+        "joined_adjacent_bold_spans": 14,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/93.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/93.png"
+          },
+          {
+            "source": "/ru/professional/methodology/94.jpg",
+            "reading_copy": "../../../../public/ru/professional/methodology/94.jpg"
+          },
+          {
+            "source": "/ru/professional/methodology/95.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/95.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "В конкуренции побеждает самый быстроменяющийся",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/in-competition-the-fastest-to-adapt-wins.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/in-competition-the-fastest-to-adapt-wins",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c69fa96c1e31c4c26905cc39568e5987b8dfe87cd00a44a17234e557e56c3754",
+        "reading_copy_sha256": "13d796e944c1cab3311418eda351297157a72bc8e0c82fb2dd44502743f7e4bb",
+        "joined_adjacent_bold_spans": 9,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 7,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/96.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/96.jpeg"
+          },
+          {
+            "source": "/ru/professional/methodology/97.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/97.png"
+          },
+          {
+            "source": "/ru/professional/methodology/98.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/98.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: варианты мечты",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/modeling-dream-scenarios.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/modeling-dream-scenarios",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "92a2976e3e0fbe061e0716f0f15c168e43dd8f93da8f398becbdad5f53a69b7f",
+        "reading_copy_sha256": "92a2976e3e0fbe061e0716f0f15c168e43dd8f93da8f398becbdad5f53a69b7f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Бесконечное развитие (open-endedness)",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/endless-development-open-endedness.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/endless-development-open-endedness",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ee1ed228a9f5a07ebd48b8d66a7f942efd0a70f67b1b398f34756d2273c03031",
+        "reading_copy_sha256": "c4266e0f2d2be9c7215706714ed1ed8269f3585517e7f4b8e01f290dfee72626",
+        "joined_adjacent_bold_spans": 14,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 7,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/99.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/99.png"
+          },
+          {
+            "source": "/ru/professional/methodology/100.jpeg",
+            "reading_copy": "../../../../public/ru/professional/methodology/100.jpeg"
+          },
+          {
+            "source": "/ru/professional/methodology/101.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/101.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST бесконечного развития",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/test-of-infinite-development.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/test-of-infinite-development",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "d3094833027f58f34a01288a58ad95b78e06452fd0378d8204743f6a93204706",
+        "reading_copy_sha256": "d3094833027f58f34a01288a58ad95b78e06452fd0378d8204743f6a93204706",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: версионирование стратегии",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/modeling-strategy-versioning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/modeling-strategy-versioning",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "70fc95d7c890de945ae6026e95d7895852653a972c5f3f341ed2affac9ad16d2",
+        "reading_copy_sha256": "70fc95d7c890de945ae6026e95d7895852653a972c5f3f341ed2affac9ad16d2",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: использование личной или корпоративной стратегии как фильтра",
+      "order": 19,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/modeling-using-personal-or-corporate-strategy-as-a-filter.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/modeling-using-personal-or-corporate-strategy-as-a-filter",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "9296bbac89de54588e2cee6a6a1d24314efe64d978623fd85193dad82c5a6cfa",
+        "reading_copy_sha256": "9296bbac89de54588e2cee6a6a1d24314efe64d978623fd85193dad82c5a6cfa",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Теории счастья и богатства",
+      "order": 21,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/theories-of-happiness-and-wealth.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/theories-of-happiness-and-wealth",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4158c087b48b25559cdcf11b1a27445f9636988f9cd2375bcfb62e9e3425c457",
+        "reading_copy_sha256": "72d13c79657033b364e5e69e731fe62effbaff8470866f5d2cd4a9bab8686a64",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 10,
+        "image_paths": [
+          {
+            "source": "/ru/professional/methodology/102.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/102.png"
+          },
+          {
+            "source": "/ru/professional/methodology/103.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/103.png"
+          },
+          {
+            "source": "/ru/professional/methodology/104.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/104.png"
+          },
+          {
+            "source": "/ru/professional/methodology/105.png",
+            "reading_copy": "../../../../public/ru/professional/methodology/105.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: личные стратегии",
+      "order": 22,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/modeling-personal-strategies.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/modeling-personal-strategies",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "1efcb0f79cd5c3bfb41009c3167ce8ccece247b9ad14bb174ca96878f84540a8",
+        "reading_copy_sha256": "1efcb0f79cd5c3bfb41009c3167ce8ccece247b9ad14bb174ca96878f84540a8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания",
+      "order": 23,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "bb1b1c05e542b98e70c5bb7468b9e0d22fd60e7facee5d7f392de5bf359b303b",
+        "reading_copy_sha256": "bb1b1c05e542b98e70c5bb7468b9e0d22fd60e7facee5d7f392de5bf359b303b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Что дальше",
+      "order": 24,
+      "markdown_path": "docs/ru/professional/methodology/strategy-theory/what-s-next.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/methodology/strategy-theory/what-s-next",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "21f6c4d7af951749aa5a65f70748b2a203883f2e3a909e2ff77b8b885699e572",
+        "reading_copy_sha256": "3feac99cdb849747d53d86ce11e7eca09f5bfeb8655725905c32c0dbe5885619",
+        "joined_adjacent_bold_spans": 6,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    }
+  ],
+  "formatting_totals": {
+    "joined_adjacent_bold_spans": 1194,
+    "converted_inline_footnotes": 430,
+    "strong_spans_using_html_for_github": 346,
+    "adjacent_italic_boundaries_joined": 169
+  }
+}

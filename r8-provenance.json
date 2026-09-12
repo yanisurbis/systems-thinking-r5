@@ -1,0 +1,1906 @@
+{
+  "course": "R8. Системная инженерия",
+  "author": "А. Левенчук",
+  "language": "ru",
+  "verified_at": "2026-09-12T11:43:54.655843+00:00",
+  "upstream_repository": "https://github.com/aisystant/docs",
+  "upstream_commit": "b9989a2bf229510ab66304c0a44f86a5f96689de",
+  "upstream_commit_date": "2026-08-31T16:24:40Z",
+  "acquisition": "Selected publisher Markdown and referenced images from existing native GitHub fork; local Git objects processed sequentially.",
+  "scope": "Russian R8 book pages, chapter navigation, referenced images, reading index and provenance.",
+  "version_note": "Official public Markdown snapshot; exact equivalence to a dated Aisystant interactive edition has not been verified.",
+  "coverage": {
+    "content_page": 46,
+    "workbook_placeholder": 20,
+    "navigation": 9
+  },
+  "assets": [
+    {
+      "path": "docs/public/ru/professional/systems-engineering/29.png",
+      "source_sha256": "dc8d21e37808fa7da2822c9a89613cc0f50914b18d46707a3e4968cb09f252f2"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/30.png",
+      "source_sha256": "e267e04b50bb0ad28437f6d3e57b38c95688aa7e2cc52a3112796f7b2f955cf4"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/31.png",
+      "source_sha256": "f11ad509673a0539849934a6481d44f936e58c1a212a86dbe19ec8e7d6817233"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/32.jpeg",
+      "source_sha256": "3f3dd71501ea431462ae727ebfe589af44041a6219437efb5da3ee408bc20f57"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/33.jpeg",
+      "source_sha256": "7ed4a192bab4f2f95a8d3003047a671f643f3a135a5f014f20cf72b7f1414223"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/34.png",
+      "source_sha256": "3bcfedcd6eb44c2b1de857df4f4607092378e3e1f0278358819ed2730c34db49"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/35.jpeg",
+      "source_sha256": "c1b714677e74080ce53fc8dcb312724a0c33a8d1b5b39e3ab8888d560ba65f60"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/36.png",
+      "source_sha256": "29571f404389c3fddd62493c6b1b3e8381a4b7669149a5e19df5ffed8f19e0fd"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/37.png",
+      "source_sha256": "e0b89ab86440ee17a67c7ff28e08a7c0097eb53ba5edc1e608afa2f07be9f5eb"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/38.png",
+      "source_sha256": "b8c12015769be3308494d6d08826ad0bf96930b08101c3c545e3290f51df12a9"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/39.png",
+      "source_sha256": "4d56768d141053142f60d57a0ef9a49f3af0d7410a3e6444ee64fd6f5deace71"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/40.png",
+      "source_sha256": "1d1d49c42023d7894dff042c7f79bf257ac5ae2be486f18f1ec072b68d63446d"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/41.png",
+      "source_sha256": "96940818adcba3a6aba0b2471d9fe5789fd46d6e837f20dd359f693bfe4ceaeb"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/42.png",
+      "source_sha256": "886e1bf4bb7aaed4643cbb41832ab0a98911518dfb0181fccc1d4d63d6be4652"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/10.png",
+      "source_sha256": "e273998a8b05bab0f3e47f8596696a17ee5b75a9d084947e1ef249008ff4b624"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/11.png",
+      "source_sha256": "0f0ee63fdbbeb8cf43a85802e13f1ef9c19b0b228a86ec7b9b700a4436caa844"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/13.png",
+      "source_sha256": "d8f40e3230c0cfec9743193e48de91801e553e1769e62866a1254c751337b9eb"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/14.png",
+      "source_sha256": "ce1f541ab587e546603dca007f2735053350204f429994010ae47716af5bb5fb"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/15.png",
+      "source_sha256": "02f3b41657bd871ad30039f1744934270a69414c7bac3a216dcd92ac2616f74a"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/9.png",
+      "source_sha256": "f0500f4c2607508f83579dc7eac9f86b3994e54804cd86f2b2e57a7f59b03eda"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/12.png",
+      "source_sha256": "332ad744d740655e4a20cecace6cfaefd70488e6211d9064e202b3fee68a4750"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/16.png",
+      "source_sha256": "d712593db94aa308c11be942c874630b7461fc7a345137ede238b773e07d2f15"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/17.png",
+      "source_sha256": "5886b912424d4cb9d7936ea56371a0d8282d077ba129482850645f8b96ef65cb"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/72.png",
+      "source_sha256": "73c180e3c7fc2aa4d832aa85bc9b32e92362927b15722e60b33ac3784421869e"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/69.png",
+      "source_sha256": "b7d12211808ddec104bb34481614682b16e09084fdf6ca33075d4ca8b4fd14ce"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/70.png",
+      "source_sha256": "c19ee16f8d3ef0db1e07389cd89aa36726b7e9a46187a282600ff59bfb07bf07"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/71.png",
+      "source_sha256": "2ed536e1f6528d5bd8007ad47efb883f28084af6f7adcb078776eb4605e8c879"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/64.png",
+      "source_sha256": "8a698cc7589f1c0150473316c915604a681d291788ca3917002bb8473221a266"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/65.png",
+      "source_sha256": "e48843b425dae79a6d6d4c16ed6c281f1c7c140ad102589b24d57d443e15481a"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/66.png",
+      "source_sha256": "e26668394ca77658897e7682cc7cdcd70d83905321a2c11f0733438dbc155444"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/67.png",
+      "source_sha256": "e2399438e1256150f77d51acee23dc224751111b5e9b72fbaff0b2db8bc4f9af"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/68.png",
+      "source_sha256": "fd9188b2203ed2189eab695850e4e4c23348ff5f1a08ea31ef01de189b9d5ec3"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/73.png",
+      "source_sha256": "0eafee3e0c53e46d1b958e2e6bfe2cbda9a3bc0cb7eddf604139517518ee8ba6"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/74.png",
+      "source_sha256": "7495910968e6a7dcb4135cf7765d7db58ae684e8c5cf237991626dfcf3519c92"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/75.png",
+      "source_sha256": "1d57154556acd2f9f5c140f70a38635c7b9a714e2fa307f6329c8f5bb9ec11a5"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/62.png",
+      "source_sha256": "924a16e651d5d9427c535dd0babe8df53c5f84a3c77414f8f2e7c0949615e7fc"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/63.png",
+      "source_sha256": "b884093c0c874f447225a9a2c204a29e6bef1cc71629af3a01aad9f7eeb011b9"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/76.png",
+      "source_sha256": "79486aaa6b27d5dd72ccf788ac03a4b3f111966b1382d9d59c101c1e9ff17672"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/77.jpeg",
+      "source_sha256": "20ae7b85ba684dd1ae35c08f8ec699f79b9ae2cca0bcc59b9c8a1f26dfe3f606"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/78.png",
+      "source_sha256": "8d9aebc4db7268e10adf9f87e57b545a064e5447cd52d124d4bb9debbeefc390"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/79.jpeg",
+      "source_sha256": "a8c18b58811601e3aa28d15b53bf8e29ae36872d7722c70eb4ad01b293081785"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/80.jpeg",
+      "source_sha256": "c57b7d22539e2bfc8ac1cbcfe9eb8cad6e1d03d814fe88c5b2ba52c6303e7a3d"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/28.png",
+      "source_sha256": "775e56cfacd233d417288e7f76d4dfbfb4d5eead41f1b24f94a415116e9cc28f"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/21.png",
+      "source_sha256": "0ae9f14012c938e662992a11d91caa45cab11853db7e3a3352c671b93a476456"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/22.png",
+      "source_sha256": "109c8e8ef2c7a0328b7fa4ea9c490f42d31cbbcd4ddae2698eed52c5d6214936"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/23.png",
+      "source_sha256": "0ba25dc09ad4599f422d9638ecdff465719d907c0233cdc3a0ccb0c6f7acf9ae"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/24.png",
+      "source_sha256": "f87b5d41a507c4cc8251034135d95be2f4fbbce3b1c2f9b3c7042fa598a744fd"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/25.png",
+      "source_sha256": "b06d9ad661a0afa5094c1ea0598cdf06f629ddf3a984fe996871d484e1037d19"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/26.png",
+      "source_sha256": "2f93cceb0407d7372f76c9a8894bc47bc218d8643e4678e259343d5731710afd"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/27.jpeg",
+      "source_sha256": "dbb0201d52ca02cf269e2b45a1a50f1de955c204188ba939a7ddbe76833dab92"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/18.png",
+      "source_sha256": "f9a8889f713ea12bf02709be14ee410e31c7182dd33c1b54fca2a2a43433f5db"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/19.png",
+      "source_sha256": "8ecb321a1b04fe3750e20aca53bbc6a3336a96cf20e916aece4251f24334cb57"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/20.png",
+      "source_sha256": "1af81c560acbe70b9bfefe25a232ec73cde5432365e2a77b9c0c938e35efe407"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/44.png",
+      "source_sha256": "5e64c5fb36546957b7f8c497831c7cf1f2c6f61f04c9a00abe74acc19668bf88"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/45.png",
+      "source_sha256": "bf5110265dae250a523a54574e3b2c6da5789ae005b6244eeefebc9d28814685"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/46.png",
+      "source_sha256": "f7c935dfcaaaa5bf1b6a8206a29c63fc59564cf30a21354c838c30195bf04e3b"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/47.png",
+      "source_sha256": "8497a80427992e10acd4ddee6ddffb45b2b0ad657f75aa71c87f87edfdce1445"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/43.png",
+      "source_sha256": "f602e0a4b6b55d1bef16c94191268dfeb1b3eddc1a2c9ce1bdd1b037733119f4"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/48.png",
+      "source_sha256": "aa4f9bda3770aa856f0c9c458b4ac9cd1f4e18bffd82c82a367b9bec36ba28df"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/49.png",
+      "source_sha256": "bf5e0503328800f87c3fe7c6035246c573035af52d12a82a9e5788e1e2dde706"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/52.png",
+      "source_sha256": "339ad1988e4c97c1bbb883430597792a2982b986c6601c204a5316d15a49516c"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/53.png",
+      "source_sha256": "64d10fe5904dff36c354f514f7872d5d41e4d749de8b220ae1de97099ecea48a"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/54.png",
+      "source_sha256": "7be14bcf9e160660600948579d78b564c025f4f765d7004874635dc3fcd53e3a"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/55.png",
+      "source_sha256": "1725b27ffa7fe21702d08766c9a46a34b3342e2c45e261ce31b94a5202263f3c"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/56.png",
+      "source_sha256": "83acfc4c46bab8d892366f362b43fd2748ae8f12e858e8806d58513752086e57"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/61.png",
+      "source_sha256": "5df066145890979b8e2aee652956180e8041d0a5c019aefc520c7ba8f06588a6"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/50.png",
+      "source_sha256": "a6d82c01ed93009285ccbc360a4073c63ef8d2681cb6b0d271f4a1d17fad55a5"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/51.png",
+      "source_sha256": "c3edda7c5204ab450a54341ca0d59e8f11a58520ebab714dfae728bc23aafa70"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/57.png",
+      "source_sha256": "c734a00e7d796ce693af12a0f6b5843d03b38f30bd2aa4adc770e814d5dcff15"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/58.png",
+      "source_sha256": "c33b6d6b3d3faa43ac9de1736bbf01411207320a284b3764d53c80068741e2bf"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/59.png",
+      "source_sha256": "3c1161131e52a7700b1dc49d935b923ee985bbc54b54b2250443893433eda650"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/60.png",
+      "source_sha256": "e4a71fb52beeaf3b14b0663747bb6051a0ea0a8cced82329b4049313c5c42ec7"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/6.png",
+      "source_sha256": "311f2910cd4589458af6de9518087c175153043ea92f6a3f1c6a6d8f83824ebd"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/7.jpeg",
+      "source_sha256": "270f6c7e7f42b22058103fec55ed67a59150453e6a0af82d64ee0650f18e60fb"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/8.png",
+      "source_sha256": "68e944ec05a0e141bd0dc77bb1659bc8c8ca3e3649a5e7f411b8e17b0aeffbd0"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/0.png",
+      "source_sha256": "8ad043246314d76582ff3b5e6c0fd0676bf550a3b429a44dc8bda1dfe0c56f41"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/1.png",
+      "source_sha256": "01c489954c4e18baaffaf928b53b21b2c333c2bdf918da1c71e8d660e19538d7"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/2.png",
+      "source_sha256": "8d895de581250a8b79e80bfaf57bcb75e1d79f4d1d93e8e02b0bb08dc11b8d6a"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/3.png",
+      "source_sha256": "362371eb39fc56107089cf3c73439dfa825fc0536c030568affedcb8a0abaf93"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/4.png",
+      "source_sha256": "0359c04e6f07ffd912f83df43e0df3ee2f5ac981dcb7015a4663a186fb898941"
+    },
+    {
+      "path": "docs/public/ru/professional/systems-engineering/5.png",
+      "source_sha256": "48fcf1a432e868668d7b3f0cf79cf3d38a0c54195eca70dc962caa194b6c4331"
+    }
+  ],
+  "pages": [
+    {
+      "title": "R8. Системная инженерия",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-engineering/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "65b68765cdf7a15a8f08882ebbe57b47cc4fb2ebe06951081cf7fd2ca3f8a509",
+        "reading_copy_sha256": "65b68765cdf7a15a8f08882ebbe57b47cc4fb2ebe06951081cf7fd2ca3f8a509",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Введение",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-engineering/introduction.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/introduction",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "bcecca405d6ad88b7142f5988a48353dbe557ea9ccc022336cadc4df2d579e12",
+        "reading_copy_sha256": "939e200d2de7a758c9e851060527be73fd16c89481225b1ba50e9506b234c9c6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Безмасштабная эволюционная системная инженерия",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "611d0688b1ebc4021b289abb4fba3d2072b7bead31623df0b1f586aee2fe57a2",
+        "reading_copy_sha256": "611d0688b1ebc4021b289abb4fba3d2072b7bead31623df0b1f586aee2fe57a2",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инженерия",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/engineering.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/engineering",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "10f1ab8af8b26bc38d96eb051d44a93f46868b6881d98c4435d2b7b569028dd9",
+        "reading_copy_sha256": "6b8e9e30e1470e7ba5d5576eaa8cb8d24a016fe51a6118d05249e793499c9622",
+        "joined_adjacent_bold_spans": 26,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Системность инженерии как задающая её безмасштабность и эволюционность",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/the-systems-approach-in-engineering-as-defining-its-scalability-and-evolutionary-nature.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/the-systems-approach-in-engineering-as-defining-its-scalability-and-evolutionary-nature",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a48f6b810317e982ab26642d326763d530f5d354cb93643b5fe9eb17a809e22e",
+        "reading_copy_sha256": "d265b5af0c97e860ca4642a894c043103d2d0ef63990c1850ecf8dfc427c58a5",
+        "joined_adjacent_bold_spans": 12,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 10,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: «неинженерные» инженерные проекты",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/modeling-non-engineering-engineering-projects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/modeling-non-engineering-engineering-projects",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "c68010550329ba31535fd1752d576b2f56087705e475683d4d654cfcfc5e408f",
+        "reading_copy_sha256": "c68010550329ba31535fd1752d576b2f56087705e475683d4d654cfcfc5e408f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инженерия и эволюция",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/engineering-and-evolution.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/engineering-and-evolution",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f48768ce876c44371ec9394966e8ce5d3e97bd43f2855af731df87a14b504231",
+        "reading_copy_sha256": "d95654f37d68cb95256f46c7faa5f9ecf60e13e11d4a2ac7a170cb6c1991d352",
+        "joined_adjacent_bold_spans": 51,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 19,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Динамический ландшафт приспособленности",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/dynamic-fitness-landscape.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/dynamic-fitness-landscape",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d2624daa0f87b283f21b8538f80f02c476338ada86a6e199df6ad7f3001182b9",
+        "reading_copy_sha256": "789b44a60f92d53774cee54362921bc405c32ac70efbdba810a2139c98583909",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 20,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/0.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/0.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/1.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/1.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/2.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/2.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/3.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/3.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Эволюционная неизбежность этических/политических проблем и инженерные подходы к их решению",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/evolutionary-inevitability-of-ethical-political-issues-and-engineering-approaches-to-solving-them.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/evolutionary-inevitability-of-ethical-political-issues-and-engineering-approaches-to-solving-them",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b30c7034e9b153a965dae14c4c7ae6885ca0a0f1c0fafbcb64e884f16baa881f",
+        "reading_copy_sha256": "6ca0e52d0bad2a7c26e6d7912d85f6180414c590706638ddbb5af969188d3229",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 18,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/4.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/4.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Слова-термины в безмасштабной эволюционной инженерии и важны, и не важны",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/terms-in-scale-free-evolutionary-engineering-both-important-and-unimportant.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/terms-in-scale-free-evolutionary-engineering-both-important-and-unimportant",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "640a2b6cc9ee3a55a2dbee18e3ac77a54359113ae79513a57499673e59557f29",
+        "reading_copy_sha256": "14edf802d0aba7cbb10d60ca39370b62e9f25135ebf40735bc63250ef0c7eb8a",
+        "joined_adjacent_bold_spans": 16,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 20,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/5.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/5.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Прикладная инженерия как специализация системной инженерии",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/applied-engineering-as-a-specialization-of-systems-engineering.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/applied-engineering-as-a-specialization-of-systems-engineering",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4faa75f5d538b3b953b1f56e3d1e78d14f50471f2606f44c040dcd27c1304b6e",
+        "reading_copy_sha256": "a08141f6e2d930d7f5ee0f31981a00a7d4caedd5ba8e793d398e7fa15fb6f1c1",
+        "joined_adjacent_bold_spans": 14,
+        "adjacent_italic_boundaries_joined": 7,
+        "converted_inline_footnotes": 7,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/6.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/6.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/7.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/7.jpeg"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/8.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/8.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/scale-free-evolutionary-systems-engineering/assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "888c7c0aaf9d0f58ee2ec6d99bc28ed00d456daa8837772efcc5a4eb77243416",
+        "reading_copy_sha256": "888c7c0aaf9d0f58ee2ec6d99bc28ed00d456daa8837772efcc5a4eb77243416",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Архироль создателя/инженера и разделение инженерного труда",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "cef40339f96614986f431559c19dad5c1e3cafd6cccd1abf403d821531502e83",
+        "reading_copy_sha256": "cef40339f96614986f431559c19dad5c1e3cafd6cccd1abf403d821531502e83",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Роль системного инженера в её отличии от роли прикладного инженера",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/role-of-a-systems-engineer-vs-an-applied-engineer.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/role-of-a-systems-engineer-vs-an-applied-engineer",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "95792ffc8198a2b673fd2bc8d95561bc39876ff2cb2681369748c3fbb1927fb6",
+        "reading_copy_sha256": "3444ba2b2ebf8cbbda0b23669e01418188132ea34212aeff6635f15cd1b14d17",
+        "joined_adjacent_bold_spans": 6,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/9.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/9.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Разделение инженерного труда",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/division-of-engineering-labor.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/division-of-engineering-labor",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "862356ef0c24cdf7da2fe27b9a730ec0ee6eafe055fa0b9efcf09eb72290c7f8",
+        "reading_copy_sha256": "1e69601bc893c4b0bbfa3fa206859ffbc39f1b18cabc21c8b5044575db741637",
+        "joined_adjacent_bold_spans": 8,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/10.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/10.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/11.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/11.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 26
+      }
+    },
+    {
+      "title": "Системная инженерия в основе сотрудничества",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/systems-engineering-as-the-foundation-of-collaboration.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/systems-engineering-as-the-foundation-of-collaboration",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "691774a76e7c17eaa8276183149e16a5ae721dbc0543d46c4f525d1bade3416c",
+        "reading_copy_sha256": "20f8a522926d6604d8ebe83b6b47fda29a068803b9550fe8e499186b5f870a47",
+        "joined_adjacent_bold_spans": 28,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 12,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/12.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/12.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инженерия и наука",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/engineering-and-science.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/engineering-and-science",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c7c282a3c4f31f204512fa8babf1b9779663ffcf2afaa80296aba733f0300c42",
+        "reading_copy_sha256": "2fb3aae32d485626eb5d4aabf2c2386e33f12a890995c00372ced91c483e2638",
+        "joined_adjacent_bold_spans": 26,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 6,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/13.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/13.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/14.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/14.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/15.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/15.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Ненаучность инженерии. Эвристики",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/unscientific-nature-of-engineering-heuristics.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/unscientific-nature-of-engineering-heuristics",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "57b5b32b639e77cf53fbf0bdde077e71039c0c14ec0d152642e9d2d8e9689261",
+        "reading_copy_sha256": "ba735b41f8eb6cad84a19e465856f5912ea61c6c4dd5cd49eed2fc91c5034e3d",
+        "joined_adjacent_bold_spans": 38,
+        "adjacent_italic_boundaries_joined": 1,
+        "converted_inline_footnotes": 11,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/16.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/16.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/17.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/17.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 55
+      }
+    },
+    {
+      "title": "Инженерная наука",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/engineering-science.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/engineering-science",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "12f89220c8d7c601be852b7c0b161c0a91e45298fa9191aa38f5495bcf3817ee",
+        "reading_copy_sha256": "9fcacb5abdd190fef92658c71602aaee61a97c6542e872b7a8d02b66ba8bc214",
+        "joined_adjacent_bold_spans": 17,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 6,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: мои инженерные проекты",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/modeling-my-engineering-projects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/modeling-my-engineering-projects",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "8d5ae40148bf0961acccb4a5fd3c6e6e25e75077884cf88049399c7a10288416",
+        "reading_copy_sha256": "8d5ae40148bf0961acccb4a5fd3c6e6e25e75077884cf88049399c7a10288416",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/arch-role-of-creator-engineer-and-the-division-of-engineering-labor/assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "c9ac31baa6502c2cb4c9ed5a30ff7feb1a55ab26d8d0babf064d372e0d65748c",
+        "reading_copy_sha256": "c9ac31baa6502c2cb4c9ed5a30ff7feb1a55ab26d8d0babf064d372e0d65748c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инженерный процесс",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-process/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-process/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "7457b2e0c76eea3a39bd31d5a4ba96225883e9541da07e3a4935ca6f4ac5a2c8",
+        "reading_copy_sha256": "7457b2e0c76eea3a39bd31d5a4ba96225883e9541da07e3a4935ca6f4ac5a2c8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Тренды современной системной инженерии",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-process/trends-in-modern-systems-engineering.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-process/trends-in-modern-systems-engineering",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c997cb5424c5ed0d8b1d85a3655f9b01b43a89804d48d42c3f42028d93a17912",
+        "reading_copy_sha256": "a16df8eda4607f47edde263c41a6c5267ebf7dae960220335361ef114e7fe06f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 18,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: инженерные тренды и мой рабочий проект",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-process/modeling-engineering-trends-and-my-work-project.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-process/modeling-engineering-trends-and-my-work-project",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "4dad5a26b696b12eb7c5261432577e72a471c1f4e9731c0469ee9018811f7a67",
+        "reading_copy_sha256": "4dad5a26b696b12eb7c5261432577e72a471c1f4e9731c0469ee9018811f7a67",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Что делают разработчики",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-process/what-developers-do.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-process/what-developers-do",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e05149c925d7f45ca3335cae812f22c84dab6e1a78c7166e6f9693b5e9a2c82b",
+        "reading_copy_sha256": "12c8e24d1a61475943333a8957e8b3427a499dc1980114643498505583b10b2c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 6,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/18.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/18.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/19.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/19.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/20.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/20.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Смерть инженерии требований",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-process/the-death-of-requirements-engineering.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-process/the-death-of-requirements-engineering",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "8055ac05b4134aecd28c0f54fe8575ff2f6f688e17bc0b3fb9f2df9852d49eb1",
+        "reading_copy_sha256": "7567ba221f145685a384af0eb23ccf58a843bfd4c74a50bb04fb301424e3ea22",
+        "joined_adjacent_bold_spans": 15,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 18,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/21.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/21.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/22.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/22.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/23.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/23.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/24.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/24.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/25.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/25.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/26.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/26.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/27.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/27.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 33
+      }
+    },
+    {
+      "title": "Моделирование: мой «испорченный телефон»",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-process/modeling-my-broken-telephone.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-process/modeling-my-broken-telephone",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "086b962b6f07aff366417f742b5764686035a4f7d949233ac7f1ef92dd7be290",
+        "reading_copy_sha256": "086b962b6f07aff366417f742b5764686035a4f7d949233ac7f1ef92dd7be290",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "TEST концепция использования и концепция системы",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-process/test-usage-concept-and-system-concept.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-process/test-usage-concept-and-system-concept",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "fbd3a682667317d1ccfa1bdc0a36fc8c4976b3e06e60fb516a23ebbc597a210f",
+        "reading_copy_sha256": "fbd3a682667317d1ccfa1bdc0a36fc8c4976b3e06e60fb516a23ebbc597a210f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Разработка концепции использования и концепции системы",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-process/developing-the-usage-concept-and-system-concept.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-process/developing-the-usage-concept-and-system-concept",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "76516a549e8d9ed5e0f5bc31d7d0b6972f208860643540546a840e9091911107",
+        "reading_copy_sha256": "b3e426bf820635a394e75300a46aa5ff4ab1f4e8daaf06b0c46b705f9d796112",
+        "joined_adjacent_bold_spans": 14,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 14,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/28.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/28.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: визионер, разработчик, эволюционный архитектор в моём проекте",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-process/modeling-visionary-developer-evolutionary-architect-in-my-project.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-process/modeling-visionary-developer-evolutionary-architect-in-my-project",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "844c9015d5f051ad658d5c886d798b3d9d3241d7b53cd9f4cede190819bb9d4f",
+        "reading_copy_sha256": "844c9015d5f051ad658d5c886d798b3d9d3241d7b53cd9f4cede190819bb9d4f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Прикладная методология предметной области",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-engineering/applied-methodology-of-the-subject-area/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/applied-methodology-of-the-subject-area/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "816fdc4f077db71ad67308a70e2fdeb875bdc5051c18aac9743292eb9ce3a819",
+        "reading_copy_sha256": "816fdc4f077db71ad67308a70e2fdeb875bdc5051c18aac9743292eb9ce3a819",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Функциональное проектирование",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-engineering/applied-methodology-of-the-subject-area/functional-design.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/applied-methodology-of-the-subject-area/functional-design",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3d6dc57ecad5f736a7fc64ebcf938f8f9abd0c903d92b176b965358206e2ab8a",
+        "reading_copy_sha256": "1f66de09ff2a03a72ad8e2730daef4bcaf69989f83b2e09aaa956c4827842950",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 25,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/29.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/29.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/30.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/30.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/31.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/31.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/32.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/32.jpeg"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/33.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/33.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Сценарии использования",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-engineering/applied-methodology-of-the-subject-area/use-cases.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/applied-methodology-of-the-subject-area/use-cases",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1c81f05be54054dfe64391d25d5b4eb85e13c34b722284349ea225193de8116a",
+        "reading_copy_sha256": "052650267d1b07b09082c90baa7dceef965b1bd0da342f8723dd9cd4e2429c08",
+        "joined_adjacent_bold_spans": 70,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/34.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/34.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/35.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/35.jpeg"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/36.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/36.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/37.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/37.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/38.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/38.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/39.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/39.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/40.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/40.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/41.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/41.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/42.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/42.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 85
+      }
+    },
+    {
+      "title": "Задания",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-engineering/applied-methodology-of-the-subject-area/assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/applied-methodology-of-the-subject-area/assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ecfa274741bd3e889c25b7980747cf6f6d73412f1c092936bc7f0ef2ac63c2cd",
+        "reading_copy_sha256": "ecfa274741bd3e889c25b7980747cf6f6d73412f1c092936bc7f0ef2ac63c2cd",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Эволюционная архитектура",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-architecture/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-architecture/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "cd0ffabf953b797e92c669e11dba4b2bfed36a427173879683d895ca59786b23",
+        "reading_copy_sha256": "cd0ffabf953b797e92c669e11dba4b2bfed36a427173879683d895ca59786b23",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Архитектура: было «про трудно изменяемое», стало «про облегчение изменений»",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-architecture/architecture-from-hard-to-change-to-facilitating-change.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-architecture/architecture-from-hard-to-change-to-facilitating-change",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5aa1f129ba4f23cc4e60588c9303c6d60a27d330168fad7f38be988d898afb86",
+        "reading_copy_sha256": "4d5e61f8923a4fa8516bd46be80c46c82e5d84417548fb586b5298b6f46266e7",
+        "joined_adjacent_bold_spans": 15,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/43.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/43.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Архитектурные характеристики",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-architecture/architectural-characteristics.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-architecture/architectural-characteristics",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b72ab5dac40891a767acb7d0b65ee1a7f95bcc0a3a043c90293a09a2d7134acf",
+        "reading_copy_sha256": "08c844d8ed2ee1a0f781eeaceeee1c38b5770169411542892dafc606045aa29d",
+        "joined_adjacent_bold_spans": 8,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 6,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/44.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/44.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/45.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/45.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/46.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/46.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: архитектурные характеристики",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-architecture/modeling-architectural-characteristics.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-architecture/modeling-architectural-characteristics",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "f0edc30410fca404d503e1fda222ac27f661476603dc0f4067d38005641e5c84",
+        "reading_copy_sha256": "f0edc30410fca404d503e1fda222ac27f661476603dc0f4067d38005641e5c84",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Архитектурные решения",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-architecture/architectural-solutions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-architecture/architectural-solutions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e349a1b9839ea0c713a49d40721203f81e53614162db0f4a499576a43f152a16",
+        "reading_copy_sha256": "5888368690eb50e39b3749a3b661f66cd0ea58afef9beedc34567aedfcc3db63",
+        "joined_adjacent_bold_spans": 19,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/47.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/47.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Прохождение архитектурных развилок",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-architecture/navigating-architectural-forks.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-architecture/navigating-architectural-forks",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4f804980e46a87aed8e8f3b8c3d5f2a722ba5f27a90e75c210b4555b59e4b668",
+        "reading_copy_sha256": "9b4ed18ec8a284ac922c75ce18dfc5fad1828fb5146d6cfa0e8a710c79105022",
+        "joined_adjacent_bold_spans": 5,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Архитектурные стили",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-architecture/architectural-styles.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-architecture/architectural-styles",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9e9158081af3f57d92f39ca8659266e7c990a23a38c0cc737f75e4591657e8ee",
+        "reading_copy_sha256": "2075135a9c746da18a5fed2183f175d86f4e312444139d3b69cb1c176aed0b2a",
+        "joined_adjacent_bold_spans": 13,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-architecture/assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-architecture/assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "c9ac31baa6502c2cb4c9ed5a30ff7feb1a55ab26d8d0babf064d372e0d65748c",
+        "reading_copy_sha256": "c9ac31baa6502c2cb4c9ed5a30ff7feb1a55ab26d8d0babf064d372e0d65748c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Эволюционное проектирование",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "74ce35ac4fc94bc3915c918a402d9f451c31fdda54662274a61d18b95c8734c5",
+        "reading_copy_sha256": "74ce35ac4fc94bc3915c918a402d9f451c31fdda54662274a61d18b95c8734c5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Проект/design и проектирование/design",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/project-design-and-planning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/project-design-and-planning",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4567afac921a0e98359242f5504af0e6ecd233afd26fa3c82654f9589f0e28e0",
+        "reading_copy_sha256": "86d0dce221fc520c0cb5e3855dbb4cfe3e576630447e304f42aba39730a2f42a",
+        "joined_adjacent_bold_spans": 22,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: идеи для концепции моей системы",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/modeling-ideas-for-my-system-concept.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/modeling-ideas-for-my-system-concept",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "f5f26a98f888b8397cece3a616f82b85a89df47ab312ad2e08c7215ac6ab7171",
+        "reading_copy_sha256": "f5f26a98f888b8397cece3a616f82b85a89df47ab312ad2e08c7215ac6ab7171",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Принятие решения: прохождение развилок (trade-offs)",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/decision-making-navigating-trade-offs.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/decision-making-navigating-trade-offs",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "81b8dbdfc900c1a3c8a22ebdce054deaa27afafe79f51a52e71a13c6979a8fb3",
+        "reading_copy_sha256": "c60758cd367c17386bf356a713ebd3111d802b6004de4828324dd1374817af96",
+        "joined_adjacent_bold_spans": 14,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 18,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/48.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/48.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/49.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/49.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Системное проектирование",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/systems-design.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/systems-design",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9852647adb5b0c18a1eab550baf07e66811e4b2b65adbafca031f3336b90b3ea",
+        "reading_copy_sha256": "6785abd301008593a06eb3c67ab4c2f221b207a38266a9b72ba074658573515e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/50.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/50.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/51.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/51.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Проектирование как следование архитектуре",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/design-as-following-architecture.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/design-as-following-architecture",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7c0351d089291c85c1f5e5deff9c212538a55dbffc688f7665354619b7e8bf96",
+        "reading_copy_sha256": "36adbdc003d54270327fe11a7377d33175b2438f2d363dee6871cdc53db3f250",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/52.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/52.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/53.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/53.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/54.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/54.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/55.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/55.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/56.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/56.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Как неправильно понять первый подраздел про «требований теперь нет»",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/how-to-misunderstand-the-first-subsection-on-requirements-no-longer-exist.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/how-to-misunderstand-the-first-subsection-on-requirements-no-longer-exist",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c6ec632811c7c684364b2d54fc1f53776df6c9e97845aed2d3734b3af3c8f3e8",
+        "reading_copy_sha256": "c6ec632811c7c684364b2d54fc1f53776df6c9e97845aed2d3734b3af3c8f3e8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "4b29ca3668512dd745c1d41838ea7c5b286e1fcfc0cddd5530d785d1cc71fb75",
+        "reading_copy_sha256": "4b29ca3668512dd745c1d41838ea7c5b286e1fcfc0cddd5530d785d1cc71fb75",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Системный менеджмент и разработка",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/systems-management-and-development.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/systems-management-and-development",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "25448d3bac9c77e81c9bf05b51387aa4e4d236e7b4f6cd86e9978b1cda4a80d4",
+        "reading_copy_sha256": "de2c91b96a01d6dfb8674be8938d0acc1cf99bf072b59cfe51535af526563c49",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 10,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/57.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/57.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/58.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/58.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/59.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/59.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/60.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/60.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Безошибочность проектирования, точность изготовления, тотальная автоматизация инженерии",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/error-free-design-precision-manufacturing-total-engineering-automation.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/error-free-design-precision-manufacturing-total-engineering-automation",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "fa334daf5c97c58b81f6427093c766c396e62abbbc2a3d362a4f565b0175a0da",
+        "reading_copy_sha256": "a736ff133be3e0fb7490205d7689dd3671b157813b21c8d64dfb9c6bd2989bb0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 10,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/61.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/61.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задание",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/systems-engineering/evolutionary-design/assignment.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/evolutionary-design/assignment",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "0e3e1c7777f3ff4f8c20b06194bc6d37161865bfc0c3eb2c5fbe4105e767570d",
+        "reading_copy_sha256": "0e3e1c7777f3ff4f8c20b06194bc6d37161865bfc0c3eb2c5fbe4105e767570d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "DevOps",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "5a7fb9bd0a932b76c101452a25d5b39d2603a762dcc9938be01e17b85f3fe818",
+        "reading_copy_sha256": "5a7fb9bd0a932b76c101452a25d5b39d2603a762dcc9938be01e17b85f3fe818",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "DevOps и инженерия платформы",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/devops-and-platform-engineering.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/devops-and-platform-engineering",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "82c2f8c3df609fb53c22c5d263ae69e220f2ab07b71bc7f6450ad8e5ad4a4f94",
+        "reading_copy_sha256": "57b511f4c5e7f595ae5a953b5b1fc72ab854bc4bfd314772a24afc13ed3ad761",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 8,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/62.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/62.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/63.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/63.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Составляющие DevOps",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/components-of-devops.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/components-of-devops",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e4dbe5e2e61830fccf0d2998d1de5c2591a268949c0fbe984098f5c12ccc1c5c",
+        "reading_copy_sha256": "c11b5f1e794b978bb0aff1311dde718f8a34d5e9b40c1709429cae7fa45fd1db",
+        "joined_adjacent_bold_spans": 48,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/64.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/64.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/65.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/65.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/66.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/66.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Управление конфигурацией",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/configuration-management.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/configuration-management",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "96e2291e647f96314f5c5367b29036d904cd2f354edc3c464abde66b158092ee",
+        "reading_copy_sha256": "eb6deac7cd49d5e76b0b3a47ee0f5671a5771b4405d240fadf784fde9e76dc3f",
+        "joined_adjacent_bold_spans": 27,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/67.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/67.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/68.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/68.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: рабочие продукты, которые вы изменяли",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/modeling-work-artifacts-you-modified.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/modeling-work-artifacts-you-modified",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "8df9a87551bace4e6e0f47ed00374d095c62e90d8e75ac6f0a97deb1932d8cc3",
+        "reading_copy_sha256": "8df9a87551bace4e6e0f47ed00374d095c62e90d8e75ac6f0a97deb1932d8cc3",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Чеклисты в регламентации",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/checklists-in-regulation.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/checklists-in-regulation",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "93a95c718a9b85282b23bb5e68dd11acd1a1d9beea869d7408d067a3086d39c4",
+        "reading_copy_sha256": "79a1a8224bf4b6fe2fae0af0ea5528e81333ac79f8382eecc33bcbb49972292c",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/69.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/69.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/70.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/70.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/71.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/71.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "6-, Multi-, poly-, … D",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/6-multi-poly-d.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/6-multi-poly-d",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3d64f8ccbadd0ea8e946c2e81df0a1c563c3bae0d5b904631317849ea831629f",
+        "reading_copy_sha256": "6a3aaa791d14ce8cd62d3a8d679adc464cfdf144972dfd24c1cad0a227ae728c",
+        "joined_adjacent_bold_spans": 11,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/72.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/72.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Интеграция данных",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/data-integration.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/data-integration",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a20c21035762748b2cfaf180683e0bc43fa5ec944d034e6967d8bac16cac1137",
+        "reading_copy_sha256": "2f971756f1233607acc1f1dce33a75e17dfd89cdcd50133031625e07518929c9",
+        "joined_adjacent_bold_spans": 8,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 13,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/73.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/73.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/74.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/74.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/75.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/75.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: конфигурационные коллизии",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/modeling-configuration-collisions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/modeling-configuration-collisions",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "b8310b123a134ced88938a967f87ec527aa2121d36e4d4515303a997198d1838",
+        "reading_copy_sha256": "b8310b123a134ced88938a967f87ec527aa2121d36e4d4515303a997198d1838",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Цифровой двойник",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/digital-twin.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/digital-twin",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a31a1cb0308d277f041aff2ea518fdc616e9f4a190758e3c4d8580a8d87935a3",
+        "reading_copy_sha256": "92b91699cb0583faa12a112c124fbe8563eb9c7fd8953fa6497d253b2bf89c7a",
+        "joined_adjacent_bold_spans": 18,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/76.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/76.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: цифровые модели, тени, двойники в рабочем проекте",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/modeling-digital-models-shadows-twins-in-a-work-project.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/modeling-digital-models-shadows-twins-in-a-work-project",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "26f72d1302cddd96214d7d0700785ee5dc24c64972aae0883b5e294b3895c967",
+        "reading_copy_sha256": "26f72d1302cddd96214d7d0700785ee5dc24c64972aae0883b5e294b3895c967",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/systems-engineering/devops/assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/devops/assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "cb579736589a69be570f06685cd7a99d4b63c0fb17561c7a7a937b388a7cfec6",
+        "reading_copy_sha256": "cb579736589a69be570f06685cd7a99d4b63c0fb17561c7a7a937b388a7cfec6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инженерные обоснования",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "8a0b70aee849479e7db15f9bf6d824391bc7316c99b6e4713768d5b83d8e17b9",
+        "reading_copy_sha256": "8a0b70aee849479e7db15f9bf6d824391bc7316c99b6e4713768d5b83d8e17b9",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Испытания, проверка и приёмка, обоснования",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/testing-verification-and-validation-justifications.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/testing-verification-and-validation-justifications",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2dd0df618a209c67aeda9ac2180f4823c9a415436004ca350df4e2fdb0f6d1a2",
+        "reading_copy_sha256": "4d2b3d49e24f53dfc92ceaf9c507328bdaf3ef73560d603428164605cd2ef7f9",
+        "joined_adjacent_bold_spans": 28,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/77.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/77.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование: обоснования в инженерии",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/modeling-justifications-in-engineering.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/modeling-justifications-in-engineering",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "9783a3bc73dc8bdf33da0ea5a1d6d4c0adcba15b3c4b68192532e5e142bdef4a",
+        "reading_copy_sha256": "9783a3bc73dc8bdf33da0ea5a1d6d4c0adcba15b3c4b68192532e5e142bdef4a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Что обосновывают в инженерии",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/what-is-justified-in-engineering.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/what-is-justified-in-engineering",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2a4e2e947954fedc325058b3f022ff31c753c93fadab7a6fd1232177c0ba7bb6",
+        "reading_copy_sha256": "a9ad89a824e010cc81946baea62b169f1aa7cc65147779c689e02fcac1321c85",
+        "joined_adjacent_bold_spans": 28,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [
+          {
+            "source": "/ru/professional/systems-engineering/78.png",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/78.png"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/79.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/79.jpeg"
+          },
+          {
+            "source": "/ru/professional/systems-engineering/80.jpeg",
+            "reading_copy": "../../../../public/ru/professional/systems-engineering/80.jpeg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Рациональность обоснований",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/rationality-of-justifications.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/rationality-of-justifications",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ab7e3204035f01c55f6da8511bd235cc161c0f016793bcca1d1ed17420f10cf1",
+        "reading_copy_sha256": "46685ffc2e2e8a872dbb0ea6f9c2a1752b334ba453a954ff1502d1fdcf391b77",
+        "joined_adjacent_bold_spans": 23,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 19,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Обоснование выполнения требований стандартов (compliance)",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/justification-for-standards-compliance.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/justification-for-standards-compliance",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c4942e67c87b4539e916d9e662450a4ac3db77f7ace31c2a1c8ea651ad33647a",
+        "reading_copy_sha256": "50eb166bc2066e67d3f65f310eca7001c2dde6c3c5a56ae0245e93c2086d9819",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инженерное обоснование деятельно, оно требует ресурсов",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/engineering-justification-requires-resources.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/engineering-justification-requires-resources",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "60d2afcb82e24c7f044aafdaf217ddb700805005426dcf490b267ec9314b64e8",
+        "reading_copy_sha256": "988114a7525fb90e784beb678af82a4d9283491629e0b291d1b89b8889401dda",
+        "joined_adjacent_bold_spans": 32,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 7,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Испытания: это измерения",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/testing-these-are-measurements.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/testing-these-are-measurements",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "90cc45649dcd55006d861c1f8758ef8d3a3e62e2a8ad02f8769f55d7c40bbd96",
+        "reading_copy_sha256": "c990b7adf84206354fb6090a258f1125681c0926d835f8127a22fdeaa331b2ea",
+        "joined_adjacent_bold_spans": 31,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 10,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "888c7c0aaf9d0f58ee2ec6d99bc28ed00d456daa8837772efcc5a4eb77243416",
+        "reading_copy_sha256": "888c7c0aaf9d0f58ee2ec6d99bc28ed00d456daa8837772efcc5a4eb77243416",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Проблемы инженерных обоснований для существ, личности, сообщества, общества",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/systems-engineering/engineering-justifications/engineering-justification-issues-for-beings-individuals-communities-society.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/systems-engineering/engineering-justifications/engineering-justification-issues-for-beings-individuals-communities-society",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7148e18b8f20302bda896dce31441e056ffe9352398c23aebcd0d8da3604f823",
+        "reading_copy_sha256": "c60384c8ef88770a31ed496fbce8e2aa511d12a564fb4f7234e1a214b8620140",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 8,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    }
+  ],
+  "formatting_totals": {
+    "joined_adjacent_bold_spans": 706,
+    "adjacent_italic_boundaries_joined": 8,
+    "converted_inline_footnotes": 393,
+    "strong_spans_using_html_for_github": 199
+  }
+}

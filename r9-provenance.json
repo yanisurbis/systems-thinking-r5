@@ -1,0 +1,1319 @@
+{
+  "course": "R9. Инженерия мастерства",
+  "author": "А. Левенчук",
+  "language": "ru",
+  "verified_at": "2026-09-12T11:44:55.083447+00:00",
+  "upstream_repository": "https://github.com/aisystant/docs",
+  "upstream_commit": "b9989a2bf229510ab66304c0a44f86a5f96689de",
+  "upstream_commit_date": "2026-08-31T16:24:40Z",
+  "acquisition": "Selected publisher Markdown and referenced images from existing native GitHub fork; local Git objects processed sequentially.",
+  "scope": "Russian R9 book pages, chapter navigation, referenced images, reading index and provenance.",
+  "version_note": "Official public Markdown snapshot; exact equivalence to a dated Aisystant interactive edition has not been verified.",
+  "coverage": {
+    "content_page": 58,
+    "workbook_placeholder": 9,
+    "navigation": 11
+  },
+  "assets": [
+    {
+      "path": "docs/public/ru/professional/personality-engineering/4.png",
+      "source_sha256": "a082b5d90b8677fbfe2d1563cb1d193f72c11276d819b727c1c17bcc0795971b"
+    },
+    {
+      "path": "docs/public/ru/professional/personality-engineering/1.png",
+      "source_sha256": "f55a8261faaec6f788165ee5bd5af0b09ac38915cad9430a432535edb01c6fbe"
+    },
+    {
+      "path": "docs/public/ru/professional/personality-engineering/2.png",
+      "source_sha256": "e3891b5e1fadf8720c095ed0d94f5c1c73f92de328eceb144cfb445767ab0737"
+    },
+    {
+      "path": "docs/public/ru/professional/personality-engineering/3.png",
+      "source_sha256": "70bc9bb8348283fef5c4e909982245cff2d3b4d22095185ce7dac74129908a29"
+    },
+    {
+      "path": "docs/public/ru/professional/personality-engineering/0.png",
+      "source_sha256": "1af7a5d6c6bd4810eb7fc0e6b670985d323f183d1dd0a2d33bdb87c0590a12bb"
+    }
+  ],
+  "pages": [
+    {
+      "title": "R9. Инженерия мастерства",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/personality-engineering/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "7bf9f0ae3014539e8c9cc49b771565417304164230fc445ba0c29d4bd9c96cda",
+        "reading_copy_sha256": "7bf9f0ae3014539e8c9cc49b771565417304164230fc445ba0c29d4bd9c96cda",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Введение",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/introduction.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/introduction",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "467249b3d11580a891d77bb34b5f1840c50b3220345580ddc8e5c1a46e24146c",
+        "reading_copy_sha256": "467249b3d11580a891d77bb34b5f1840c50b3220345580ddc8e5c1a46e24146c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Инженерия личности и системная инженерия",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "6fb37090c9db06b8ea724defbb878dc69ca4939d9dc3ef901b39cb800dae5e09",
+        "reading_copy_sha256": "6fb37090c9db06b8ea724defbb878dc69ca4939d9dc3ef901b39cb800dae5e09",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Обучение агентов",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/agent-training.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/agent-training",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "094393a86484a65a2f45b6ac9271c9a48324117bdd31af09ba494ef442380483",
+        "reading_copy_sha256": "148a8185201036c6e36080d7b92b717139f7cfef30257b9d108fc93a8838ca1e",
+        "joined_adjacent_bold_spans": 29,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 20,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Развитие мастерства: вслед за развитием практики",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/mastery-development-following-practice-growth.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/mastery-development-following-practice-growth",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "bc825a2518eb1d2ef40b6550f4ef81ca5011a01071da6bb7f09780ceecb3e125",
+        "reading_copy_sha256": "896cafc41f8e645188edc87b8193c72e70016f218c9b3185a3509ed0417b31c0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Онтология обучения личности",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/ontology-of-personal-learning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/ontology-of-personal-learning",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e22d0f5aa716b0036d336af3b6aa50ede24d6e8f49a0a010fed21be7f9f5c7c2",
+        "reading_copy_sha256": "9a8143e0bf5700fa5612cd01d4f641f321fee6c3acaf9762e61a75fd285e4d19",
+        "joined_adjacent_bold_spans": 17,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Адаптация системной схемы проекта для проекта учебного курса",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/adapting-the-system-diagram-for-the-course-project.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/adapting-the-system-diagram-for-the-course-project",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3d39a758f19318c7e3010e5592dc2f7e9fc77b4b1ebb47b569c29f675c561585",
+        "reading_copy_sha256": "c5b206958bde9ff996a6bdabaea171fbdf0f10c263cd7bed4ea7ca20b23afb10",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [
+          {
+            "source": "/ru/professional/personality-engineering/0.png",
+            "reading_copy": "../../../../public/ru/professional/personality-engineering/0.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Мастерство",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/mastery.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/mastery",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "cba6796cbafe345bdb07ab43e4edcda3b0d64c5493723531b668e4cae42f22b2",
+        "reading_copy_sha256": "2e799f3c50fdc6dc25d919d6a1f8f42a6901d83ff08b5cce344754067070fae9",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 3,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Описание мастерства/цифровой двойник целевого мастерства",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/description-of-mastery-digital-twin-of-target-mastery.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/description-of-mastery-digital-twin-of-target-mastery",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a041838de381e030e0710382799eb75c7ba8a228bab56738814f0077ca62b61e",
+        "reading_copy_sha256": "fffb692d5ff1a1d31a69ed6387431fb81ec7d6056e41851b3e9de98d8bc125b4",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Работы мастерства",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/mastery-works.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/mastery-works",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "18ce1df4d9c1dc7f61e172cc54a62f416a32c41b07c34569ac34a800698c4064",
+        "reading_copy_sha256": "18ce1df4d9c1dc7f61e172cc54a62f416a32c41b07c34569ac34a800698c4064",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Внешние роли проекта обучения",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/external-roles-of-the-training-project.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/external-roles-of-the-training-project",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "caef4be3e9cd625177e001e1a18a6cbbc3ace3982543926bbfbc08fe2459f971",
+        "reading_copy_sha256": "4d3bf7cb94146b3bc96480dc320a8ebedb1b6a477e759a74d6d58073107d79ea",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Упражнение по альфе внешних проектных ролей",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/exercise-on-external-project-role-alphas.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/exercise-on-external-project-role-alphas",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "9c9bec9edadace74c829a6f8acab78c9a0da4d987a3f93ef364f073e850ed92a",
+        "reading_copy_sha256": "9c9bec9edadace74c829a6f8acab78c9a0da4d987a3f93ef364f073e850ed92a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Учительская команда",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/teaching-team.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/teaching-team",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f4355af7cae1f2934ca64ca30eab6c6a496506278879a8dd0f4c8f75ee5cab62",
+        "reading_copy_sha256": "47b358885ef3760f28f8202c8d93a87681b90d11dbebe1bfb245bbfdb2ad916b",
+        "joined_adjacent_bold_spans": 6,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Оргмодель учительской команды / команды провайдера обучения",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/organizational-model-of-a-teaching-team-education-provider-team.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/organizational-model-of-a-teaching-team-education-provider-team",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "03c0a95b5301f46ee358a87da90e0e721f8a480b873ffe472c3c8266bb6dd3da",
+        "reading_copy_sha256": "03c0a95b5301f46ee358a87da90e0e721f8a480b873ffe472c3c8266bb6dd3da",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Работы учительской команды",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/teacher-team-projects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/teacher-team-projects",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a99e6b9cc591cbacf65327931cd6587592f9943ee9ecbce9689b435b7e52b6ee",
+        "reading_copy_sha256": "374e6399711de953c718f112598e9b5bbdf7d77c770e7c1d1651e09ec3ebcd3b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Организация обучения (менеджмент провайдера обучения)",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/training-organization-training-provider-management.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/personality-engineering-and-systems-engineering/training-organization-training-provider-management",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7152dfed6265520a1affb6d0e96e93b6a37deb83cb6ee30b32b9f6be417ef88c",
+        "reading_copy_sha256": "7152dfed6265520a1affb6d0e96e93b6a37deb83cb6ee30b32b9f6be417ef88c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Практика культуртрегерства",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/cultural-promotion-practice/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/cultural-promotion-practice/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "2be3931ecd8f5bd8cffa3f6dc5d7c0feffe0ad33fd485d6563f00c6576851573",
+        "reading_copy_sha256": "2be3931ecd8f5bd8cffa3f6dc5d7c0feffe0ad33fd485d6563f00c6576851573",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Роль культуртрегера",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/cultural-promotion-practice/role-of-the-cultural-promoter.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/cultural-promotion-practice/role-of-the-cultural-promoter",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "50c50d3a16fe702221777050bc01d58c2bfd5247f72a7b2dcd357ee45acbe66e",
+        "reading_copy_sha256": "922865b49a0244a015007da67019f1a431705bc12385df9fcb309bf1228f21d9",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Пример усиления интеллекта c помощью практик интеллект-стека",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/cultural-promotion-practice/example-of-enhancing-intelligence-with-intelligence-stack-practices.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/cultural-promotion-practice/example-of-enhancing-intelligence-with-intelligence-stack-practices",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "8eeb352502c953498546b2a99d4ea715a42863db0f5e0d5b61d1844956745309",
+        "reading_copy_sha256": "a794c2560875d4dec09beb1ea9d952fc8ff9e110c5f753efd0954b0143e6c9d7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Алгоритм культуртрегерства: его нет!",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/cultural-promotion-practice/the-algorithm-of-cultural-promotion-it-doesn-t-exist.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/cultural-promotion-practice/the-algorithm-of-cultural-promotion-it-doesn-t-exist",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9c20bc1818a366f2bdc2f4cd27bd43730a772ba66cb6c2f3e0bc26fcebaff5f6",
+        "reading_copy_sha256": "2213c7d067d87f7604ecc2f73a72f8476a3a57773e2085cfe204b91a51c3d0b5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Коммерческая возможность обучения",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/personality-engineering/cultural-promotion-practice/commercial-learning-opportunity.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/cultural-promotion-practice/commercial-learning-opportunity",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0e384bb4d127ae1470ffff80c6eab7f7f8b36640824da64c44f394de2ebec303",
+        "reading_copy_sha256": "f6c1d804d86633c76fd3ecac01f46c751d8407a0a994704b7bf7ddd32abbe7f2",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Упражнение по альфе коммерческой возможности",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/personality-engineering/cultural-promotion-practice/alpha-commercial-opportunity-exercise.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/cultural-promotion-practice/alpha-commercial-opportunity-exercise",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "27da53e0a186be5c400971a40e18d054e68d924794d6ffc4026984afea05f36e",
+        "reading_copy_sha256": "27da53e0a186be5c400971a40e18d054e68d924794d6ffc4026984afea05f36e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания по культуртрегерству",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/personality-engineering/cultural-promotion-practice/cultural-promotion-assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/cultural-promotion-practice/cultural-promotion-assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "7610a4b9cd9f93958204a4eff7b2b25870e4d6dea10c49e763dbfbd018dbb22f",
+        "reading_copy_sha256": "7610a4b9cd9f93958204a4eff7b2b25870e4d6dea10c49e763dbfbd018dbb22f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Практика методологической работы: «чему учить»",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "9ef0b7b20de3b4bc47a00f9e6a4108d4cb434a56c9d88af5348490286c270711",
+        "reading_copy_sha256": "9ef0b7b20de3b4bc47a00f9e6a4108d4cb434a56c9d88af5348490286c270711",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Место методологии в обучении",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/the-role-of-methodology-in-education.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/the-role-of-methodology-in-education",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9706ef9770db8d181646fb6f88522f4a5995f48232586efc0baf5211446c5c7c",
+        "reading_copy_sha256": "9706ef9770db8d181646fb6f88522f4a5995f48232586efc0baf5211446c5c7c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Типовые ситуации методологической работы в обучении",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/typical-situations-in-methodological-work-in-education.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/typical-situations-in-methodological-work-in-education",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7050bfe536064b18e19c1a96ad04cfd5a7e31a169b01cec2a4845b46fa6c05cc",
+        "reading_copy_sha256": "0ee278ce419fe6ed3e5a1fedff540151d60a4fb5bb0c6cbb582539ff215400ec",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Основная альфа методологии: описание практики",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/core-alpha-of-methodology-practice-description.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/core-alpha-of-methodology-practice-description",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "898ddc4b2b3ab88b5068f4f3ceec92f8c55f1bf54727728ecb8a346e4e55383d",
+        "reading_copy_sha256": "930b545214fcc17a521681efb54a6f18908e842fc98244d185abb310e6a51845",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Описание степени мастерства как «образовательный стандарт»",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/description-of-mastery-level-as-an-educational-standard.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/description-of-mastery-level-as-an-educational-standard",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "fa181748de097b1d435623832d57342e5c8d6b827ad171c69a4c5e72bab50450",
+        "reading_copy_sha256": "fa181748de097b1d435623832d57342e5c8d6b827ad171c69a4c5e72bab50450",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Отличие кругозорного обучения от профессионального",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/difference-between-broad-based-learning-and-professional-learning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/difference-between-broad-based-learning-and-professional-learning",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9a852d9b25541e4d92289b6ea8d3ef2ec5c32c1a98f4f00d27108add3b1cea84",
+        "reading_copy_sha256": "08adce75f385917d7839364fa2d979f7a523312804da3f096abc77587a348f34",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Особенности методологической работы в проектах обучения",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/features-of-methodological-work-in-training-projects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/features-of-methodological-work-in-training-projects",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b2ac1557a29803fff5e2ec6c95daf9edaa5b0c35bc32781c5823b68b7576e2af",
+        "reading_copy_sha256": "2cb40e5194ad2956d44e0ebee82e408b8dbd61b35b04f029f212165bf80eed61",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Упражнение по альфе описания мастерства",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/alpha-description-mastery-exercise.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/alpha-description-mastery-exercise",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "86f0d6ee7513805595f78109eeedd1d795afe2d510d27f71f980e52ea9cb6024",
+        "reading_copy_sha256": "86f0d6ee7513805595f78109eeedd1d795afe2d510d27f71f980e52ea9cb6024",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания по методологии",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/methodology-assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-work-practice-what-to-teach/methodology-assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "affc470fc23a35510adc238c2ca782bb800d056442c630115a2ea781b02eaf00",
+        "reading_copy_sha256": "affc470fc23a35510adc238c2ca782bb800d056442c630115a2ea781b02eaf00",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Практика методической работы: «как учить»",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "2a72c746d2856498367b9582f97c4b6f89e74982aedfdb851923093b5fda2d60",
+        "reading_copy_sha256": "2a72c746d2856498367b9582f97c4b6f89e74982aedfdb851923093b5fda2d60",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Чем занимается методист",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/what-does-a-methodologist-do.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/what-does-a-methodologist-do",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ff1970a1bf095652d7dc6aa6e26c56eb3d2b8b481114101f6cf25dc232989255",
+        "reading_copy_sha256": "d2ec0aa387036eb60b85219788e3955910e91104387852cc52d69b1d02a04e2c",
+        "joined_adjacent_bold_spans": 5,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Мотивация и предметное содержание как две составляющих методики",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/motivation-and-subject-content-as-two-components-of-the-methodology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/motivation-and-subject-content-as-two-components-of-the-methodology",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "03a901f911905f136a8cac804f824ef7420d967f9f4302f2a936ad637288a012",
+        "reading_copy_sha256": "72cc5f1ded6042de875162f36e2ece4921e7bdd2b6f1aa9efc8a5ceb3e4b200a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Когнитивистика и нейронаука как наследники психологии",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/cognitive-science-and-neuroscience-as-successors-to-psychology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/cognitive-science-and-neuroscience-as-successors-to-psychology",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "27adfbc5f8dd8ea98361a22aa228d71cc33fc491ec68ccc0d112d3598185e5b2",
+        "reading_copy_sha256": "02d31bb4a1b8a22d61070b17cbaa3b6b86682c9d9a31d11b9b5e8868b67111a7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 19,
+        "image_paths": [
+          {
+            "source": "/ru/professional/personality-engineering/1.png",
+            "reading_copy": "../../../../public/ru/professional/personality-engineering/1.png"
+          },
+          {
+            "source": "/ru/professional/personality-engineering/2.png",
+            "reading_copy": "../../../../public/ru/professional/personality-engineering/2.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Конструктивизм и конструкционизм",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/constructivism-and-constructionism.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/constructivism-and-constructionism",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3a9e87355b96a12d273acadc27a4218c38cad8b4785d5423e5a71c065494ad11",
+        "reading_copy_sha256": "0b8f2cdb00324383eb986c5bd66118342edaa97a6485b89e21ce9e2852943443",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Учим навыку или пониманию? Пониманию учить вдвое дольше!",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/teaching-skills-or-understanding-teaching-understanding-takes-twice-as-long.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/teaching-skills-or-understanding-teaching-understanding-takes-twice-as-long",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "19ee5f7eae0eb412261a10d01aa7579fc77d7fc81221606e461513757fe29028",
+        "reading_copy_sha256": "525fc831ad3eb77aead7c96f4b7db9cd634945b6a44bd29fd8b42a3d606d9018",
+        "joined_adjacent_bold_spans": 9,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Перечень понятий (concept inventory)",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/concept-inventory.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/concept-inventory",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5d4ffd29f6c0189b2cf5d7d52e861c1c44c1b1a7350d7408b6a2eeb643260838",
+        "reading_copy_sha256": "bffd4efeebd4a1fc847b671569fa0d197ece97e00ed41915eeac589d2e177df4",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Collaborative interactive learning",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/collaborative-interactive-learning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/collaborative-interactive-learning",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "edd3e6c5e60cfed2b2c5051bc5c1471a37a2250d71e8aa3ed0b6b65019c8905e",
+        "reading_copy_sha256": "7966d7da56ac8e037014ee86a375943aa4266930ecba9e3feb087932f953da65",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Программированное и адаптивное обучение",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/programmed-and-adaptive-learning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/programmed-and-adaptive-learning",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b77825ea79b9dddc5559fa2a6ab62a79d4a0793c9d91768516ae616a15d7d096",
+        "reading_copy_sha256": "85362c1950ff1af756209a2bd7bb2fde3ad81a8302806e61192ab8f3418a2c6f",
+        "joined_adjacent_bold_spans": 9,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 9,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Перевёрнутый класс/flip classroom",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/flipped-classroom.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/flipped-classroom",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "36f18b6b1f03397dfb4a7b66c398bb18bfe11c285741ac5b651fe751b72f7858",
+        "reading_copy_sha256": "16993132d76b76b578a552f9baa196948dc23b226bd25255302502b65961aba6",
+        "joined_adjacent_bold_spans": 7,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Mastery Learning",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/mastery-learning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/mastery-learning",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7d4ca3c376e01feedca80c04fabbc1346d7c0e0cd7199e8d1db2f5a5f31537cc",
+        "reading_copy_sha256": "a5662b723552100b4f8028828043715c6ec6767e8681e0159eae8c87d9e9b78f",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Смешанное обучение/blended learning",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/blended-learning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/blended-learning",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1e928ddcc139346f213e409c37c70dde7447966017e9295ee7fe8dca4c02c1a7",
+        "reading_copy_sha256": "881b5614298965185a696c66f9d0c254ce8d4cc57ad1e436d81a47fbfa0a24c5",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Перенос в жизнь/transfer of learning",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/transfer-of-learning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/transfer-of-learning",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ac23e5ed439889697b29281c98b295f91b92f99734ee4f36bda739e3d2189c79",
+        "reading_copy_sha256": "f4454cebcf8d8dde180a09e89695a571fc9c9757e48b1bea0b8c1f98027484da",
+        "joined_adjacent_bold_spans": 41,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 8,
+        "image_paths": [
+          {
+            "source": "/ru/professional/personality-engineering/3.png",
+            "reading_copy": "../../../../public/ru/professional/personality-engineering/3.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Предметное, преподавательское и методологическое мастерство агента, выполняющего роль методиста",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/subject-teaching-and-methodological-mastery-of-an-agent-acting-as-a-methodologist.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/subject-teaching-and-methodological-mastery-of-an-agent-acting-as-a-methodologist",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "502bd8b57271fb7f20b79f6b374ff66cbb33c1664957f88e4e05f7245e0b7d7f",
+        "reading_copy_sha256": "e1a900e6ae3407628cdca062dc7679bb36e93d9078c598c26edb2178a0ea65d1",
+        "joined_adjacent_bold_spans": 26,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Оформление материалов курса: LXP",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/course-materials-formatting-lxp.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/course-materials-formatting-lxp",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "13a53641a511fd0a827914ed645ed6e3986a48ccefb953e726787943f27509e5",
+        "reading_copy_sha256": "acd68a11e26e65a87ddb1c8da512246fe8cd6a09ce2e7167c2370252ed3580f5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Моделирование альфы метода обучения",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/alpha-modeling-of-the-learning-method.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/alpha-modeling-of-the-learning-method",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "a598cbd4dcdd96ab40c99abdf8513fde6ddf48afcc8d045dff88b4d7fc64dcfc",
+        "reading_copy_sha256": "a598cbd4dcdd96ab40c99abdf8513fde6ddf48afcc8d045dff88b4d7fc64dcfc",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания по методике",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/personality-engineering/methodological-practice-how-to-teach/methodology-assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/methodological-practice-how-to-teach/methodology-assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "bbc201b7bbdab201b76d19bd7e29f953da6737858803df5e2b237ce91a29648b",
+        "reading_copy_sha256": "bbc201b7bbdab201b76d19bd7e29f953da6737858803df5e2b237ce91a29648b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Архитектурная работа в обучении",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/personality-engineering/architectural-work-in-education/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/architectural-work-in-education/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "5a29271aa73f218409626c08df3531e14f35944045378cde9dd936fd30a28e7a",
+        "reading_copy_sha256": "5a29271aa73f218409626c08df3531e14f35944045378cde9dd936fd30a28e7a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Сложность определения архитектуры личности",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/architectural-work-in-education/the-complexity-of-defining-personality-architecture.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/architectural-work-in-education/the-complexity-of-defining-personality-architecture",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c826296bf3b75068cb1d368880e6ed437d91565702f345a32d37f84d4b9b6586",
+        "reading_copy_sha256": "c826296bf3b75068cb1d368880e6ed437d91565702f345a32d37f84d4b9b6586",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Архитектурные характеристики личности",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/architectural-work-in-education/architectural-characteristics-of-personality.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/architectural-work-in-education/architectural-characteristics-of-personality",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "908aee9c39a6de0437bb465478b5bb95243c6467cfb88bf8ca71059ad20b1a05",
+        "reading_copy_sha256": "908aee9c39a6de0437bb465478b5bb95243c6467cfb88bf8ca71059ad20b1a05",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Какие роли могут путаться с ролью архитектора личности",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/architectural-work-in-education/what-roles-can-be-confused-with-the-role-of-a-personality-architect.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/architectural-work-in-education/what-roles-can-be-confused-with-the-role-of-a-personality-architect",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c1ea63f145238899b77a6fdee534118caf2206a68b3fe0bc4f12b4125c8ef0a0",
+        "reading_copy_sha256": "c1ea63f145238899b77a6fdee534118caf2206a68b3fe0bc4f12b4125c8ef0a0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Практика преподавания",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/personality-engineering/teaching-practice/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/teaching-practice/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "1e16165163fa60d94676c274901873330882a9db0a6f3713c154a749de9edb1b",
+        "reading_copy_sha256": "1e16165163fa60d94676c274901873330882a9db0a6f3713c154a749de9edb1b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Преподаватель-предметник и преподаватель-лидер",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/teaching-practice/subject-teacher-and-teacher-leader.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/teaching-practice/subject-teacher-and-teacher-leader",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6dfceb7b77bfa974cf245620fa938747f34ed8405e46db7554b6020046442f99",
+        "reading_copy_sha256": "6dfceb7b77bfa974cf245620fa938747f34ed8405e46db7554b6020046442f99",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Особая экспертиза преподавателя: риторика",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/teaching-practice/instructor-s-special-expertise-rhetoric.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/teaching-practice/instructor-s-special-expertise-rhetoric",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "656fe9669ec01d23c20beb600f7cf34359d8a85bece155be7b3638dc9e2c6140",
+        "reading_copy_sha256": "656fe9669ec01d23c20beb600f7cf34359d8a85bece155be7b3638dc9e2c6140",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Отношения преподавателя и студента",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/teaching-practice/teacher-student-relationships.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/teaching-practice/teacher-student-relationships",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ce3b79e38bf040512378009a5b6782070bbcec08c1effdf2709da3cf6b6dcd5e",
+        "reading_copy_sha256": "3453c71f3bc2b61c1e99bb699f5b0f773ca231f3e4287e3867ade523787c0524",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Упражнение по альфе мастерства",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/personality-engineering/teaching-practice/alpha-mastery-exercise.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/teaching-practice/alpha-mastery-exercise",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "008a763b5634ffed841d2c0ef42b10b3bfc1656ba2e3964fc21caa2b3fd85257",
+        "reading_copy_sha256": "008a763b5634ffed841d2c0ef42b10b3bfc1656ba2e3964fc21caa2b3fd85257",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Задания по преподавательству",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/personality-engineering/teaching-practice/teaching-assignments.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/teaching-practice/teaching-assignments",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "73df8c910ad34f1b710fcb87168303df1822c8975ad5d447214974159a6ac5ca",
+        "reading_copy_sha256": "73df8c910ad34f1b710fcb87168303df1822c8975ad5d447214974159a6ac5ca",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Оценка результатов обучения",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/personality-engineering/assessment-of-learning-outcomes/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/assessment-of-learning-outcomes/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "40c82aa91f380f5ee87669bb9d6ed22583266514c2934abd160640063f85a6ab",
+        "reading_copy_sha256": "40c82aa91f380f5ee87669bb9d6ed22583266514c2934abd160640063f85a6ab",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Предрассудки по поводу измерения интеллекта: путают с прикладными курсами",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/assessment-of-learning-outcomes/prejudices-about-measuring-intelligence-confused-with-applied-courses.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/assessment-of-learning-outcomes/prejudices-about-measuring-intelligence-confused-with-applied-courses",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0174466610320fd39e89ff415f8951261802e340dffe01dda18f563dce9de04d",
+        "reading_copy_sha256": "b41f0a55efa5d18634e0b07988ebaf18ad268fc09b740ad10d850cd8f1153607",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Люди, или люди с машинами, или коллективы — кто судьи в том, что они поумнели по итогам обучения?",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/assessment-of-learning-outcomes/people-or-people-with-machines-or-collectives-who-judges-their-intelligence-after-training.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/assessment-of-learning-outcomes/people-or-people-with-machines-or-collectives-who-judges-their-intelligence-after-training",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9429bab57059e10021feb3c93f60d07b97d7dfee5b289ae2cc27a39a748e2d24",
+        "reading_copy_sha256": "56d8ab3d6a7888b33ac0103074bfa903dc1c366c3906553da60ddf64385ee958",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Нужно замерять не столько врождённый интеллект, сколько выученный интеллект",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/assessment-of-learning-outcomes/it-s-more-important-to-measure-learned-intelligence-than-innate-intelligence.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/assessment-of-learning-outcomes/it-s-more-important-to-measure-learned-intelligence-than-innate-intelligence",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "cd0047a301e19a31f9f28afa9fd4ae715a57b697fea25b8af4c705025acaa31e",
+        "reading_copy_sha256": "cd0047a301e19a31f9f28afa9fd4ae715a57b697fea25b8af4c705025acaa31e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Решение проблемы: ориентироваться на то, как проверяет интеллект эволюция",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/personality-engineering/assessment-of-learning-outcomes/problem-solving-focusing-on-how-evolution-tests-intelligence.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/assessment-of-learning-outcomes/problem-solving-focusing-on-how-evolution-tests-intelligence",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a9bcfc8dca536963c2c31ca5d14145941204c7496670898147c2f8a13e17696e",
+        "reading_copy_sha256": "0925f2e1b56124267dad383fb7d8b11258edab209402dc556263bede3937d158",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Новации ШСМ в определении того, что она делает людей умнее",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/personality-engineering/assessment-of-learning-outcomes/aisystant-innovations-in-making-people-smarter.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/assessment-of-learning-outcomes/aisystant-innovations-in-making-people-smarter",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "eef0f0d352204376704a7350d80c02e89de566dac1197c9da015b64233f7a77d",
+        "reading_copy_sha256": "d1b956d0d2d93c71c790465786354a20b29c1ed0b341dc0906f13d05b5ab51a6",
+        "joined_adjacent_bold_spans": 6,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [
+          {
+            "source": "/ru/professional/personality-engineering/4.png",
+            "reading_copy": "../../../../public/ru/professional/personality-engineering/4.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Учебные программы дают не только немедленные результаты",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/personality-engineering/assessment-of-learning-outcomes/training-programs-provide-more-than-immediate-results.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/assessment-of-learning-outcomes/training-programs-provide-more-than-immediate-results",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "087495ac2da3637456b9fea5702538a012064b39c500a56df756ac99e06ec971",
+        "reading_copy_sha256": "fb7377392e969ee14b511c587a2c9edcbdf145a2886d603595ab3e4a3ceaf007",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 6,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Практика администрирования обучения",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/personality-engineering/training-administration-practice/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/training-administration-practice/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "1754be7e6e078571caa9d029021529fe0b79b4be2a7ed91f0c60c8d670c751af",
+        "reading_copy_sha256": "1754be7e6e078571caa9d029021529fe0b79b4be2a7ed91f0c60c8d670c751af",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Администрирование обучения как инженерия обучающей платформы",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/training-administration-practice/training-administration-as-learning-platform-engineering.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/training-administration-practice/training-administration-as-learning-platform-engineering",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b4160e6b684f352dcb37db98a7a6991e0fd375666b6ff1ebf53433ac49020c93",
+        "reading_copy_sha256": "b4160e6b684f352dcb37db98a7a6991e0fd375666b6ff1ebf53433ac49020c93",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Интеллект студента как «выносная часть LXP»",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/training-administration-practice/student-intelligence-as-an-external-part-of-lxp.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/training-administration-practice/student-intelligence-as-an-external-part-of-lxp",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "969d4da8a78211e8994494bf3dfd6caa1bd754fd377865c2e9c3f0e68d67db79",
+        "reading_copy_sha256": "969d4da8a78211e8994494bf3dfd6caa1bd754fd377865c2e9c3f0e68d67db79",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Обучающая платформа в поддержке организационного моделирования",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/training-administration-practice/educational-platform-in-support-of-organizational-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/training-administration-practice/educational-platform-in-support-of-organizational-modeling",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d05bedfe2158853e312cee7f16449659f1f5ad48bff9e7154ee3d8ece1ecb7d9",
+        "reading_copy_sha256": "02cc4ca3a2576b12b69bfa40449c8b8fa91ea4d83fb3f71b9adf6f33a8a8a499",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Как это всё работает вместе",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/personality-engineering/training-administration-practice/how-it-all-works-together.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/training-administration-practice/how-it-all-works-together",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ff72e4b6de4e743bc030cf7802c9886d72e0294f938d9042f8b7ae57b98e0eb8",
+        "reading_copy_sha256": "ff72e4b6de4e743bc030cf7802c9886d72e0294f938d9042f8b7ae57b98e0eb8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Клубная работа",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/personality-engineering/club-activities/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/club-activities/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "b2094930c6ed584e7861b69cc6a6714e33ed137a0ddc9a8ea07c1f371fa992d5",
+        "reading_copy_sha256": "b2094930c6ed584e7861b69cc6a6714e33ed137a0ddc9a8ea07c1f371fa992d5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Субкультуры, контркультуры, школы, общества и сообщества",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/club-activities/subcultures-countercultures-schools-societies-and-communities.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/club-activities/subcultures-countercultures-schools-societies-and-communities",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4c472b96a3c655e021d0ca02f6e2d34a60a7c6a08878ad55f36fd57feb904bf2",
+        "reading_copy_sha256": "f347a084bb4f6b06868c02ffff44bb6aa993775ca69739c7610d79f0c8fc119d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 7,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Клубы как способ думать о поддержке сообществ",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/club-activities/clubs-as-a-way-to-think-about-supporting-communities.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/club-activities/clubs-as-a-way-to-think-about-supporting-communities",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "02ebc16ce67ffaac25d64f19452cc17a955d23e2a2eb1656127e800888d5bd32",
+        "reading_copy_sha256": "5faa0000da8a900ac5f506c90341f39b9fc6f49644a910e08d976aa80a20bd64",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Примеры инженерии личности",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/personality-engineering/examples-of-personal-engineering/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/examples-of-personal-engineering/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "1b4d28d01751878386558c4d309cdc2d1f260f33bea10504594ed39867c2821a",
+        "reading_copy_sha256": "1b4d28d01751878386558c4d309cdc2d1f260f33bea10504594ed39867c2821a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Психотерапия и психологическое консультирование",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/personality-engineering/examples-of-personal-engineering/psychotherapy-and-psychological-counseling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/examples-of-personal-engineering/psychotherapy-and-psychological-counseling",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1348d94fbbb117b2ab2955aebde0d83ed9d86b13d7d0562bd248db98a08649e6",
+        "reading_copy_sha256": "d0461f12b2d6248d3b477289ba3936cdd503368225e3851e0b9531984574fa87",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Лидерство",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/personality-engineering/examples-of-personal-engineering/leadership.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/examples-of-personal-engineering/leadership",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f425d5ce2d126951caa512e8a4a7f6dcd36ec0c96de332c7948dad63fb8b8279",
+        "reading_copy_sha256": "0c4e588441885e77a95d054e32b7fefce3e6e81fa8ad1976ff42b0abf6074ac2",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    },
+    {
+      "title": "Продвижение",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/personality-engineering/examples-of-personal-engineering/promotion.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/personality-engineering/examples-of-personal-engineering/promotion",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e4209f4ca08366c09b940fa651a69c87041d772d870160bf18ada89de1434f3a",
+        "reading_copy_sha256": "775f8c7ff7a93deefa7f40fc97bdbdbf3cd72003b1855b0bc9d0f12d2dd7c47c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0
+      }
+    }
+  ],
+  "formatting_totals": {
+    "joined_adjacent_bold_spans": 176,
+    "adjacent_italic_boundaries_joined": 3,
+    "converted_inline_footnotes": 153,
+    "strong_spans_using_html_for_github": 0
+  }
+}
