@@ -1,0 +1,749 @@
+{
+  "course": "R4. Причинность, интервенции и контрфактичность в инженерии и менеджменте",
+  "author": "П. Медведева, В. Агроскин, А. Лубенченко",
+  "language": "ru",
+  "verified_at": "2026-09-12T16:08:14.550100+00:00",
+  "upstream_repository": "https://github.com/aisystant/docs",
+  "upstream_commit": "b9989a2bf229510ab66304c0a44f86a5f96689de",
+  "upstream_commit_date": "2026-08-31T16:24:40Z",
+  "acquisition": "Selected publisher Markdown and referenced images from existing native GitHub fork; local Git objects processed sequentially.",
+  "scope": "Russian R4 book pages, chapter navigation, referenced images, reading index and provenance.",
+  "version_note": "Official public Markdown snapshot; exact equivalence to a dated Aisystant interactive edition has not been verified.",
+  "coverage": {
+    "content_page": 13,
+    "workbook_placeholder": 6,
+    "navigation": 6,
+    "source_stub": 1
+  },
+  "assets": [],
+  "pages": [
+    {
+      "title": "R4. Причинность, интервенции и контрфактичность в инженерии и менеджменте",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/counterfactuality/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "5b2a61c9bf6872acc450c2245d75a543ddcf4f307e1ac7e792c2ab69a529e9e5",
+        "reading_copy_sha256": "5b2a61c9bf6872acc450c2245d75a543ddcf4f307e1ac7e792c2ab69a529e9e5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Поиск и решение проблем, исследование",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/counterfactuality/problem-solving-and-research/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/problem-solving-and-research/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "319127aa162173b35529c8ad22e564b9874af7710dac128b2d1ea5f211dcface",
+        "reading_copy_sha256": "319127aa162173b35529c8ad22e564b9874af7710dac128b2d1ea5f211dcface",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Модель практики создания объяснений",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/counterfactuality/problem-solving-and-research/model-for-the-practice-of-creating-explanations.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/problem-solving-and-research/model-for-the-practice-of-creating-explanations",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "75d220aacd611c2ceb2c9611346bc13f62ed116c0dab9734d16142297f9466df",
+        "reading_copy_sha256": "eafafafc0cfdbb0cbb765174ae1e25a3f3d0b8d5246ce395b527aacac87e36fb",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 2,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 2,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `163`. Их исходные маркеры сохранены.\n\n[^163]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "163"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Исследования самого себя",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/counterfactuality/problem-solving-and-research/self-exploration.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/problem-solving-and-research/self-exploration",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "00a8c3aff3dce087f1f5dc49da7a438fa3a13a7fc3fccd1aa67a477dd5d9ddca",
+        "reading_copy_sha256": "00a8c3aff3dce087f1f5dc49da7a438fa3a13a7fc3fccd1aa67a477dd5d9ddca",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Как оценить объяснение",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/counterfactuality/problem-solving-and-research/how-to-evaluate-an-explanation.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/problem-solving-and-research/how-to-evaluate-an-explanation",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d91ba48276bdafb040717fcd60a286d4c1316ae7169abf5892ea7be68b8a5eec",
+        "reading_copy_sha256": "d91ba48276bdafb040717fcd60a286d4c1316ae7169abf5892ea7be68b8a5eec",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.1.",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/counterfactuality/problem-solving-and-research/assignment-1-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/problem-solving-and-research/assignment-1-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "342ca209d9ff8d3ff1d8c316ef496ef588a2c667f9f541e07d073cb5139a128b",
+        "reading_copy_sha256": "342ca209d9ff8d3ff1d8c316ef496ef588a2c667f9f541e07d073cb5139a128b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Мета-модель исследовательской деятельности",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/counterfactuality/meta-model-of-research-activities/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/meta-model-of-research-activities/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "54bb977f0e0212cf8b4e81c24bd5b8ac53fd2ee3e0f15da7a077236362c3d4d8",
+        "reading_copy_sha256": "54bb977f0e0212cf8b4e81c24bd5b8ac53fd2ee3e0f15da7a077236362c3d4d8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Предсказания и допущения",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/counterfactuality/meta-model-of-research-activities/predictions-and-assumptions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/meta-model-of-research-activities/predictions-and-assumptions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f1dec926f59969703c220205f0c79606e2338d06d8c4eee95b4d6ab4817c2ddd",
+        "reading_copy_sha256": "8b1907e5cf037b7b0e24729dd925d9b50340cfdd94c25136169ddfb9369bc4df",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 3,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.1.",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/counterfactuality/meta-model-of-research-activities/exercise-2-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/meta-model-of-research-activities/exercise-2-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "6b5fe2250067f223659fe68e9b559ad7e69faf59746304bc398422899dc8bcb5",
+        "reading_copy_sha256": "6b5fe2250067f223659fe68e9b559ad7e69faf59746304bc398422899dc8bcb5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Создание объяснений",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/counterfactuality/meta-model-of-research-activities/creating-explanations.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/meta-model-of-research-activities/creating-explanations",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "663a56de42550285458862f7fe5cbb48fc40080a7d96727f47f0a169833809ad",
+        "reading_copy_sha256": "411c1561a92d9f2ac356e57bdf3256e702509369c66cc2f6b471e926fca9da20",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Причинность и виды причин",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/counterfactuality/causality-and-types-of-causes/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/causality-and-types-of-causes/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "cb36edcdd5d722201364e0c5a0ec4f0ab95d22289b8a6dcdd5c0908fdd263c01",
+        "reading_copy_sha256": "cb36edcdd5d722201364e0c5a0ec4f0ab95d22289b8a6dcdd5c0908fdd263c01",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "События и вероятности",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/counterfactuality/causality-and-types-of-causes/events-and-probabilities.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/causality-and-types-of-causes/events-and-probabilities",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9259e50b2cfc75e5124b46040df2a0b32956c48cf9678c695386d569d350bcbe",
+        "reading_copy_sha256": "e6c480de6aa67ad168b61abbe60499c3ecd62252ac1939ecccd65e3bb799025e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Лестница причинности",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/counterfactuality/causality-and-types-of-causes/causality-ladder.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/causality-and-types-of-causes/causality-ladder",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b0dc94b8a29db43f525476f34f9b625aca5ee06928cfc2dc98f83f1cf35b57b7",
+        "reading_copy_sha256": "44c113e299c3325f020559f44d2c7bbf79afc486a460a1aed4554ba72caafd9d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 6,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 3.1.",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/counterfactuality/causality-and-types-of-causes/assignment-3-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/causality-and-types-of-causes/assignment-3-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "f1b6536922f1f0a1a3d91c40dee414864a354cce0932610a5f4aa9de930cbc9c",
+        "reading_copy_sha256": "f1b6536922f1f0a1a3d91c40dee414864a354cce0932610a5f4aa9de930cbc9c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Типы причин",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/counterfactuality/causality-and-types-of-causes/types-of-causes.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/causality-and-types-of-causes/types-of-causes",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0790cc45cd347825e7abe61777c6b0fbc2127029e4982f96947456a9ecc3aa68",
+        "reading_copy_sha256": "423d44bc8e85b81470d339dc0d9e721d9d59bb0619f629fcb1ecdf74a27d6326",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 4,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 3.2.",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/counterfactuality/causality-and-types-of-causes/assignment-3-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/causality-and-types-of-causes/assignment-3-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e974f691b71401abe469e48b2db8db4608f8268bde2119e05e525036ffa457bd",
+        "reading_copy_sha256": "e974f691b71401abe469e48b2db8db4608f8268bde2119e05e525036ffa457bd",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Формальное моделирование причинно-следственных связей",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "2ed1bfd1731ff5490de01088d27930d394e20a360c5288e3ef5f17cbec3dfe39",
+        "reading_copy_sha256": "2ed1bfd1731ff5490de01088d27930d394e20a360c5288e3ef5f17cbec3dfe39",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Основные элементы графа причинности",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/key-elements-of-a-causality-graph.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/key-elements-of-a-causality-graph",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a601c10f9476bbbc587aaf7d969de07e2927fcdd7daec43b603d9a42e2c044e0",
+        "reading_copy_sha256": "b5e219fa5fd12b8f90911dda0d2af1e7a597e5c2c0a65d55fe13943421c84396",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 3,
+        "repaired_source_links": [
+          {
+            "source": "https://ru.wikipedia.org/wiki/Медиация*в*статистике",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Медиация_в_статистике"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Медиация\\*в\\*статистике",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Медиация_в_статистике"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Спутывающая*переменная",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Спутывающая_переменная"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Спутывающая\\*переменная",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Спутывающая_переменная"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Коллайдер*(статистика",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Коллайдер_(статистика"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Коллайдер\\*(статистика",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Коллайдер_(статистика"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 2,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image43]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image43`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, линия, Шрифт, диаграммаАвтоматически созданное описание][image44]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image44`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, линия, ШрифтАвтоматически созданное описание][image45]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image45`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image43",
+          "image44",
+          "image45"
+        ]
+      }
+    },
+    {
+      "title": "Как работать с графами причинности",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/how-to-work-with-causality-graphs.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/how-to-work-with-causality-graphs",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e95426e564898c90e35533e184d75d7c0f31b52e3288d0e0424325dc6805bdd6",
+        "reading_copy_sha256": "c140fec4b8daf4f5c30547219bcb95895a52bf590b9d85caca796f63841baa31",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [
+          {
+            "source": "https://en.wikipedia.org/wiki/Causal*inference",
+            "reading_copy": "https://en.wikipedia.org/wiki/Causal_inference"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Causal\\*inference",
+            "reading_copy": "https://en.wikipedia.org/wiki/Causal_inference"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, диаграмма, линияАвтоматически созданное описание][image46]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image46`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, диаграмма, линияАвтоматически созданное описание][image47]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image47`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image46",
+          "image47"
+        ]
+      }
+    },
+    {
+      "title": "Дребезг причинно-следственных связей:",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/causal-link-jitter.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/causal-link-jitter",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d2c32cc7c1d27132d3ef612d5d397f4d2128aba346457ad847abc4d0f24fd56c",
+        "reading_copy_sha256": "d2c32cc7c1d27132d3ef612d5d397f4d2128aba346457ad847abc4d0f24fd56c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 4.1.",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/assignment-4-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/assignment-4-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "66b53f1071e51541da7a71e8456aaa0b5ba0f17518900f4c4f3d8aba1a75409a",
+        "reading_copy_sha256": "66b53f1071e51541da7a71e8456aaa0b5ba0f17518900f4c4f3d8aba1a75409a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Гипотезы и планирование экспериментов",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/hypotheses-and-experiment-planning.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/hypotheses-and-experiment-planning",
+      "coverage": "source_stub",
+      "formatting": {
+        "source_sha256": "7299aef0e74b3b2876db8adcd82ef713f33e7aa2b9d43a85717e782477c640b1",
+        "reading_copy_sha256": "c2686d197bd2ee855c8adaafd279f33fa0a774b5e8a994e8523e11a5749100c2",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Заготовка в источнике:** официальная Markdown-публикация содержит только заголовок этой страницы.\n"
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Создание и передача объяснений",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/counterfactuality/creation-and-delivery-of-explanations/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/creation-and-delivery-of-explanations/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "13927737f70847dcb8bacbbafd5983a11eb0ba5fe51d574568de444645b2fdd7",
+        "reading_copy_sha256": "13927737f70847dcb8bacbbafd5983a11eb0ba5fe51d574568de444645b2fdd7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Практическое применение моделирования",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/counterfactuality/creation-and-delivery-of-explanations/practical-application-of-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/creation-and-delivery-of-explanations/practical-application-of-modeling",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "958f34039af43f7c68656a07446c5b4788268d866938e5ebe36bb8c8c38d3d49",
+        "reading_copy_sha256": "3145d4f79027856209127396728c9913a2ee5158acec87717f10750c8c6e5e99",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `238`, `239`, `240`. Их исходные маркеры сохранены.\n\n[^238]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^239]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^240]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 3
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "238",
+          "239",
+          "240"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 6.1/",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/counterfactuality/creation-and-delivery-of-explanations/assignment-6-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/creation-and-delivery-of-explanations/assignment-6-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "a7a293de15676de292f3928ffbc5a2f3409aced1b6a035525258e129b9a1249c",
+        "reading_copy_sha256": "a7a293de15676de292f3928ffbc5a2f3409aced1b6a035525258e129b9a1249c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что дальше?",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/counterfactuality/creation-and-delivery-of-explanations/what-s-next.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/counterfactuality/creation-and-delivery-of-explanations/what-s-next",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5fa9440ea9ce5c2897e9ed6bd8ff11d8cd622a7340dec56747f20079136125ec",
+        "reading_copy_sha256": "5fa9440ea9ce5c2897e9ed6bd8ff11d8cd622a7340dec56747f20079136125ec",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    }
+  ],
+  "formatting_totals": {
+    "joined_adjacent_bold_spans": 0,
+    "adjacent_italic_boundaries_joined": 0,
+    "converted_inline_footnotes": 0,
+    "strong_spans_using_html_for_github": 0,
+    "repaired_escaped_emphasis_spans": 20,
+    "source_lines_with_normalized_emphasis": 7,
+    "italic_spans_using_html_for_github": 0
+  },
+  "source_gaps": {
+    "missing_footnote_definitions": [
+      "163",
+      "238",
+      "239",
+      "240"
+    ],
+    "missing_image_definitions": [
+      "image43",
+      "image44",
+      "image45",
+      "image46",
+      "image47"
+    ],
+    "heading_only_pages": [
+      "docs/ru/professional/counterfactuality/formal-modeling-of-causal-relationships/hypotheses-and-experiment-planning.md"
+    ],
+    "note": "These references or page headings exist in the publisher snapshot, but their bodies/assets are absent there. No missing content has been invented."
+  }
+}

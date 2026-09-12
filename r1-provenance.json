@@ -1,0 +1,2061 @@
+{
+  "course": "R1. Распожаризация: как не «тушить пожары», а избегать их появления",
+  "author": "П. Медведева, В. Агроскин, А. Лубенченко",
+  "language": "ru",
+  "verified_at": "2026-09-12T15:57:28.143125+00:00",
+  "upstream_repository": "https://github.com/aisystant/docs",
+  "upstream_commit": "b9989a2bf229510ab66304c0a44f86a5f96689de",
+  "upstream_commit_date": "2026-08-31T16:24:40Z",
+  "acquisition": "Selected publisher Markdown and referenced images from existing native GitHub fork; local Git objects processed sequentially.",
+  "scope": "Russian R1 book pages, chapter navigation, referenced images, reading index and provenance.",
+  "version_note": "Official public Markdown snapshot; exact equivalence to a dated Aisystant interactive edition has not been verified.",
+  "coverage": {
+    "content_page": 62,
+    "workbook_placeholder": 23,
+    "navigation": 6,
+    "source_stub": 0
+  },
+  "assets": [
+    {
+      "path": "docs/public/ru/professional/firefighting/0.jpg",
+      "source_sha256": "28ce756ae45bc70f6285b68a4735fc938fad96818bc939a666633a417d89470a"
+    },
+    {
+      "path": "docs/public/ru/professional/firefighting/1.png",
+      "source_sha256": "c8c44a730faa7448073a0e6603592af59da1e47c66020eda729de50076fbc09f"
+    }
+  ],
+  "pages": [
+    {
+      "title": "R1. Распожаризация: как не «тушить пожары», а избегать их появления",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/firefighting/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "2752694163a25086e0588712020550b060122c0ee6f5f23792e04a2e51741127",
+        "reading_copy_sha256": "2752694163a25086e0588712020550b060122c0ee6f5f23792e04a2e51741127",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Введение",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/firefighting/introduction.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/introduction",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "aa5544b36c0b086514b850fa0612594461e4543f37fdca529f6d8701d4e96482",
+        "reading_copy_sha256": "e80a26543bb9e25f431bf5a00be2658e725234d1edf99996d2b64ce48009da10",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 26,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "",
+        "normalized_crossed_emphasis_lines": 7
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Чему можно научиться в ходе резидентуры",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/firefighting/what-can-be-learned-during-residency.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/what-can-be-learned-during-residency",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3a84d403a6d55734696a0176ca7d63b05dd5168559ca49917843398574971fa4",
+        "reading_copy_sha256": "97099386e18ee83f4a5c34d3e0afa6a0c15849cfbb62de219347d350334dc771",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 2,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что нужно знать для успешного применения руководства",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/firefighting/what-you-need-to-know-for-successful-guide-application.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/what-you-need-to-know-for-successful-guide-application",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "94853c3dcf0d891158065b51a72ebf27ddcaff729cd500c24a84e6e1ce6074e6",
+        "reading_copy_sha256": "f6ddfbbb28effa6f150e38379556bc00b69f31bca2da89921bb8c63d47b824b2",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 10,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Кому это руководство не подходит",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/firefighting/who-this-guide-is-not-for.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/who-this-guide-is-not-for",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "96936da0f4935f5c3a3c75d6f3e7875c6b34bc509a22b12a41d0b5d27a332a00",
+        "reading_copy_sha256": "0e107f14664441ad2641923e72a1163d508076f1dfb389e7302b3e6a51042035",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 3,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Вещь, которую вы создаёте в ходе резидентуры",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/firefighting/the-thing-you-create-during-residency.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/the-thing-you-create-during-residency",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0387ea4f826398eb3af996aa14b365f81a4f234a1bac9a7457b29c5e028348af",
+        "reading_copy_sha256": "0387ea4f826398eb3af996aa14b365f81a4f234a1bac9a7457b29c5e028348af",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Мастерство рациональной работы как инвестиционный актив и часть интеллекта",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/firefighting/rational-work-mastery-as-an-investment-asset-and-part-of-intelligence.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/rational-work-mastery-as-an-investment-asset-and-part-of-intelligence",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ed9c608f1ab7285e286fd91144dfb6aed6adf60260c2244731f5b59ed95bdbe6",
+        "reading_copy_sha256": "139c701611969b2889550faf0ef1c77713e658f9a0694fee8e1e1bfa87a7313f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Как проходить резидентуру",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/firefighting/how-to-complete-a-residency.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/how-to-complete-a-residency",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "31599027103ce13339004030bb97f5b518258c390bb00d0092a8a8d7923eadff",
+        "reading_copy_sha256": "0671d83c826153551dc59754c05b2e656104f29f5ede6fb91cf4982739bf9997",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Памятка по факторам работоспособности",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/firefighting/guide-to-productivity-factors.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/guide-to-productivity-factors",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "005b5d5f9ef3f75f7e26af54a0f68667fc2bbae03c75e9915c299ee783fa9905",
+        "reading_copy_sha256": "2f65a2a7b881a9327bafea230e070d8ef1345a080c6133679e580a00c815a2cd",
+        "joined_adjacent_bold_spans": 5,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 0.",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/firefighting/exercise-0.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/exercise-0",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "26501ce9529186dee24b7400c492349c27f84649028f6759d3bc234f6a8de88e",
+        "reading_copy_sha256": "26501ce9529186dee24b7400c492349c27f84649028f6759d3bc234f6a8de88e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Чеклист организации сессий рабочего развития",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/firefighting/checklist-for-organizing-work-development-sessions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/checklist-for-organizing-work-development-sessions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "413a4049c6f827516757b1122c4a01d6a01849acab2615466ad4f81a6b1d8bce",
+        "reading_copy_sha256": "413a4049c6f827516757b1122c4a01d6a01849acab2615466ad4f81a6b1d8bce",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Различать системы и представления о них и заземляться",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "51ae2ae3a88279403cf1c94b9584f32bbb76df285cb32dc1fc4f288f8e1f61f7",
+        "reading_copy_sha256": "51ae2ae3a88279403cf1c94b9584f32bbb76df285cb32dc1fc4f288f8e1f61f7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что вы будете уметь после применения материалов раздела",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/what-you-will-be-able-to-do-after-applying-the-section-materials.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/what-you-will-be-able-to-do-after-applying-the-section-materials",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3a828fa48275f91a1899cddbc9e2e47b64b556cebc49ef78697b7755c54d9a6f",
+        "reading_copy_sha256": "3a828fa48275f91a1899cddbc9e2e47b64b556cebc49ef78697b7755c54d9a6f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Игра «Назови систему»",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/game-name-the-system.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/game-name-the-system",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6bc74ef80c0d7729a4be0df9affa3651e48d05b3a19645cce1ccbba2233d79fe",
+        "reading_copy_sha256": "47f7c304bc0ccd9acaa1e9ad9810c915271997c8c7f171308cfd8d4263883ef1",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.1",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "0b9ff0a252fa406f23b642bca033a3fddc37bcb64147633c18abf12604d17139",
+        "reading_copy_sha256": "0b9ff0a252fa406f23b642bca033a3fddc37bcb64147633c18abf12604d17139",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Зачем нужна игра",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/why-play-is-necessary.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/why-play-is-necessary",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "111193ff972291b343e607213baa8dd81eafae7451c02c8b05d2099adb155c68",
+        "reading_copy_sha256": "44848e3c8eab2f3567b4ca9663e0c276e9dd113d25b830cdf5738cda166bf3ed",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Основные объекты внимания в игре",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/main-focus-areas-in-the-game.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/main-focus-areas-in-the-game",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b8c55d6f9512cb206aeeaaee3022da55d65bfd4f99ce244954ece1e62fa9904a",
+        "reading_copy_sha256": "6916fcb3d2c084ba992ab159107de932fc433e2cbc7f2b8b2551f11a930b756e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "О разнообразии систем",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/on-the-diversity-of-systems.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/on-the-diversity-of-systems",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "bdc883a29b4840bbecb854c59af8a26118439c802d8d98060d4189e06450da98",
+        "reading_copy_sha256": "ea0613b9a0f0354f57f8f17d7b7e3cb1447d8f7d78864a297e602791b66937cc",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 7,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "",
+        "normalized_crossed_emphasis_lines": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "О системах и эпистемах о них (описаниях, моделях)",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/about-systems-and-epistemes-descriptions-models.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/about-systems-and-epistemes-descriptions-models",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "56069c615eda18f400aaab605d6beeebf4fea31baf2cf162867fc5ee4ea6ab27",
+        "reading_copy_sha256": "4026563e61889183e78771f293d230bdc7a9ab2b8cf35a99976256efc5cfef53",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "О системах и ситуациях их эксплуатации",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/on-systems-and-their-operational-contexts.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/on-systems-and-their-operational-contexts",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7edaa37ef52fa854da9e222d12f3c57e7f870d0c0da0baa20631716cf45b84bf",
+        "reading_copy_sha256": "a59bf58f6f8f2814365ce0e7f6d75b7e779e6dbe432441ebfd6ff81d3b293c8b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.2",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "821d93c1b877e3a9c6b188e8ebfdc4fd9467599a0778f70fa96890293de3f9ec",
+        "reading_copy_sha256": "821d93c1b877e3a9c6b188e8ebfdc4fd9467599a0778f70fa96890293de3f9ec",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Как мы путаем вещи (системы) и описания вещей (систем)",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/how-we-confuse-things-systems-and-descriptions-of-things-systems.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/how-we-confuse-things-systems-and-descriptions-of-things-systems",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6a125ddc322c2e2e7ebe81e81a84191d3f6176d0033c52feb4624d235c081010",
+        "reading_copy_sha256": "0efcbf5bc745987cdb8b5ada84ba2b0563d0678d2a5537cc598e7ec28a2906c6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 5,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "",
+        "normalized_crossed_emphasis_lines": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Как мы путаем вещи (системы) и действия",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/how-we-confuse-things-systems-and-actions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/how-we-confuse-things-systems-and-actions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "abb6369f2665973675b7da047153bcd24e7bdd8e78e77de9346f5fa113a0a894",
+        "reading_copy_sha256": "d42735ba8b7ba719c51210b4937dc792069b5b3782a2fe2be812fe9f16750b39",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.3",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "6b6a539df052947cad2b39a3364baee3f755ae3c3dd12f5226a2d2f6a4e21764",
+        "reading_copy_sha256": "6b6a539df052947cad2b39a3364baee3f755ae3c3dd12f5226a2d2f6a4e21764",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Эпистемы, описания, модели и физический мир",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/epistemes-descriptions-models-and-the-physical-world.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/epistemes-descriptions-models-and-the-physical-world",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "92c00640d5a5827f87a369f75a2be09e2a69a9cc86b7269b17ab7a57008317d9",
+        "reading_copy_sha256": "97ea1953140db233af3bc88d1dab7a48957c5e68518db9eb5fd991be2e63a5e6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Воспринимаемая реальность",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/perceived-reality.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/perceived-reality",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c96dd8cd78b53471160174b261aa00354528b37b91eb984c6ded27e04f919df8",
+        "reading_copy_sha256": "201db3321515291a2dedd73a05aa18287dfd1706dbcc3b1414a45121f98845fa",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Чем полезно различение эпистем и реальности",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/how-distinguishing-between-episteme-and-reality-is-useful.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/how-distinguishing-between-episteme-and-reality-is-useful",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4ebea3cd5798e4e32d18576d16fe7a96693c18b8d06a5f759d9534f589eea65f",
+        "reading_copy_sha256": "572c295734970c9a97d158c59055f432d5c2892d6015a5535ffeb00d6022a410",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.4",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "77121143e719c2bad47f5cece4ee8ae6521e626c12ff2f2f1bb789dfff4978b7",
+        "reading_copy_sha256": "77121143e719c2bad47f5cece4ee8ae6521e626c12ff2f2f1bb789dfff4978b7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Особенности реконструирования реальности внутри агента",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/features-of-reality-reconstruction-within-an-agent.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/features-of-reality-reconstruction-within-an-agent",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "8e868c30b286dd3e1c11f74d658b60a236e07ea4eb880df3d1ead4e76944fa86",
+        "reading_copy_sha256": "de33c3c8ef7658a21f3372ad3396e410ee1bb86cc9cd041030775d23dfac3e25",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Как (не) осознаётся разрыв между эпистемами и реальностью",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/how-the-gap-between-epistemes-and-reality-is-not-recognized.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/how-the-gap-between-epistemes-and-reality-is-not-recognized",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e5efc360ea07fa2925ff77f8bc35b43b6751cc4505cc9e3304c39b9e547b87c9",
+        "reading_copy_sha256": "eb61150d0c9bacf28a35f5ef68709ef0e0b192c78e8aeed84603ff1fb6f2eacd",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [
+          {
+            "source": "/ru/professional/firefighting/0.jpg",
+            "reading_copy": "../../../../public/ru/professional/firefighting/0.jpg"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Алгоритм заземления, или как видеть реальность",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/grounding-algorithm-how-to-see-reality.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/grounding-algorithm-how-to-see-reality",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4a78504d8f352edcf3dbfd01af0c61f435035bfec7a3cac58d6c3ddd0c93a521",
+        "reading_copy_sha256": "01865d83f9dd51850bb80933c1ee51033eb53033ce0aed0a773c309f80b39aec",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.5",
+      "order": 19,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-5.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-5",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "db0f746a6289f6272e82337f0c8e3c72a042dad9e6b372abbf2f844c66df5f93",
+        "reading_copy_sha256": "db0f746a6289f6272e82337f0c8e3c72a042dad9e6b372abbf2f844c66df5f93",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что может помешать видеть реальность",
+      "order": 20,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/what-can-hinder-seeing-reality.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/what-can-hinder-seeing-reality",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c4125b3c37450c63dca299260717f5678e7fd5827458858c34c5852430cd0b3d",
+        "reading_copy_sha256": "362379df2d09fe1df6237f8d44e4476566daef205f4f3f2eb2b732d419900900",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Сигналы о наличии разрыва",
+      "order": 21,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/signals-of-a-gap.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/signals-of-a-gap",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1c2ccb3d9e09f9288e9158b371a7b69f7b6ddd899c7816ef89c75aaeff19303f",
+        "reading_copy_sha256": "c3ad25a35936a363e4dad99c2f183d5948e4e117b6f2499f63216e8b0d390f46",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 1,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 9,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "",
+        "normalized_crossed_emphasis_lines": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 1.6.",
+      "order": 22,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/exercise-1-6.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/exercise-1-6",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "c00649008d016b6ff55a903fee3a08ba0b43df41b9a3b4091edcfcb1d393fd93",
+        "reading_copy_sha256": "c00649008d016b6ff55a903fee3a08ba0b43df41b9a3b4091edcfcb1d393fd93",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Замеры для осознания реальности",
+      "order": 23,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/measurements-for-reality-awareness.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/measurements-for-reality-awareness",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "77b9641a4b683dc168189d3cf2a58a7d8865c61a3f819dcca79c2fcd2157d1aa",
+        "reading_copy_sha256": "c03ed515fbd7c83986c0458a01c70548cc4131d2ab55984ff6962ee73787bdcf",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.7.",
+      "order": 24,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-7.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/assignment-1-7",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "bb13bcc00f4db3b2c425bf519d24c2e2410808704dcd75eb0b805d68fc4d76bf",
+        "reading_copy_sha256": "bb13bcc00f4db3b2c425bf519d24c2e2410808704dcd75eb0b805d68fc4d76bf",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Дополнительные примечания для пользователей FPF",
+      "order": 25,
+      "markdown_path": "docs/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/additional-notes-for-fpf-users.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguish-systems-and-their-representations-and-ground-yourself/additional-notes-for-fpf-users",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3f1a611779339650b6282219eb53abbe03c930054983912e47fbeab4ba58d2b5",
+        "reading_copy_sha256": "3f1a611779339650b6282219eb53abbe03c930054983912e47fbeab4ba58d2b5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Отслеживать трату ресурсов на выполнение работ",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "57812c65d61f7c038f62c5620a336ab25e4727dace6ef2513c51fe851e8b49c6",
+        "reading_copy_sha256": "57812c65d61f7c038f62c5620a336ab25e4727dace6ef2513c51fe851e8b49c6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Управление ресурсами",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/resource-management.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/resource-management",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "8c27a362add29c2d6e8a4b034f0a10af3e170506d2fb986b01ae7bef1cf7dfbb",
+        "reading_copy_sha256": "8c27a362add29c2d6e8a4b034f0a10af3e170506d2fb986b01ae7bef1cf7dfbb",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "View операционного менеджера: что он пытается оптимизировать",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/view-of-the-operations-manager-what-they-are-trying-to-optimize.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/view-of-the-operations-manager-what-they-are-trying-to-optimize",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "eca2a25ce6e1e2dd2dcc6caf1b5108c56692e6a57f18d0014ced3e5800472ca9",
+        "reading_copy_sha256": "eca2a25ce6e1e2dd2dcc6caf1b5108c56692e6a57f18d0014ced3e5800472ca9",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Роль, view, viewpoint",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/role-view-viewpoint.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/role-view-viewpoint",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a515787e097bce2415ae852dd21558893cda7435ffb3fa2e481fdf7e6ac6bbfd",
+        "reading_copy_sha256": "a515787e097bce2415ae852dd21558893cda7435ffb3fa2e481fdf7e6ac6bbfd",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Операционный менеджмент 101",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/operational-management-101.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/operational-management-101",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ad479a85ae95974cd064e9321ae07cfd822923073f484ad4ad231d7b866f25c8",
+        "reading_copy_sha256": "ad479a85ae95974cd064e9321ae07cfd822923073f484ad4ad231d7b866f25c8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 2.1",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/assignment-2-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/assignment-2-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e2bca6c6ae44204c96b34f40f0f76dfce02de2e10c678e4591bddf9e86bf11de",
+        "reading_copy_sha256": "e2bca6c6ae44204c96b34f40f0f76dfce02de2e10c678e4591bddf9e86bf11de",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Ресурсы",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/resources.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/resources",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7c4a1365a3ab456b7984d4709ce4958d5ebcb0a4cd1916690970429339282dc5",
+        "reading_copy_sha256": "7c4a1365a3ab456b7984d4709ce4958d5ebcb0a4cd1916690970429339282dc5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Свойства объектов и отношения между объектами",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/properties-of-objects-and-relationships-between-objects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/properties-of-objects-and-relationships-between-objects",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c0388bcea68f1bb69cf2fbfb69cb36634d3e88d551c6f929890b93096e8041c0",
+        "reading_copy_sha256": "c0388bcea68f1bb69cf2fbfb69cb36634d3e88d551c6f929890b93096e8041c0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 2.2.",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/assignment-2-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/assignment-2-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "307a0e04f419329f6d7cb9077c7bcafd2a4885ce63a959ee641c120bb6940d17",
+        "reading_copy_sha256": "307a0e04f419329f6d7cb9077c7bcafd2a4885ce63a959ee641c120bb6940d17",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Онтологический дребезг и поиск ошибок",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/firefighting/track-resource-expenditure-for-task-execution/ontological-jitter-and-error-detection.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/track-resource-expenditure-for-task-execution/ontological-jitter-and-error-detection",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "11f93327430b96a9bf4fc81429b11c01785101b3cb13ac4890eace8e06b0af73",
+        "reading_copy_sha256": "11f93327430b96a9bf4fc81429b11c01785101b3cb13ac4890eace8e06b0af73",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Различать в поведении агента метод и работу",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "c8275534f2f2d2942e048866a22f02e6746ef0c4d57ed79288e15ac64c169d43",
+        "reading_copy_sha256": "c8275534f2f2d2942e048866a22f02e6746ef0c4d57ed79288e15ac64c169d43",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Зачем нужно различать метод и работу",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/why-distinguish-between-method-and-work.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/why-distinguish-between-method-and-work",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "00687c3b5d34708b0df7f7bd4a06cc31d1fc807e40fcddfa980dab59fa59f9f3",
+        "reading_copy_sha256": "6aef4bebeb5c5dd6834eae92ff69115587f1773490e8a17acd1616b646bc3f07",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Метод",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/method.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/method",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "fe22867b8d14fe8fa10df2aa1164f6d6b91e3f86044285559c74f2e2d26b17fe",
+        "reading_copy_sha256": "2fc6c73f964c2fd640737db375835b37271fe71e63aee855c6204f95327a9d33",
+        "joined_adjacent_bold_spans": 11,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 3.1.",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/assignment-3-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/assignment-3-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "f1b6536922f1f0a1a3d91c40dee414864a354cce0932610a5f4aa9de930cbc9c",
+        "reading_copy_sha256": "f1b6536922f1f0a1a3d91c40dee414864a354cce0932610a5f4aa9de930cbc9c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 3.2",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/exercise-3-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/exercise-3-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "04c5c0f5ec224a1e5e6c9f6adb0b7544249a523922f253aada6e5d438f31e3ea",
+        "reading_copy_sha256": "04c5c0f5ec224a1e5e6c9f6adb0b7544249a523922f253aada6e5d438f31e3ea",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Работа",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/work.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/work",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e1d075df68eef0b1a6572be8bbae1e235580ec38b99b7ca66e457eff797fe5bf",
+        "reading_copy_sha256": "82551828ba94311236e07df5e1ad699e50d3ee33724c95a41ee66e56058e87d5",
+        "joined_adjacent_bold_spans": 3,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 3.3",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/exercise-3-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/exercise-3-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "c0e150485f58224e6cdc034993c3e8a007616f4356a0b5ad965f178b80db962c",
+        "reading_copy_sha256": "c0e150485f58224e6cdc034993c3e8a007616f4356a0b5ad965f178b80db962c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 3.4",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/exercise-3-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/exercise-3-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "8b47ca8f6eb705b2e81f9ac619aefb1daa60c801f2a7740d19da6ea0de227e24",
+        "reading_copy_sha256": "8b47ca8f6eb705b2e81f9ac619aefb1daa60c801f2a7740d19da6ea0de227e24",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Как пришли к разделению методов и работ",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/how-methods-and-work-were-separated.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/how-methods-and-work-were-separated",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f11d29cf9a7018c2c242405ead9d6d27addc36036a4e2d6dbfa7beb7b1f2ceab",
+        "reading_copy_sha256": "28e11ff4e9244cff5a669c375dabfa9515997730e079c52737d1f843d81772b6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Функциональное, конструктивное, ресурсное/стоимостное рассмотрения",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/functional-structural-resource-cost-perspectives.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/functional-structural-resource-cost-perspectives",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3cc13d510b3fc5f85f06186b85474f6637ba8f9e1d73c9f7aeee16e2af7f79f4",
+        "reading_copy_sha256": "486ad941e35aad5ca38baa4d2bc43a293f6d106167d04ff0102b7d1ead43533c",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Организовать работу",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/organize-work.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/organize-work",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ffeb4b95138dc5bf11cc0511909e2c32ae01cce71081cb5f99b9d640235df583",
+        "reading_copy_sha256": "79db1b1f7d59a67e604111b21018bfa146aa0d569fd012e4ad35f4d82c951b70",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Делегирование как передача метода",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/delegation-as-method-transfer.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/delegation-as-method-transfer",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b1165f57830e7c7a3d1b5a036d30818576a28e4e98547cf4ce407f55dd368fc8",
+        "reading_copy_sha256": "188554abc350b36b73dde5aefd80c85c1354b8cffdada733d679f59f4a241409",
+        "joined_adjacent_bold_spans": 4,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 4,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Выбор экзокортекса",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/choosing-an-exocortex.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/choosing-an-exocortex",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "418412a213d470045b94af52afe3c0f5d084ad16781feba21e84d3a5681712f0",
+        "reading_copy_sha256": "6dda75f1ec97687b2e32850f8e0c98e3aff6e449a465ffabd37217c7321a9f0f",
+        "joined_adjacent_bold_spans": 5,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Убираем лишние работы",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/eliminating-unnecessary-work.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/eliminating-unnecessary-work",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3f1e4f6fd331db1562d87680a18d27ef1dfebdb4ed2657485732f24dbdd84c1d",
+        "reading_copy_sha256": "2af503a547fd276736ac10f73b8f9e06b831bec67a7b5b3c1b7c0ea08e4a5328",
+        "joined_adjacent_bold_spans": 5,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 3.5",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/assignment-3-5.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/assignment-3-5",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ffa4bd9ab522e4a81ca176a8a1da1b6066c6da69405e05204df72f8739304219",
+        "reading_copy_sha256": "ffa4bd9ab522e4a81ca176a8a1da1b6066c6da69405e05204df72f8739304219",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 3.6",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/assignment-3-6.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/distinguishing-between-an-agent-s-method-and-work/assignment-3-6",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "09bea0e81872ddb216da7cb93d4273ae4f9ad4fb3cb0eb5cc3384f1161221fa9",
+        "reading_copy_sha256": "09bea0e81872ddb216da7cb93d4273ae4f9ad4fb3cb0eb5cc3384f1161221fa9",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Общаться на правильно выбранном языке",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "47ce7a6395bfc4439dbc3953bcd0fa302a798e08a67bc95c4ee7a4ed90d08619",
+        "reading_copy_sha256": "47ce7a6395bfc4439dbc3953bcd0fa302a798e08a67bc95c4ee7a4ed90d08619",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Выбор языка для общения",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/choosing-a-language-for-communication.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/choosing-a-language-for-communication",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2496ec56de778340aeb9eca763c61d9001fd114ae0799edd7748ebadad76331d",
+        "reading_copy_sha256": "2496ec56de778340aeb9eca763c61d9001fd114ae0799edd7748ebadad76331d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Референция и заземление: сначала осмысленность, потом истинность",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/reference-and-grounding-meaning-first-then-truth.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/reference-and-grounding-meaning-first-then-truth",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c29d683b33daf6d31cf307a65e1e8a4b836968228e9f2a6551a1666431306324",
+        "reading_copy_sha256": "c29d683b33daf6d31cf307a65e1e8a4b836968228e9f2a6551a1666431306324",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 4.1.",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/exercise-4-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/exercise-4-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "4cdcde97d2f3d21e5136d24156da2d2184f664f1860c52d430ff1b1d5d9efdb0",
+        "reading_copy_sha256": "4cdcde97d2f3d21e5136d24156da2d2184f664f1860c52d430ff1b1d5d9efdb0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Шкала формальности языков: бытовой, профессиональный, художественный",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/scale-of-language-formality-casual-professional-artistic.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/scale-of-language-formality-casual-professional-artistic",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "83cf12a7262ace1305f12341779264cb2e1e4873ff61d68ab9a587f61c251dad",
+        "reading_copy_sha256": "83cf12a7262ace1305f12341779264cb2e1e4873ff61d68ab9a587f61c251dad",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Концептуальное пространство и выбор названий",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/conceptual-space-and-naming-choices.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/conceptual-space-and-naming-choices",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "505aff5e66eca612569c12f907a37c73d8a97f1884f56a7d497959ec37230a12",
+        "reading_copy_sha256": "505aff5e66eca612569c12f907a37c73d8a97f1884f56a7d497959ec37230a12",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 4.2.",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/assignment-4-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/assignment-4-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "a48e01990b07ee8f6469c264a0ae6262804ea84a18f51bbc70c22fc32a29a6d7",
+        "reading_copy_sha256": "a48e01990b07ee8f6469c264a0ae6262804ea84a18f51bbc70c22fc32a29a6d7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Языковая прагматика: что высказывание делает в работе",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/linguistic-pragmatics-what-an-utterance-does-in-work.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/linguistic-pragmatics-what-an-utterance-does-in-work",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "85a42743650fe00d70acd6d3e27cff0fb25290b151b4032ee9683036cda44656",
+        "reading_copy_sha256": "85a42743650fe00d70acd6d3e27cff0fb25290b151b4032ee9683036cda44656",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Явное и неявное содержание. Импликатуры",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/explicit-and-implicit-content-implicatures.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/explicit-and-implicit-content-implicatures",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6b04a8184af2ad31ab265a0c3875c3e22a0b371d06ab07bee45abc144773cad0",
+        "reading_copy_sha256": "6b04a8184af2ad31ab265a0c3875c3e22a0b371d06ab07bee45abc144773cad0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 4.3.",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/assignment-4-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/assignment-4-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ddd287f1a6cbb2d7d838126448335cc545f933d89c5771bfbf9db9c9dcc5759b",
+        "reading_copy_sha256": "ddd287f1a6cbb2d7d838126448335cc545f933d89c5771bfbf9db9c9dcc5759b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Язык инженера и менеджера: различение по семантике",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/engineer-and-manager-language-semantic-distinctions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/engineer-and-manager-language-semantic-distinctions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c65e457db7506da2ee5673c2c4c71942a53193f95dd0bb7e433b9b0d7eecacd3",
+        "reading_copy_sha256": "c65e457db7506da2ee5673c2c4c71942a53193f95dd0bb7e433b9b0d7eecacd3",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 4.4.",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/exercise-4-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/exercise-4-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "612229f27266f8f39264077def521f3c913951af2a748f5f89bda3a31cd213d6",
+        "reading_copy_sha256": "612229f27266f8f39264077def521f3c913951af2a748f5f89bda3a31cd213d6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Неявные роли и вычисление истинной роли",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/implicit-roles-and-calculating-the-true-role.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/communicate-in-the-correctly-chosen-language/implicit-roles-and-calculating-the-true-role",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6c23a03c256a06a764ebaae5006d721db6a880e6eff8ba478ed82606553c7533",
+        "reading_copy_sha256": "6c23a03c256a06a764ebaae5006d721db6a880e6eff8ba478ed82606553c7533",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Концентрироваться на важном",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "fadf46c57868d3ea122136447405f66e8ee1bca157eed618013717abf7b336e7",
+        "reading_copy_sha256": "fadf46c57868d3ea122136447405f66e8ee1bca157eed618013717abf7b336e7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что такое внимание агента",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/what-is-agent-attention.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/what-is-agent-attention",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d2047550105d41fb6ba0bb5127d1380b0e1b4ce7f089b763da520fe787dddc19",
+        "reading_copy_sha256": "a342874bae8924f93e1e443a4432f5e6b362b1f466d034aff17f67e5a0ad20c9",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 8,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Работа внимания агента",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/agent-s-attention-work.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/agent-s-attention-work",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a31b7086ca238fbbb59fed8d4c67e38d984eb33c310da9a3bd4d8c5b4b6c06c2",
+        "reading_copy_sha256": "6c4e165e3450e56b54a3a5e031187def4c0378112d87ec19b8bac9ad0e36de90",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Ассоциативное и понятийное моделирование",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/associative-and-conceptual-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/associative-and-conceptual-modeling",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "cab9bdb363775be58c390d881d25b1269eb674251f2ed08a8d6dac0c9917bd55",
+        "reading_copy_sha256": "a2e9fa103c27fef6af711194e6115aab54897911efaf2b2846605e16708f461b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 3,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что такое важное",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/what-is-important.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/what-is-important",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e1e513d38dc11818665909b36ba648658ae5862eb856f7836d53db911df4234d",
+        "reading_copy_sha256": "60babc26d4fab56d4e4351a0d3eefae5ca2d133f620948bd2c7704c831f964ee",
+        "joined_adjacent_bold_spans": 2,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 5.1",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/assignment-5-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/assignment-5-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "f62de9d3b5b3c7522971e863ee7567b56e176e7180a82be9922c74b01589c675",
+        "reading_copy_sha256": "f62de9d3b5b3c7522971e863ee7567b56e176e7180a82be9922c74b01589c675",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Фокусироваться на важном",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/focus-on-what-matters.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/focus-on-what-matters",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "43126b4d6e8a0c977e4d075dda9fe1dfef7e6e8a82ef72f5ef15bafeb676b045",
+        "reading_copy_sha256": "db56963cb9750369304fbd4ed9d577b170d82bab5504ae105df8b50f295db558",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 5,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Переключения и отвлечения",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/switches-and-distractions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/switches-and-distractions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0ed697e7c9e4817125e76443063de8c90ca01099be3c64284165a9d159df3f5c",
+        "reading_copy_sha256": "704193f4444d4586e2343b7eecb8795173996781078d36ad0baf2e1f40ba08f5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [
+          {
+            "source": "/ru/professional/firefighting/1.png",
+            "reading_copy": "../../../../public/ru/professional/firefighting/1.png"
+          }
+        ],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Функции экзокортекса",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/functions-of-the-exocortex.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/functions-of-the-exocortex",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "cdd2d24fd42b0f1b5987258432cfa9b825dffc3f8065716655e2b9dda7eaa4ac",
+        "reading_copy_sha256": "cdd2d24fd42b0f1b5987258432cfa9b825dffc3f8065716655e2b9dda7eaa4ac",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Фокус: формула быстрой работы",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/focus-quick-work-formula.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/focus-quick-work-formula",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "146d023b7852a2fa66fc513460a878971bf8b549f3b65d156dc578a429b95023",
+        "reading_copy_sha256": "173f4261b94eefed011e07433f25dfc584bf3b48a4eef9fd734ed3d683622d4e",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 2,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Мантра элегантности в работе/lean",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/mantra-of-elegance-in-work-lean.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/mantra-of-elegance-in-work-lean",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4b945234f66b1062ca5342000104a746a30a1c03c1bc9989b1371f3dfdd6caff",
+        "reading_copy_sha256": "d41f5a2d6fde08fba560d41b9b092ef9efaf1f4f751b5f3372f3b111f8645157",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 7,
+        "converted_inline_footnotes": 1,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 5.2",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/assignment-5-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/assignment-5-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ddd2555b041b12becf82508c8d02870b8e87771a433a4aeae37f5f3f080d461c",
+        "reading_copy_sha256": "ddd2555b041b12becf82508c8d02870b8e87771a433a4aeae37f5f3f080d461c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 5.3",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/assignment-5-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/assignment-5-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "2c673ed0dc2d427df436cdee225d7d23ba4285b248952c1cc0956da92d6120c0",
+        "reading_copy_sha256": "2c673ed0dc2d427df436cdee225d7d23ba4285b248952c1cc0956da92d6120c0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что дальше?",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/firefighting/focus-on-what-matters/what-s-next.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/firefighting/focus-on-what-matters/what-s-next",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1a2e29a455eaf61e6bfd9a496f616acdcece459b355ac2c381bd2a897a09de5c",
+        "reading_copy_sha256": "1a2e29a455eaf61e6bfd9a496f616acdcece459b355ac2c381bd2a897a09de5c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    }
+  ],
+  "formatting_totals": {
+    "joined_adjacent_bold_spans": 45,
+    "adjacent_italic_boundaries_joined": 13,
+    "converted_inline_footnotes": 110,
+    "strong_spans_using_html_for_github": 47,
+    "repaired_escaped_emphasis_spans": 0,
+    "source_lines_with_normalized_emphasis": 0,
+    "italic_spans_using_html_for_github": 0
+  },
+  "source_gaps": {
+    "missing_footnote_definitions": [],
+    "missing_image_definitions": [],
+    "heading_only_pages": [],
+    "note": "These references or page headings exist in the publisher snapshot, but their bodies/assets are absent there. No missing content has been invented."
+  }
+}

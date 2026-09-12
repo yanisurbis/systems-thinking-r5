@@ -1,0 +1,1971 @@
+{
+  "course": "R2. Моделирование как основа коммуникации и лидерства",
+  "author": "П. Медведева, В. Агроскин, А. Лубенченко",
+  "language": "ru",
+  "verified_at": "2026-09-12T15:59:42.125049+00:00",
+  "upstream_repository": "https://github.com/aisystant/docs",
+  "upstream_commit": "b9989a2bf229510ab66304c0a44f86a5f96689de",
+  "upstream_commit_date": "2026-08-31T16:24:40Z",
+  "acquisition": "Selected publisher Markdown and referenced images from existing native GitHub fork; local Git objects processed sequentially.",
+  "scope": "Russian R2 book pages, chapter navigation, referenced images, reading index and provenance.",
+  "version_note": "Official public Markdown snapshot; exact equivalence to a dated Aisystant interactive edition has not been verified.",
+  "coverage": {
+    "content_page": 39,
+    "workbook_placeholder": 26,
+    "navigation": 7,
+    "source_stub": 0
+  },
+  "assets": [],
+  "pages": [
+    {
+      "title": "R2. Моделирование как основа коммуникации и лидерства",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-1/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "d1c3d9931d888c9e904fd446721992acdb02dd92b79c9e5fb42f2c842a4b93e2",
+        "reading_copy_sha256": "d1c3d9931d888c9e904fd446721992acdb02dd92b79c9e5fb42f2c842a4b93e2",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Основы моделирования",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "cd9cd5761c9cea60ea94faadec29e5664ee4de588fd9b5d9b00dadc4174c9064",
+        "reading_copy_sha256": "cd9cd5761c9cea60ea94faadec29e5664ee4de588fd9b5d9b00dadc4174c9064",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Мышление и моделирование",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/thinking-and-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/thinking-and-modeling",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "38d552ddd31d23ed69f5d4447d509016ca7b6c31ebd92221bc4cb653c74e119a",
+        "reading_copy_sha256": "ce8c9fa2938edfddf2a1f436e44e9bc0e5a5432e970ba7a475c26c05ff44c920",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [
+          {
+            "source": "https://en.wikipedia.org/wiki/Resource*Description*Framework",
+            "reading_copy": "https://en.wikipedia.org/wiki/Resource_Description_Framework"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Resource\\*Description\\*Framework",
+            "reading_copy": "https://en.wikipedia.org/wiki/Resource_Description_Framework"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Web*Ontology*Language",
+            "reading_copy": "https://en.wikipedia.org/wiki/Web_Ontology_Language"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Web\\*Ontology\\*Language",
+            "reading_copy": "https://en.wikipedia.org/wiki/Web_Ontology_Language"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Graph*database",
+            "reading_copy": "https://en.wikipedia.org/wiki/Graph_database"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Graph\\*database",
+            "reading_copy": "https://en.wikipedia.org/wiki/Graph_database"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 1.1.",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/exercise-1-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/exercise-1-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "d619bac017467691391194e7779c3978ce96a55e415b274d91a5ef3e6ab84ea0",
+        "reading_copy_sha256": "d619bac017467691391194e7779c3978ce96a55e415b274d91a5ef3e6ab84ea0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 1.2.",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/exercise-1-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/exercise-1-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "72cab51a2ca56758cda98c1803c3cc815af9d474d0be7c7ce5366fd90467b455",
+        "reading_copy_sha256": "72cab51a2ca56758cda98c1803c3cc815af9d474d0be7c7ce5366fd90467b455",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Кто моделирует?",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/who-models.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/who-models",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e86989c5daada0a84bccf16b2b7b1a47b21fd20daca9858b09a8eb51b0359a9f",
+        "reading_copy_sha256": "e86989c5daada0a84bccf16b2b7b1a47b21fd20daca9858b09a8eb51b0359a9f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 1.3.",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/exercise-1-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/exercise-1-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "fedab217c9d7354b7a415070139337ef992e8d2984fab1a980c093af12fbe60c",
+        "reading_copy_sha256": "fedab217c9d7354b7a415070139337ef992e8d2984fab1a980c093af12fbe60c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Подход к выделению объектов и внимание",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/approach-to-object-identification-and-attention.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/approach-to-object-identification-and-attention",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c72dbae6625c85a5dc9b11b3bd402e81e8bc3b6792ecab60ed59279eb591e81b",
+        "reading_copy_sha256": "c72dbae6625c85a5dc9b11b3bd402e81e8bc3b6792ecab60ed59279eb591e81b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.4.",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/assignment-1-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/assignment-1-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e4b8fd9dcc31276de70981f6f30ae8162d8980de6c7a2af820dde30c97e7e76a",
+        "reading_copy_sha256": "e4b8fd9dcc31276de70981f6f30ae8162d8980de6c7a2af820dde30c97e7e76a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 1.5.",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/exercise-1-5.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/exercise-1-5",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "95b19b9b851fbab53c3ed8564b724303d8861c4449ddc9dc9eb05c2e75b9b76e",
+        "reading_copy_sha256": "95b19b9b851fbab53c3ed8564b724303d8861c4449ddc9dc9eb05c2e75b9b76e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Роль, метод и предметная область",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/role-method-and-subject-area.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/role-method-and-subject-area",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7420d7c7a7d2a1879187bac96e45b36f9f5bb7a7483045ff282112bb99c7e8c4",
+        "reading_copy_sha256": "27720e069f40bf13482047cf7a11e5e545cccab170713d043eb5193953a81518",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 2,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.6",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/assignment-1-6.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/assignment-1-6",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ba054ff447806d76220b8fb7f3d69c8f307d2809b179925d5deebac90a514be0",
+        "reading_copy_sha256": "ba054ff447806d76220b8fb7f3d69c8f307d2809b179925d5deebac90a514be0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 1.7.",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/exercise-1-7.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/exercise-1-7",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e516f08da3767b87507483b61e0bfdec649df589cff2aea9807aeb4670b2ae6c",
+        "reading_copy_sha256": "e516f08da3767b87507483b61e0bfdec649df589cff2aea9807aeb4670b2ae6c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Объекты для разных ролей",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/objects-for-different-roles.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/objects-for-different-roles",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "999c8e085dbd458811c36d5fc801e61594d10588bec253f4304a30fe2a9cc448",
+        "reading_copy_sha256": "999c8e085dbd458811c36d5fc801e61594d10588bec253f4304a30fe2a9cc448",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 1.8.",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/exercise-1-8.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/exercise-1-8",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e7cfddf7fb7cdf8428a308fb2a44be7938f6baf26e7462f227639c24998cc155",
+        "reading_copy_sha256": "e7cfddf7fb7cdf8428a308fb2a44be7938f6baf26e7462f227639c24998cc155",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.9.",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/assignment-1-9.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/assignment-1-9",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "afa0c40272677c3ac1820348e34f94888fcb7bdd6718fc052003e2ffc14c28c3",
+        "reading_copy_sha256": "afa0c40272677c3ac1820348e34f94888fcb7bdd6718fc052003e2ffc14c28c3",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что моделируем? Деятельность создателей.",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/what-are-we-modeling-creators-activities.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/what-are-we-modeling-creators-activities",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e3c7bfc88675d4732124b118e793c102243bc2b790780752d91931993b422ae1",
+        "reading_copy_sha256": "e3c7bfc88675d4732124b118e793c102243bc2b790780752d91931993b422ae1",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 1.10.",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/exercise-1-10.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/exercise-1-10",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "6b0fbef228b7e526edaa0ab33421e03540d406b32248745275a6c5489f32b6a4",
+        "reading_copy_sha256": "6b0fbef228b7e526edaa0ab33421e03540d406b32248745275a6c5489f32b6a4",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что моделируем? Создатели.",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/what-are-we-modeling-creators.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/what-are-we-modeling-creators",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b85e81e98c5cf36b47906867293ba92e45c304245da385ff84d7328c8fb5ad64",
+        "reading_copy_sha256": "b85e81e98c5cf36b47906867293ba92e45c304245da385ff84d7328c8fb5ad64",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что моделируем? Продукт и его использование.",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/what-are-we-modeling-the-product-and-its-use.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/what-are-we-modeling-the-product-and-its-use",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "764f073f232a994a1031fdbb1806b4f12c06a94081daaf341f6befb2b4da4762",
+        "reading_copy_sha256": "764f073f232a994a1031fdbb1806b4f12c06a94081daaf341f6befb2b4da4762",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что моделируем? Знание агентов.",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/modeling-1/basics-of-modeling/what-are-we-modeling-agent-knowledge.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/basics-of-modeling/what-are-we-modeling-agent-knowledge",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "556e2370476750d52bda368735951d69c783a4880a06facefdeb53228f9e1fc4",
+        "reading_copy_sha256": "556e2370476750d52bda368735951d69c783a4880a06facefdeb53228f9e1fc4",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Коммуникация и лидерство",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "26fca0c1bf13a541ed37b55c26230fbd1e9c096c9349f9d49803c59bbafb3980",
+        "reading_copy_sha256": "26fca0c1bf13a541ed37b55c26230fbd1e9c096c9349f9d49803c59bbafb3980",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Как использовать модели для создания преимущества в коммуникативных ситуациях",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/how-to-use-models-to-create-an-advantage-in-communication-situations.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/how-to-use-models-to-create-an-advantage-in-communication-situations",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9f61a4a150dffda65da96862096f82ea1c476df3100d9c5bca3edbe9158158b8",
+        "reading_copy_sha256": "9f61a4a150dffda65da96862096f82ea1c476df3100d9c5bca3edbe9158158b8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Концептуальная часть",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/conceptual-part.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/conceptual-part",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "fa49f565e006962b22652c81a61731e90dcf7a61e8485aa5a3f7b9cf8bc92909",
+        "reading_copy_sha256": "fa49f565e006962b22652c81a61731e90dcf7a61e8485aa5a3f7b9cf8bc92909",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 2.1.",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/assignment-2-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/assignment-2-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "20786e4080c23942407d196cf5b967ad08da95e4cfea740e27710982fb87f02a",
+        "reading_copy_sha256": "20786e4080c23942407d196cf5b967ad08da95e4cfea740e27710982fb87f02a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Эпистемическое состояние агентов",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/epistemic-state-of-agents.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/epistemic-state-of-agents",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b350255e3beada64989c1ae93125f70725497e4ebe72635496f028b92b7816be",
+        "reading_copy_sha256": "cd3f08dac894a72d4615b87f1193700a239a313a5899cbf37dff7ecc58faa96c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 2,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 2.2.",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/assignment-2-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/assignment-2-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "bf9b89c403487853bc4af848b08e378e92008a854891dcf7ecb80375b0d53a3c",
+        "reading_copy_sha256": "bf9b89c403487853bc4af848b08e378e92008a854891dcf7ecb80375b0d53a3c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Роли, предпочтения, стратегии",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/roles-preferences-strategies.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/roles-preferences-strategies",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9ee50fdb96e7983bbca2ddf25da6ee96c0d5e404ae7f9ef648c9d1e669df8946",
+        "reading_copy_sha256": "7f01f7476b4390b9dfb25114f53781cf3fea50aadac4f7566aed95a734d4bbd3",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 6,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.3.",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/exercise-2-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/exercise-2-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "71140b4725164bca55b032e64dc62f2c43f994214b827ef9403dffe07ce0dab7",
+        "reading_copy_sha256": "71140b4725164bca55b032e64dc62f2c43f994214b827ef9403dffe07ce0dab7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Рамки целеполагания",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/goal-setting-frameworks.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/goal-setting-frameworks",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "181f314d25c60194c8ac07d4418821a1229cd97d4e10b800c424fc6d8762d632",
+        "reading_copy_sha256": "181f314d25c60194c8ac07d4418821a1229cd97d4e10b800c424fc6d8762d632",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.4.",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/exercise-2-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/exercise-2-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "90e4b3e0b46e4a54f9481960df8c0c449173b17f022d08f52b598b570b091112",
+        "reading_copy_sha256": "90e4b3e0b46e4a54f9481960df8c0c449173b17f022d08f52b598b570b091112",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Риторическая часть",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/rhetorical-section.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/rhetorical-section",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "30828ea1763d2d7d4136fc3477cd1b9f65762c75053020639e95f8b066c69393",
+        "reading_copy_sha256": "17caea1e9dcbd16ab2b7d526451b391f7329749cb216abd2def46753a1a8f14c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 11,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Когда аргументов мало",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/when-arguments-are-scarce.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/when-arguments-are-scarce",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5ea2eb0e16cb5391f189eee91e8e1be60b2f7782e42d4f71604dd682afd7ef51",
+        "reading_copy_sha256": "5ea2eb0e16cb5391f189eee91e8e1be60b2f7782e42d4f71604dd682afd7ef51",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.5.",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/exercise-2-5.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/exercise-2-5",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "f3492736ce5da3d8326ccf01a6a2e85e4848243f421fe7d21f7ef387c1abaf3e",
+        "reading_copy_sha256": "f3492736ce5da3d8326ccf01a6a2e85e4848243f421fe7d21f7ef387c1abaf3e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Внешние ссылки",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/modeling-1/communication-and-leadership/external-links.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/communication-and-leadership/external-links",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "669de235a0ba63f053b6a4160f9a7c50f405f48795924e2e8742faec6109ed6a",
+        "reading_copy_sha256": "669de235a0ba63f053b6a4160f9a7c50f405f48795924e2e8742faec6109ed6a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Создание и передача объяснений",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "9832c1f11e72f9f6a43ad6ffb17ec8d6e4a3d4b1b4b9f047fade754339f9119b",
+        "reading_copy_sha256": "9832c1f11e72f9f6a43ad6ffb17ec8d6e4a3d4b1b4b9f047fade754339f9119b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Практика исследований",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/research-practice.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/research-practice",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "43364a5093e2d1780850715b3ff83b3d38715e195b63dc5e31d3484f7f35e73e",
+        "reading_copy_sha256": "8afc104a9c7b7bc258bd560cb3d4a736141628105e76526ae8b4b62bc924e790",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 8,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Зачем создаются объяснения",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/why-explanations-are-created.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/why-explanations-are-created",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0baf7a678d6b2614fbf1a4ffd7c578cb6bf3fbcb23b071139788a46f4a3834cf",
+        "reading_copy_sha256": "ad505b9bdd5175acfe2d145a6898e78e645afd6671e16c6fa2ac96245958c552",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 4,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `162`. Их исходные маркеры сохранены.\n\n[^162]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "162"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Как анализируют объяснения",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/how-explanations-are-analyzed.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/how-explanations-are-analyzed",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "298e6f9e9667f47385b1480a0e1b3262e2a1fa6cc16cc5c2c002c8559f97d07a",
+        "reading_copy_sha256": "d1425f6c20d816ce0981f3a15a08948464c4038da518a524aa4677f105a0da52",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 2,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 3.1.",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/assignment-3-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/assignment-3-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "603b4d0769b78e3c65d38b76df442fedb0c5453f710fad35e5525c15edef91d0",
+        "reading_copy_sha256": "603b4d0769b78e3c65d38b76df442fedb0c5453f710fad35e5525c15edef91d0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Утверждения и убеждения",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/statements-and-beliefs.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/statements-and-beliefs",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "7735985649008605dca1407fcf8ad85d0e12531d7600e1a2f23878f9bfdc29bd",
+        "reading_copy_sha256": "fc520f674f4c74a250aa8c08d04ec54e535522e2b48f1488eae6599d2e4a341a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 5,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "italic_spans_using_html_for_github": 1,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 3.2.",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/exercise-3-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/exercise-3-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "0d676ca43764bde3cce23f26c88be2ab2d067aceffc3e9d204825113ca2d3181",
+        "reading_copy_sha256": "0d676ca43764bde3cce23f26c88be2ab2d067aceffc3e9d204825113ca2d3181",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Предсказания и допущения",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/predictions-and-assumptions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/predictions-and-assumptions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e1354d1c6bb28e3b925e94ed1f11bbe66be7aaeb822fe9d8e5e0f4526a210cbb",
+        "reading_copy_sha256": "5c5fc9107a33e0e9f49eab10a0b45a74ba6afae0ea2cb9456ad9b2b02491b517",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 3,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 3.3.",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/exercise-3-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/exercise-3-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ed361afb8d11af99aeadf43baa9f330fc95c1b2a469f71c456c58cc8c50daa22",
+        "reading_copy_sha256": "ed361afb8d11af99aeadf43baa9f330fc95c1b2a469f71c456c58cc8c50daa22",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Создание объяснений",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/creating-explanations.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/creating-explanations",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e9aa2a5647f867fa52ca5e8aad0278a8e446e05b45d07e88e147c5430874313e",
+        "reading_copy_sha256": "bfb36334ae4cb659e54f703f0d7fbdc9d42a172c7937fe51cd344d5139532482",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 3,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "italic_spans_using_html_for_github": 2,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `163`. Их исходные маркеры сохранены.\n\n[^163]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "163"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Исследования самого себя",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/self-exploration.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/self-exploration",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "43f698d4cd53bbe5b3907829bf4008291cbc0c57c458c5c3a0921b19e30fd569",
+        "reading_copy_sha256": "43f698d4cd53bbe5b3907829bf4008291cbc0c57c458c5c3a0921b19e30fd569",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Как оценить объяснение",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/how-to-evaluate-an-explanation.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/how-to-evaluate-an-explanation",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f6c26e4a093e9b5f60c9c97c3ec20df9f96a068e8f5109463dcb22924d0e9a77",
+        "reading_copy_sha256": "f6c26e4a093e9b5f60c9c97c3ec20df9f96a068e8f5109463dcb22924d0e9a77",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 3.4.",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/modeling-1/creation-and-delivery-of-explanations/assignment-3-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/creation-and-delivery-of-explanations/assignment-3-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "281acfe9fde946d776982e356c2b19b806ef1540f5ad48e1f66b7098335af510",
+        "reading_copy_sha256": "281acfe9fde946d776982e356c2b19b806ef1540f5ad48e1f66b7098335af510",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Распознавать слабые сигналы в работе с людьми",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "3ff2602b611c09634afbcb90d7ac40970294d8c9a92d52617d6fc3f529d5e156",
+        "reading_copy_sha256": "3ff2602b611c09634afbcb90d7ac40970294d8c9a92d52617d6fc3f529d5e156",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Приоритизация потоков",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/prioritization-of-flows.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/prioritization-of-flows",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3eb7974f4c08c6443a23cf3c23fad1ee8d00d85299755be62cfe538a4043fda0",
+        "reading_copy_sha256": "3eb7974f4c08c6443a23cf3c23fad1ee8d00d85299755be62cfe538a4043fda0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Метрики",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/metrics.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/metrics",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b1c9cc79678e0997ed737c827449fdceca5c8abe6f8b83ccbb9ced81f362b690",
+        "reading_copy_sha256": "07126bba1eca2e4ff1345250cef9067ea41ca94e9abaefaf93634a828c4e7ca6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `130`, `131`. Их исходные маркеры сохранены.\n\n[^130]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^131]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 2
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "130",
+          "131"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 4.1",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/assignment-4-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/assignment-4-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "9a8be11106288baf17a43c7030eb9935ec83022d1d0ea0d54ca43801168d9ba5",
+        "reading_copy_sha256": "9a8be11106288baf17a43c7030eb9935ec83022d1d0ea0d54ca43801168d9ba5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Действия для изменения состояний объектов",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/actions-for-changing-object-states.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/actions-for-changing-object-states",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a1a2f2f031489502a0d9d0d90661996ceeefd7dd29f834ac2bbda22aa7766bda",
+        "reading_copy_sha256": "405dce78ac7b460aa9aadd5975249c442b39d8a297adbe521add507e15075fdc",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `132`, `133`. Их исходные маркеры сохранены.\n\n[^132]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^133]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 2
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "132",
+          "133"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 4.2",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/assignment-4-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/recognizing-weak-signals-in-working-with-people/assignment-4-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "d3fc5205035b39d6940d93c23bc8887dc66846479158ecde863b2975b833afb0",
+        "reading_copy_sha256": "d3fc5205035b39d6940d93c23bc8887dc66846479158ecde863b2975b833afb0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Удержание внимания",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "cd6f8172eb6958e4d55e571c2cef1c9cfdb88f874c45adb567bad32eacf802c0",
+        "reading_copy_sha256": "cd6f8172eb6958e4d55e571c2cef1c9cfdb88f874c45adb567bad32eacf802c0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Динамическое рассмотрение объектов",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/dynamic-analysis-of-objects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/dynamic-analysis-of-objects",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "de5a373a09b2fbb5217ffc2537918e207ad29c409f6a1f4714e61c84c6f04dab",
+        "reading_copy_sha256": "de5a373a09b2fbb5217ffc2537918e207ad29c409f6a1f4714e61c84c6f04dab",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Смены состояний объектов",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/state-changes-of-objects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/state-changes-of-objects",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c76132e9827c842976a48d94069ae56d86ae6cf8211abf000ff1cfec4b295ad3",
+        "reading_copy_sha256": "0c680849e2536f9f19d682733c4bd53bc27ec8a74467a792720330c9fd15f2b5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как текст, снимок экранаАвтоматически созданное описание][image23]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image23`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, число, ШрифтАвтоматически созданное описание][image34]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image34`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `134`. Их исходные маркеры сохранены.\n\n[^134]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "134"
+        ],
+        "missing_image_definitions": [
+          "image23",
+          "image34"
+        ]
+      }
+    },
+    {
+      "title": "Упражнение 5.1",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/exercise-5-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/exercise-5-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e7026b4ebadb015b34d6bd0ee0850f54bdbc4452115ed4d603bca8a04d8ed19d",
+        "reading_copy_sha256": "e7026b4ebadb015b34d6bd0ee0850f54bdbc4452115ed4d603bca8a04d8ed19d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Чеклисты как способ удержания внимания",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/checklists-as-a-way-to-maintain-attention.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/checklists-as-a-way-to-maintain-attention",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "cf61fccb2650d94e9d683f1b9e6a3635b76433bb5bfb380ed63b9c734145b069",
+        "reading_copy_sha256": "5ea98584958592c1c5578269993ace7a0a0b970533031903133a350460a2b4cf",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как текст, чек, Шрифт, линияАвтоматически созданное описание][image35]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image35`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `135`, `136`, `137`. Их исходные маркеры сохранены.\n\n[^135]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^136]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^137]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 3
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "135",
+          "136",
+          "137"
+        ],
+        "missing_image_definitions": [
+          "image35"
+        ]
+      }
+    },
+    {
+      "title": "Задание 5.2",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/assignment-5-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/assignment-5-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "89fb58efd1adb75722243a880130d606f24a3ca26879c9c7844c2f5711d16625",
+        "reading_copy_sha256": "89fb58efd1adb75722243a880130d606f24a3ca26879c9c7844c2f5711d16625",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Измерение изменений",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/measuring-changes.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/measuring-changes",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "88d1166ddf3210f88500f65fc02852b0981c7e82ca2a45e5e9d49bc84317a4d6",
+        "reading_copy_sha256": "de0008eaca6809dfccb1450a21adce968ef8259f4e2725fb9f70e35bf4496a17",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, линия, ШрифтАвтоматически созданное описание][image36]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image36`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image36"
+        ]
+      }
+    },
+    {
+      "title": "Шкалы",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/scales.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/scales",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1dbdf272b5d05b8abf58b484507419cab53a782011c5abff9572cb56daffb6ea",
+        "reading_copy_sha256": "0b9a0c4fb11714e77de4b7f9353e2cbc4dcef85654c0cbbb5df2e28586329559",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![shk][image25]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image25`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image25"
+        ]
+      }
+    },
+    {
+      "title": "Вещь и граф создателей вещи",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/thing-and-graph-of-creators.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/thing-and-graph-of-creators",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ffc59f2cd6c0abcac6ba8f52c86cd3369b6562238f700f054ada359252cf4ca5",
+        "reading_copy_sha256": "3914f0dc02685d773f90345c96b3f49fd0f1b1d11d9d91a78ea80539e7ddf13d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как текст, круг, диаграмма, снимок экранаКонтент, сгенерированный ИИ, может содержать ошибки.][image37]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image37`."
+          },
+          {
+            "source": "![Изображение выглядит как диаграмма, линия, снимок экрана, ПараллельныйКонтент, сгенерированный ИИ, может содержать ошибки.][image38]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image38`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `138`, `139`, `140`, `141`, `142`, `143`, `144`. Их исходные маркеры сохранены.\n\n[^138]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^139]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^140]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^141]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^142]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^143]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^144]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 7
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "138",
+          "139",
+          "140",
+          "141",
+          "142",
+          "143",
+          "144"
+        ],
+        "missing_image_definitions": [
+          "image37",
+          "image38"
+        ]
+      }
+    },
+    {
+      "title": "Задание 5.3",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/assignment-5-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/assignment-5-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e64e82f23cbc6bcbab4b0e696df24f4daec9a71a4171f849862f9f10f85595a7",
+        "reading_copy_sha256": "e64e82f23cbc6bcbab4b0e696df24f4daec9a71a4171f849862f9f10f85595a7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Онтология путешествий объектов",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/ontology-of-object-journeys.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/ontology-of-object-journeys",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a1cb2c8e90cd496cc335e891e143a3cf55c4e914bfc26e36955c61ba9f5a6dc9",
+        "reading_copy_sha256": "72a4e971ab91d795f6f707ca2c0f7f6fe8b9ddc8c75782dd95fa8de7b0930064",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как линия, снимок экрана, диаграмма, текстКонтент, сгенерированный ИИ, может содержать ошибки.][image39]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image39`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, диаграмма, ШрифтАвтоматически созданное описание][image40]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image40`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `145`, `146`, `147`, `148`, `149`, `150`, `151`, `152`, `153`, `154`. Их исходные маркеры сохранены.\n\n[^145]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^146]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^147]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^148]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^149]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^150]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^151]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^152]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^153]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^154]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 10
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "145",
+          "146",
+          "147",
+          "148",
+          "149",
+          "150",
+          "151",
+          "152",
+          "153",
+          "154"
+        ],
+        "missing_image_definitions": [
+          "image39",
+          "image40"
+        ]
+      }
+    },
+    {
+      "title": "Задание 5.4",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/assignment-5-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/assignment-5-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e7bf3979bb39c88a0c0bbbb689dcb6fc25935e90fa0373c75de2c37883372832",
+        "reading_copy_sha256": "e7bf3979bb39c88a0c0bbbb689dcb6fc25935e90fa0373c75de2c37883372832",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Переключение внимания и напоминания",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/attention-shifting-and-reminders.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/attention-shifting-and-reminders",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "532cc5bb7bf4c906a44b25875fdd67c62856b914f5900832a3e18eac268705c1",
+        "reading_copy_sha256": "3812932d289755aee1af7b3096aa53380f4d89ab29b93a58f2ffddf034c2812a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `155`. Их исходные маркеры сохранены.\n\n[^155]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "155"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Проблемы и практики удержания внимания",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/attention-retention-challenges-and-practices.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/attention-retention-challenges-and-practices",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f4c6824a9557829735c4ff069567cdaa437a08328f8428bbd8d68eddd7e5774b",
+        "reading_copy_sha256": "22c4606683b967d067cbfe4e40a0912aa7d77776182f6aae8232317d3aafcfe7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как текст, диаграмма, линия, ПараллельныйАвтоматически созданное описание][image41]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image41`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, диаграмма, линия, снимок экранаАвтоматически созданное описание][image42]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image42`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `156`, `157`, `158`, `159`, `160`. Их исходные маркеры сохранены.\n\n[^156]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^157]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^158]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^159]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^160]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 5
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "156",
+          "157",
+          "158",
+          "159",
+          "160"
+        ],
+        "missing_image_definitions": [
+          "image41",
+          "image42"
+        ]
+      }
+    },
+    {
+      "title": "Перестройка расписания",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/schedule-restructuring.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/schedule-restructuring",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "cdcf6640132cfcb4b93006f3e19287676523f0a01feb3f705b9f1885d918bb0f",
+        "reading_copy_sha256": "f637cf7e0ac05e046b7fa6f1e0a94895dca572dca2dda0d6527b49e0d5cb750f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `161`. Их исходные маркеры сохранены.\n\n[^161]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "161"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 5.5",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/modeling-1/attention-retention/assignment-5-5.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/attention-retention/assignment-5-5",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "43e0be4ae805c888364ff82f1a96453651807241e35694f10672884dfff53f61",
+        "reading_copy_sha256": "43e0be4ae805c888364ff82f1a96453651807241e35694f10672884dfff53f61",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Совместная работа по моделям",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-1/collaborative-work-on-models/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/collaborative-work-on-models/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "eaff6fe7c22bfe9ea9cb6c01d0b08607aa91b1f5c8d66383bbcda25d75baadea",
+        "reading_copy_sha256": "eaff6fe7c22bfe9ea9cb6c01d0b08607aa91b1f5c8d66383bbcda25d75baadea",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Практическое применение моделирования",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-1/collaborative-work-on-models/practical-application-of-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-1/collaborative-work-on-models/practical-application-of-modeling",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4f5658fa923a4a859ee0728a3e83a2b98204dcc2f208589ddfffbb4eb93dbbcf",
+        "reading_copy_sha256": "b03922a20674f0692791d0028ddd366982da21f7286386f95efe52b4c901add7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `238`, `239`, `240`. Их исходные маркеры сохранены.\n\n[^238]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^239]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^240]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 3
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "238",
+          "239",
+          "240"
+        ],
+        "missing_image_definitions": []
+      }
+    }
+  ],
+  "formatting_totals": {
+    "joined_adjacent_bold_spans": 0,
+    "adjacent_italic_boundaries_joined": 0,
+    "converted_inline_footnotes": 0,
+    "strong_spans_using_html_for_github": 11,
+    "repaired_escaped_emphasis_spans": 36,
+    "source_lines_with_normalized_emphasis": 0,
+    "italic_spans_using_html_for_github": 3
+  },
+  "source_gaps": {
+    "missing_footnote_definitions": [
+      "130",
+      "131",
+      "132",
+      "133",
+      "134",
+      "135",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "141",
+      "142",
+      "143",
+      "144",
+      "145",
+      "146",
+      "147",
+      "148",
+      "149",
+      "150",
+      "151",
+      "152",
+      "153",
+      "154",
+      "155",
+      "156",
+      "157",
+      "158",
+      "159",
+      "160",
+      "161",
+      "162",
+      "163",
+      "238",
+      "239",
+      "240"
+    ],
+    "missing_image_definitions": [
+      "image23",
+      "image25",
+      "image34",
+      "image35",
+      "image36",
+      "image37",
+      "image38",
+      "image39",
+      "image40",
+      "image41",
+      "image42"
+    ],
+    "heading_only_pages": [],
+    "note": "These references or page headings exist in the publisher snapshot, but their bodies/assets are absent there. No missing content has been invented."
+  }
+}

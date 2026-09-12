@@ -1,0 +1,3160 @@
+{
+  "course": "R3. Рабочее моделирование в инженерии и менеджменте",
+  "author": "П. Медведева, В. Агроскин, А. Лубенченко",
+  "language": "ru",
+  "verified_at": "2026-09-12T16:05:54.392224+00:00",
+  "upstream_repository": "https://github.com/aisystant/docs",
+  "upstream_commit": "b9989a2bf229510ab66304c0a44f86a5f96689de",
+  "upstream_commit_date": "2026-08-31T16:24:40Z",
+  "acquisition": "Selected publisher Markdown and referenced images from existing native GitHub fork; local Git objects processed sequentially.",
+  "scope": "Russian R3 book pages, chapter navigation, referenced images, reading index and provenance.",
+  "version_note": "Official public Markdown snapshot; exact equivalence to a dated Aisystant interactive edition has not been verified.",
+  "coverage": {
+    "content_page": 67,
+    "workbook_placeholder": 34,
+    "navigation": 7,
+    "source_stub": 0
+  },
+  "assets": [],
+  "pages": [
+    {
+      "title": "R3. Рабочее моделирование в инженерии и менеджменте",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-2/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "bf328e4dfabae78e5f3e7129947da2857895bdc8a88c149d06ba3c3424454678",
+        "reading_copy_sha256": "bf328e4dfabae78e5f3e7129947da2857895bdc8a88c149d06ba3c3424454678",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Языки и знаки",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "21105369784637823e983c935ad0c7271681054a5732057b471bcf1284ac9b52",
+        "reading_copy_sha256": "21105369784637823e983c935ad0c7271681054a5732057b471bcf1284ac9b52",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Введение",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/introduction.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/introduction",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "62f02caceff72617e6a9f08726c46451c3573ef9c9d3427b09e83f3c6fafa2d0",
+        "reading_copy_sha256": "62f02caceff72617e6a9f08726c46451c3573ef9c9d3427b09e83f3c6fafa2d0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Что такое дребезг",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/what-is-debounce.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/what-is-debounce",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4a5cbf4942ec7655c5b30730810c99683382a3e268a4554ee30e3f5acb18fd44",
+        "reading_copy_sha256": "c83d99dfeccc89868edd3927d74ebfde2bdf0b488aa6a403ed700ad06306dac9",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 3,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Теория языка",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/language-theory.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/language-theory",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0fbcc4ef8a7199217e4534e4fbe91fd77f1f841480cee8ce6cbe9f79d185a3da",
+        "reading_copy_sha256": "69c0c02ea6abde442cfea52e4d38fb2bca102632cd0005771b11323a3f8e6f6e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Тексты и язык",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/texts-and-language.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/texts-and-language",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2674b7ddecb326d88c81eb361861f7748aba3ee21a6cae65852ead926604978a",
+        "reading_copy_sha256": "94c543ce0eac4b212ab799b6c8e9343e1304c084da508ee740b5fe03c9caa8b2",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `97`, `98`, `99`. Их исходные маркеры сохранены.\n\n[^97]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^98]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^99]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 3
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "97",
+          "98",
+          "99"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Знак, объект и концепт",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/sign-object-and-concept.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/sign-object-and-concept",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c41ad11f3142a3ab6cfb971f864665c1ed1812b263fe9ffbd1a187b2125516de",
+        "reading_copy_sha256": "9a4af31d01168d405cde5f7ff1533702b7dfcfd9e523ff1a701d5757841951f9",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image7]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image7`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image7"
+        ]
+      }
+    },
+    {
+      "title": "Как мы интерпретируем знаки",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/how-we-interpret-signs.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/how-we-interpret-signs",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e1f4131a2ead0b3dcddfabe57eda20b89726091e7313e365fa416ae4e91197fa",
+        "reading_copy_sha256": "e1f4131a2ead0b3dcddfabe57eda20b89726091e7313e365fa416ae4e91197fa",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Семантика языка",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/language-semantics.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/language-semantics",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0799ecfe34c6c81750a6f91aaef502bf255e5c686e7ddc81097b219b5f74eb92",
+        "reading_copy_sha256": "c05d3512abb815e2057b09003bf53d970dd48da9da45b1b8d7760f2ca46031a5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.1",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/assignment-1-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/assignment-1-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "52f771839436ab965c519a94a3cde53950d4fc43e57f888bf8be9338bb3dd544",
+        "reading_copy_sha256": "52f771839436ab965c519a94a3cde53950d4fc43e57f888bf8be9338bb3dd544",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.2",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/assignment-1-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/assignment-1-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "821d93c1b877e3a9c6b188e8ebfdc4fd9467599a0778f70fa96890293de3f9ec",
+        "reading_copy_sha256": "821d93c1b877e3a9c6b188e8ebfdc4fd9467599a0778f70fa96890293de3f9ec",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Прагматика",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/pragmatics.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/pragmatics",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "155e370ac35c9348c5e6f8d1bd39eed97fa54c4060e841a9fa73731344f34a7f",
+        "reading_copy_sha256": "155e370ac35c9348c5e6f8d1bd39eed97fa54c4060e841a9fa73731344f34a7f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.3",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/task-1-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/task-1-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "b0c132911cadd1b535efe09554f143e13c4bed23e6d9d801ee673b507b11df4d",
+        "reading_copy_sha256": "b0c132911cadd1b535efe09554f143e13c4bed23e6d9d801ee673b507b11df4d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 1.4",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/exercise-1-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/exercise-1-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "405ad3441eb33440977e0a1a88f3688a333976fcb590e73c78f6eaf2f4110d56",
+        "reading_copy_sha256": "405ad3441eb33440977e0a1a88f3688a333976fcb590e73c78f6eaf2f4110d56",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 1.5",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/modeling-2/languages-and-signs/assignment-1-5.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/languages-and-signs/assignment-1-5",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "601ce178471925741eb17944a151c2cdc98884dcb7946d42f42c0789e0e625b6",
+        "reading_copy_sha256": "601ce178471925741eb17944a151c2cdc98884dcb7946d42f42c0789e0e625b6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Онтология моделирования и типы объектов",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "d4789261ecb5f756440a33c2d8dc7af6a1309aa0859deb889fbfb7c99f617e7f",
+        "reading_copy_sha256": "d4789261ecb5f756440a33c2d8dc7af6a1309aa0859deb889fbfb7c99f617e7f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Индивидуальные объекты и категории",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/individual-objects-and-categories.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/individual-objects-and-categories",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "427ab7ffa68ac52749aa4a962785837af11e93f6c6c8737ba90d4da89f55b304",
+        "reading_copy_sha256": "427ab7ffa68ac52749aa4a962785837af11e93f6c6c8737ba90d4da89f55b304",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.1.",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "6b5fe2250067f223659fe68e9b559ad7e69faf59746304bc398422899dc8bcb5",
+        "reading_copy_sha256": "6b5fe2250067f223659fe68e9b559ad7e69faf59746304bc398422899dc8bcb5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Отнесение к категории",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/categorization.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/categorization",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "74a83a12ecf63253fb8113e32cdd2c26441ff60d3072e83c0c724d9bae52b461",
+        "reading_copy_sha256": "74a83a12ecf63253fb8113e32cdd2c26441ff60d3072e83c0c724d9bae52b461",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.2.",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "206e2b5f10bee037071e75b8c68cdc77c71ab8854d59f94d8d316969dd88072d",
+        "reading_copy_sha256": "206e2b5f10bee037071e75b8c68cdc77c71ab8854d59f94d8d316969dd88072d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Дополнительные замечания об индивидах и категориях",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/additional-notes-on-individuals-and-categories.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/additional-notes-on-individuals-and-categories",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "cbec2281e3032e0bb6edeb8dcc60a64c16b500ccb06bdc6270dc74caf5b3ba5c",
+        "reading_copy_sha256": "cbec2281e3032e0bb6edeb8dcc60a64c16b500ccb06bdc6270dc74caf5b3ba5c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Отношения объектов",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/object-relationships.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/object-relationships",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "395e1bf4b8ae5f05e167678d83dfaaa1144ca5befb85dee6704ef991e5a2e922",
+        "reading_copy_sha256": "2888cd3e8c2891f40acd3f55ef32f42917f3bc84a605ea49a61dc13762238bcd",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [
+          {
+            "source": "https://en.wikipedia.org/wiki/Semantic*triple",
+            "reading_copy": "https://en.wikipedia.org/wiki/Semantic_triple"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Semantic\\*triple",
+            "reading_copy": "https://en.wikipedia.org/wiki/Semantic_triple"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.3.",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "71140b4725164bca55b032e64dc62f2c43f994214b827ef9403dffe07ce0dab7",
+        "reading_copy_sha256": "71140b4725164bca55b032e64dc62f2c43f994214b827ef9403dffe07ce0dab7",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Описание сложных отношений и комплексных объектов",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/description-of-complex-relationships-and-objects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/description-of-complex-relationships-and-objects",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "c331a069b1b25755d13cef14010113056f6fb0456b349baff9f0d006ad7c8c95",
+        "reading_copy_sha256": "75f725095f54d8e1efe81169f8dc4341cd25a4b1f0140c05d2f10ce7de712a77",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [
+          {
+            "source": "https://www.researchgate.net/publication/283865828*Reifying*RDF*What*works*well*with*wikidata",
+            "reading_copy": "https://www.researchgate.net/publication/283865828_Reifying_RDF_What_works_well_with_wikidata"
+          },
+          {
+            "source": "https://www.researchgate.net/publication/283865828\\*Reifying\\*RDF\\*What\\*works\\*well\\*with\\*wikidata",
+            "reading_copy": "https://www.researchgate.net/publication/283865828_Reifying_RDF_What_works_well_with_wikidata"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Категории, классы и типы",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/categories-classes-and-types.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/categories-classes-and-types",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "46bd3dea69c0498cc0332d0b9636eaef1a29d249d39da0d6dad601a121a26117",
+        "reading_copy_sha256": "588f1e465d44daaf9b7edfce65919e7d2d76acd1fd51f5bb8af040260700ab43",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 5,
+        "repaired_source_links": [
+          {
+            "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F*%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2",
+            "reading_copy": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Теория\\*множеств",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Теория_множеств"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Экземпляр класса",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/class-instance.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/class-instance",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "bfcc6596cd46d1d20c492d766b0ddb6a1629e5e2b3a176ea557b0d79ab5ea519",
+        "reading_copy_sha256": "85c1e4ec5ba6e63bd84686e6d2b871335c8eedf395def3e9441f14d24cf4db38",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 14,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image5]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image5`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image5"
+        ]
+      }
+    },
+    {
+      "title": "Надкласс — подкласс",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/superset-subclass.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/superset-subclass",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d214bca300652ec72b770408aac52e655713a42dc1de6aaa82a45e5c00588c51",
+        "reading_copy_sha256": "65fcae7e28860a27367fdebd74854a1a9f8e1c7785cdd49a00a7616aea0dabac",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 12,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image6]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image6`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image6"
+        ]
+      }
+    },
+    {
+      "title": "Онтологии",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/ontologies.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/ontologies",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5bd8c2a05782c7fd3b7e68ff32ee9f214eed4160404c7bd190611b1e41a402ed",
+        "reading_copy_sha256": "4cbf787655226eaa488bf9c076e1e6214cb10352c9a7a864be576872ee979263",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [
+          {
+            "source": "https://en.wikipedia.org/wiki/Ontology*(information*science",
+            "reading_copy": "https://en.wikipedia.org/wiki/Ontology_(information_science"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Ontology\\*(information\\*science",
+            "reading_copy": "https://en.wikipedia.org/wiki/Ontology_(information_science"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Плотность концептуального пространства и качество онтологии",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/density-of-conceptual-space-and-ontology-quality.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/density-of-conceptual-space-and-ontology-quality",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "be867ad4eba54a03534fd998b98389dc8f5892cad2e58223baf76469a22ed838",
+        "reading_copy_sha256": "be867ad4eba54a03534fd998b98389dc8f5892cad2e58223baf76469a22ed838",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Мозг и искусственные нейросети",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/brain-and-artificial-neural-networks.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/brain-and-artificial-neural-networks",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "952cec35b07cda694c2d605d29b81c4474d3224178827012572527b9ed62aa13",
+        "reading_copy_sha256": "952cec35b07cda694c2d605d29b81c4474d3224178827012572527b9ed62aa13",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.4.",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ce3e0e7a25857b315c8fb81309b0c72b0fa4a1c314cb0a4afe59b4d71734462d",
+        "reading_copy_sha256": "ce3e0e7a25857b315c8fb81309b0c72b0fa4a1c314cb0a4afe59b4d71734462d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.5.",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-5.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-5",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "9b90e72babdbfdaa572e73ef6d078f9113020f36a8dedcc442ffc23f69298304",
+        "reading_copy_sha256": "9b90e72babdbfdaa572e73ef6d078f9113020f36a8dedcc442ffc23f69298304",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Физический мир и ментальное пространство",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/physical-world-and-mental-space.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/physical-world-and-mental-space",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1fe521bf58245f8fa17e49cf4bb707fb13f8ef9f25eb05f89be3f2f2ec615754",
+        "reading_copy_sha256": "d7f7dc63577861ee05ef7615c89c4834afc95617641594d1c36b8a28aa3977ca",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![G:\\Documents\\Projects\\Education\\МИС2024\\ChatExport\\\\_2024-02-16\\photos\\photo\\\\_31@01-02-2024\\\\_20-34-22.jpg][image8]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image8`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image8"
+        ]
+      }
+    },
+    {
+      "title": "Задание 2.6.",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/assignment-2-6.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/assignment-2-6",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "ba72c2364a5a05802ebb32b864a0941a3b7b611303bf072b55079e93bdfc4a68",
+        "reading_copy_sha256": "ba72c2364a5a05802ebb32b864a0941a3b7b611303bf072b55079e93bdfc4a68",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Модели и знаки",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/models-and-signs.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/models-and-signs",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ca5f900efdd01889df138ff070778cacf0ce1f620b3c3500133e8c50ae554621",
+        "reading_copy_sha256": "fdb5d8e630353854280db7b57b1c7ab0ef4216e5bf2bf0e42a107c2e2afea660",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 2,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Вопросы 2.7.",
+      "order": 19,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/questions-2-7.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/questions-2-7",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "85bb262f6afdb58178042c03c6728294711c28e40250b186ab4e36e0b4e47f13",
+        "reading_copy_sha256": "85bb262f6afdb58178042c03c6728294711c28e40250b186ab4e36e0b4e47f13",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Варианты онтологического подхода",
+      "order": 20,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/ontological-approach-variants.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/ontological-approach-variants",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "b90eee828408c8db15e2bdc467da57940eaadc9554a238109a80765aced9811d",
+        "reading_copy_sha256": "b90eee828408c8db15e2bdc467da57940eaadc9554a238109a80765aced9811d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Классы классов",
+      "order": 21,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/classes-of-classes.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/classes-of-classes",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "797af2d59ed8289e13651d32235021890814513fb2d03ba6b7e8fc4ffc39ab51",
+        "reading_copy_sha256": "8e80971e1f9f69c1003c84d10f363fdd8a15b229edf787a5d4356974e9a33bc9",
+        "joined_adjacent_bold_spans": 1,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 7,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image10]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image10`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image10"
+        ]
+      }
+    },
+    {
+      "title": "Классификаторы, таксономии",
+      "order": 22,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/classifiers-and-taxonomies.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/classifiers-and-taxonomies",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f5ae2d4d18dbe71d1401a7d7e80b4fd3a62e1ce37df33bb20f37c41ebbd49b94",
+        "reading_copy_sha256": "e9fdb3b57e79fd5888f6e173fe81f78aac9d4752c4572ead282ced712e2959c6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [
+          {
+            "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F*%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0",
+            "reading_copy": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Биологическая\\*систематика",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Биологическая_систематика"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image11]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image11`."
+          },
+          {
+            "source": "![][image12]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image12`."
+          },
+          {
+            "source": "![Integrated Information Platform][image13]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image13`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image11",
+          "image12",
+          "image13"
+        ]
+      }
+    },
+    {
+      "title": "Упражнение 2.8.",
+      "order": 23,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-8.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-8",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "8472c04bfe76cca906b8948944caf9c3694f434aee680a843272aab42749fe1b",
+        "reading_copy_sha256": "8472c04bfe76cca906b8948944caf9c3694f434aee680a843272aab42749fe1b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Разбиения, иерархии и другие деревья",
+      "order": 24,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/breakdowns-hierarchies-and-other-trees.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/breakdowns-hierarchies-and-other-trees",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "eb6d4aa8380cbadc7f3db6967bda02aa6b7cae15b52af75f5f9008bd0a372a28",
+        "reading_copy_sha256": "60f60b7a86655abc0553b4e586a822fdd53e3cc628cb0d80f891fa261b7161d5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 7,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image14]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image14`."
+          },
+          {
+            "source": "![][image15]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image15`."
+          },
+          {
+            "source": "![][image16]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image16`."
+          },
+          {
+            "source": "![http://factmil.com/\\\\_pu/8/01016994.jpg][image17]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image17`."
+          },
+          {
+            "source": "![][image18]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image18`."
+          },
+          {
+            "source": "![][image19]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image19`."
+          },
+          {
+            "source": "![][image20]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image20`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image14",
+          "image15",
+          "image16",
+          "image17",
+          "image18",
+          "image19",
+          "image20"
+        ]
+      }
+    },
+    {
+      "title": "Упражнение 2.9.",
+      "order": 25,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-9.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-9",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "a12299b7d83ed5a21e1e0e2e54696caad5a5996cd780ea3b8b4a644c1b025e76",
+        "reading_copy_sha256": "a12299b7d83ed5a21e1e0e2e54696caad5a5996cd780ea3b8b4a644c1b025e76",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Присвоение типа",
+      "order": 26,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/type-assignment.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/type-assignment",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "2e599e3b52e1c4d565d6e85fade8145cf5437b65f03ea4fae563d75391b2d405",
+        "reading_copy_sha256": "2e599e3b52e1c4d565d6e85fade8145cf5437b65f03ea4fae563d75391b2d405",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Примеры систем типов",
+      "order": 27,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/examples-of-type-systems.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/examples-of-type-systems",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "624d921f420b8db62d12bc8894cf3c9831742c5537927834caaf9a301a8ad217",
+        "reading_copy_sha256": "eb343ddb8cf44215697a5b92e705f1be79cf0969fd7e626c9e15c7d9c7ac7f6c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 3,
+        "repaired_source_links": [
+          {
+            "source": "https://en.wikipedia.org/wiki/Web*Ontology*Language",
+            "reading_copy": "https://en.wikipedia.org/wiki/Web_Ontology_Language"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Web\\*Ontology\\*Language",
+            "reading_copy": "https://en.wikipedia.org/wiki/Web_Ontology_Language"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Upper*ontology#Available*upper*ontologies",
+            "reading_copy": "https://en.wikipedia.org/wiki/Upper_ontology#Available_upper_ontologies"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Upper\\*ontology#Available\\*upper\\*ontologies",
+            "reading_copy": "https://en.wikipedia.org/wiki/Upper_ontology#Available_upper_ontologies"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image21]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image21`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `123`, `124`. Их исходные маркеры сохранены.\n\n[^123]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^124]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 2
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "123",
+          "124"
+        ],
+        "missing_image_definitions": [
+          "image21"
+        ]
+      }
+    },
+    {
+      "title": "Выделение 4D индивидов",
+      "order": 28,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/highlighting-4d-individuals.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/highlighting-4d-individuals",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "38607073817f2620486fc6e160262ea1ee74d7b389b0426298d65f704aeb64b7",
+        "reading_copy_sha256": "53a0d6b2b57810cbef2ec5fa183d2c1cb7e63e15cc36d87acb97e57240b1b55c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image22]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image22`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image22"
+        ]
+      }
+    },
+    {
+      "title": "Композиция 4D объектов",
+      "order": 29,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/composition-of-4d-objects.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/composition-of-4d-objects",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "93d4f66a5ee89232766ce67bf0748374a636a1618a318028a6163340fe8e4589",
+        "reading_copy_sha256": "93d4f66a5ee89232766ce67bf0748374a636a1618a318028a6163340fe8e4589",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Классы",
+      "order": 30,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/classes.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/classes",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "4926ea886888063b18eafa20a936431e7255bad21b3b91b6f2702ed754e28215",
+        "reading_copy_sha256": "ba8d583b0e3f27697877dc10f5d9ffb4372e6942f1eb608a3d0f786ae25e08f9",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image23]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image23`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image23"
+        ]
+      }
+    },
+    {
+      "title": "Кортежи",
+      "order": 31,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/tuples.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/tuples",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5c061e7373577df3cd8e7e53528d04ff66eab4c055f944bbeebd278cc007724b",
+        "reading_copy_sha256": "5c061e7373577df3cd8e7e53528d04ff66eab4c055f944bbeebd278cc007724b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Основной алгоритм онтологического моделирования",
+      "order": 32,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/main-algorithm-of-ontological-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/main-algorithm-of-ontological-modeling",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f1d8e0079cfa1f4b3da89d0c08dc8058421195462e16906d9e47c7c0538cdfe6",
+        "reading_copy_sha256": "f1d8e0079cfa1f4b3da89d0c08dc8058421195462e16906d9e47c7c0538cdfe6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 2.10",
+      "order": 33,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/assignment-2-10.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/assignment-2-10",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "7323837f25be8ea75fb4620a879db911684983447fc9a8d423299a81a2b235a8",
+        "reading_copy_sha256": "7323837f25be8ea75fb4620a879db911684983447fc9a8d423299a81a2b235a8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Добавление классов в онтологию",
+      "order": 34,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/adding-classes-to-the-ontology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/adding-classes-to-the-ontology",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "936813e2d3474ee4cc0aa874c84981a044a62cda2d941275783a53aac20584cb",
+        "reading_copy_sha256": "936813e2d3474ee4cc0aa874c84981a044a62cda2d941275783a53aac20584cb",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Функциональный физический объект",
+      "order": 35,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/functional-physical-object.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/functional-physical-object",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5ef9c6b67f1d258aeec286d50a7edd9ef23c3c8db8c47c3ac08a68b677970fe3",
+        "reading_copy_sha256": "cccac0be71d2ed01af95cf39c7607a6179e1e9a98c25e7e4813abf88b10f77da",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Замена элемента системы",
+      "order": 36,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/replacing-a-system-component.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/replacing-a-system-component",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f8c2cbc611873221f19b0ac3c8710b5bc894ce5f076f4e42ba501d3aa4140ce7",
+        "reading_copy_sha256": "9812189595d59e2c6ee9df4008e883ecf79d505dd91aa69174377d7036f1b9ee",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image24]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image24`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image24"
+        ]
+      }
+    },
+    {
+      "title": "Упражнение 2.11",
+      "order": 37,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-11.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-11",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "bdc809c61044bedca52e079cce8a75b22ddf098d0592cd487b5a4ef4811347c5",
+        "reading_copy_sha256": "bdc809c61044bedca52e079cce8a75b22ddf098d0592cd487b5a4ef4811347c5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Роли",
+      "order": 38,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/roles.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/roles",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "3c54128d6f15e7cf6bf26134d114afafe5019c734c11afe99069b527cfef8ca8",
+        "reading_copy_sha256": "3c54128d6f15e7cf6bf26134d114afafe5019c734c11afe99069b527cfef8ca8",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Понимание ролей",
+      "order": 39,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/understanding-roles.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/understanding-roles",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "892b867047ef67b191a6289d8ef7455a44125e147160798aef56a5c905248cb5",
+        "reading_copy_sha256": "892b867047ef67b191a6289d8ef7455a44125e147160798aef56a5c905248cb5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 2.12.",
+      "order": 40,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-12.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/exercise-2-12",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "e490b9df386ce01ce7bf79e1df64a75b735e7972e4af0b585b6c81192059fdb3",
+        "reading_copy_sha256": "e490b9df386ce01ce7bf79e1df64a75b735e7972e4af0b585b6c81192059fdb3",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 2.13.",
+      "order": 41,
+      "markdown_path": "docs/ru/professional/modeling-2/ontology-of-modeling-and-object-types/assignment-2-13.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/ontology-of-modeling-and-object-types/assignment-2-13",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "0a712a1dce6d2ea2686a10c52aaef051990acd49cc8b5aa489bc57b4d37244f0",
+        "reading_copy_sha256": "0a712a1dce6d2ea2686a10c52aaef051990acd49cc8b5aa489bc57b4d37244f0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Виды моделей",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "64540e8da0b8e30f17ae730bdcf4fe69b0f9039715cd8cdd9af437d5f53c6a62",
+        "reading_copy_sha256": "64540e8da0b8e30f17ae730bdcf4fe69b0f9039715cd8cdd9af437d5f53c6a62",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Описания как модели и знаки",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/descriptions-as-models-and-signs.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/descriptions-as-models-and-signs",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "92ff0c7b37fde24508e15667c4257c6deb38957761ea6b49176a19f5acc71cdb",
+        "reading_copy_sha256": "93ab11c92fb6206dc1403e5b7935264251842ff2f9b4a2b27a86ce93907a2b75",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 3,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Толкование описаний",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/interpreting-descriptions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/interpreting-descriptions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "9a5c3ce6d4d2587cba435139ba7c942e63fa303ee4657c065ad2113298a74141",
+        "reading_copy_sha256": "9a5c3ce6d4d2587cba435139ba7c942e63fa303ee4657c065ad2113298a74141",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 3.1.",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/exercise-3-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/exercise-3-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "1bde65c55db690061cfb10f2beea0985d851d3516ac3ad7c14c2e7a1b2a1d1a4",
+        "reading_copy_sha256": "1bde65c55db690061cfb10f2beea0985d851d3516ac3ad7c14c2e7a1b2a1d1a4",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Описания описаний и шаблоны описаний",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/descriptions-of-descriptions-and-description-templates.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/descriptions-of-descriptions-and-description-templates",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "5f2cc5692f26dcabf7b7e3fb8e7594c9474d581b87deaa3a60068a533ce0f8e7",
+        "reading_copy_sha256": "f7f55d163060f91f6066e465f01fe328acfb2105e51db0953846119891e275af",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 12,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 2,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image31]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image31`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image31"
+        ]
+      }
+    },
+    {
+      "title": "Мета-языки и уровни моделирования",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/meta-languages-and-modeling-levels.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/meta-languages-and-modeling-levels",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "038229d47f3cf1a2b69a378249ff9fdc7aeb7d81cb9f87041c0fcf1fb5da7d5d",
+        "reading_copy_sha256": "c0b287678f7f63edfdbb90c245932a20a7a9e057b0789ad154fb3c48c7aa560f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [
+          {
+            "source": "https://ru.wikipedia.org/wiki/Форма*Бэкуса*—*Наура",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Форма_Бэкуса_—_Наура"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Форма\\*Бэкуса\\*—\\*Наура",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Форма_Бэкуса_—_Наура"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![image][image32]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image32`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image32"
+        ]
+      }
+    },
+    {
+      "title": "Упражнение 3.2.",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/exercise-3-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/exercise-3-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "0d676ca43764bde3cce23f26c88be2ab2d067aceffc3e9d204825113ca2d3181",
+        "reading_copy_sha256": "0d676ca43764bde3cce23f26c88be2ab2d067aceffc3e9d204825113ca2d3181",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Онтологические уровни",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/ontological-levels.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/ontological-levels",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "39607126a33d85338174c3c006c7df599b2c5d1764c368f6d61c984275fe12ef",
+        "reading_copy_sha256": "5d6d897ea2cddb9228dc712f56d4299cac52ea184ecfedeca7b711cf6bdfd391",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 4,
+        "repaired_source_links": [
+          {
+            "source": "https://en.wikipedia.org/wiki/Meta-Object*Facility",
+            "reading_copy": "https://en.wikipedia.org/wiki/Meta-Object_Facility"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Meta-Object\\*Facility",
+            "reading_copy": "https://en.wikipedia.org/wiki/Meta-Object_Facility"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 16,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Поиск или разработка онтологий",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/searching-or-developing-ontologies.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/searching-or-developing-ontologies",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ec4151fdee3c9c4a5b53887edca55b1c6375933372e35c52a5fa87f5164ed3e3",
+        "reading_copy_sha256": "ec4151fdee3c9c4a5b53887edca55b1c6375933372e35c52a5fa87f5164ed3e3",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 3.3.",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/exercise-3-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/exercise-3-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "8ec6c4df604fa6bc20a948924cb1af8ab55c283f4072536efe579f3aba11f8f6",
+        "reading_copy_sha256": "8ec6c4df604fa6bc20a948924cb1af8ab55c283f4072536efe579f3aba11f8f6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 3.4.",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/exercise-3-4.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/exercise-3-4",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "6f7865ba2fbc0c2844243a11c73bdd7a68862cf76f52c66af244186a51945f1c",
+        "reading_copy_sha256": "6f7865ba2fbc0c2844243a11c73bdd7a68862cf76f52c66af244186a51945f1c",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Описание и поиск его языка",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/description-and-search-for-its-language.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/description-and-search-for-its-language",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "63913f1b73e845e443c0e9d05a026d62d5994405237b67c26ca540f91318a6a7",
+        "reading_copy_sha256": "8cb90f00dfa1def991516a049d0fb3bae556bd9c429a6969f77cf36e637e6c15",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image33]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image33`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image33"
+        ]
+      }
+    },
+    {
+      "title": "Прагматический смысл описания",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/pragmatic-meaning-of-description.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/pragmatic-meaning-of-description",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "701e407ec818c068e69591eecbcc5e441b5e6b433baa4c338acd9912f52de5cf",
+        "reading_copy_sha256": "06d2c6334f2b6e9d8c5b6944d805b7b23766af8e9b1c8c2937e59a31aa533ff1",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 5,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Условия истинности и эпистемический статус высказывания",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/truth-conditions-and-epistemic-status-of-a-statement.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/truth-conditions-and-epistemic-status-of-a-statement",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "40787e0648f05de706a81b68868595c50c3425070608a42622aaf178dfc3312b",
+        "reading_copy_sha256": "bdef68c7e0e53d86a8192f98e1d795e736c7125f27686b60401ecd692cc1a8db",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 3,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Процесс толкования",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/interpretation-process.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/interpretation-process",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "aceab40d8a0b888869a2a22921930d1711b7658b35c80bc096cafa501ed1f410",
+        "reading_copy_sha256": "aceab40d8a0b888869a2a22921930d1711b7658b35c80bc096cafa501ed1f410",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 3.5.",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/assignment-3-5.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/assignment-3-5",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "dba7cb5e9bc83017f4682d8382ecac9f204b9dd20625d7d28cf5d620a8302b3e",
+        "reading_copy_sha256": "dba7cb5e9bc83017f4682d8382ecac9f204b9dd20625d7d28cf5d620a8302b3e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Факультативное задание 3.6",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/modeling-2/types-of-models/optional-assignment-3-6.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/types-of-models/optional-assignment-3-6",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6574cc71115c290123c8294b1af96cd0c531b5029eaf4388e6851221dea7ea25",
+        "reading_copy_sha256": "6574cc71115c290123c8294b1af96cd0c531b5029eaf4388e6851221dea7ea25",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Основные кейсы",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-2/main-cases/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/main-cases/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "2c03ade49712fe80858222ffe5adc83c6cf773e6db73f2ff42fd062ad8f7a58e",
+        "reading_copy_sha256": "2c03ade49712fe80858222ffe5adc83c6cf773e6db73f2ff42fd062ad8f7a58e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Основные объекты описания и уровни организации",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-2/main-cases/main-objects-of-description-and-levels-of-organization.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/main-cases/main-objects-of-description-and-levels-of-organization",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d02f116e0b0d275e77229e87dd42ca2ce3e11ed457baa7224a4167e6b2f03ae2",
+        "reading_copy_sha256": "5cfd9b714401053aafdb31f71a8b2e29643748558191b54bc44d5dad74fe7e1d",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![][image51]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image51`."
+          },
+          {
+            "source": "![Изображение выглядит как диаграмма, текст, План, Технический чертежКонтент, сгенерированный ИИ, может содержать ошибки.][image54]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image54`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `189`, `190`, `191`, `192`, `193`, `194`, `195`, `196`, `197`, `198`, `199`, `200`, `201`, `202`, `203`, `204`, `205`. Их исходные маркеры сохранены.\n\n[^189]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^190]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^191]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^192]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^193]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^194]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^195]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^196]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^197]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^198]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^199]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^200]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^201]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^202]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^203]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^204]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^205]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 17
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "189",
+          "190",
+          "191",
+          "192",
+          "193",
+          "194",
+          "195",
+          "196",
+          "197",
+          "198",
+          "199",
+          "200",
+          "201",
+          "202",
+          "203",
+          "204",
+          "205"
+        ],
+        "missing_image_definitions": [
+          "image51",
+          "image54"
+        ]
+      }
+    },
+    {
+      "title": "Уровни моделирования и принципиальная модель предприятия",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-2/main-cases/modeling-levels-and-enterprise-conceptual-model.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/main-cases/modeling-levels-and-enterprise-conceptual-model",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "6e106a4357c4fa42e6b41818373bf4c18c58b2f721b0b22d6abaea7479ea3371",
+        "reading_copy_sha256": "0485759f5ce4b7a0f70efbac07e689540660dc819aaf53047f74b136732d5931",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как диаграмма, линия, снимок экрана, ПараллельныйКонтент, сгенерированный ИИ, может содержать ошибки.][image38]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image38`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, диаграмма, снимок экрана, ПараллельныйАвтоматически созданное описание][image55]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image55`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, диаграмма, числоАвтоматически созданное описание][image56]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image56`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, диаграмма, ШрифтАвтоматически созданное описание][image40]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image40`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `206`. Их исходные маркеры сохранены.\n\n[^206]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 1
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "206"
+        ],
+        "missing_image_definitions": [
+          "image38",
+          "image40",
+          "image55",
+          "image56"
+        ]
+      }
+    },
+    {
+      "title": "Базовая онтология работ",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-2/main-cases/basic-work-ontology.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/main-cases/basic-work-ontology",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f0d3a5cc7382838fc8dbd3d9f986832c8efe6528b3f1c88f6ef23ae253d9b33b",
+        "reading_copy_sha256": "a45d0052c777192a074564a1a7d3f53878f984c0fc88d494682773a8dc34e7ca",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `207`, `208`, `209`, `210`, `211`, `212`, `213`, `214`, `215`, `216`, `217`. Их исходные маркеры сохранены.\n\n[^207]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^208]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^209]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^210]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^211]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^212]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^213]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^214]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^215]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^216]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^217]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 11
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "207",
+          "208",
+          "209",
+          "210",
+          "211",
+          "212",
+          "213",
+          "214",
+          "215",
+          "216",
+          "217"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Принципы физики предприятия и закон Литтла",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-2/main-cases/principles-of-enterprise-physics-and-little-s-law.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/main-cases/principles-of-enterprise-physics-and-little-s-law",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1d55202322899fd880340b266fafdea1d47b8d9edd24fbfd4412dde84caf322c",
+        "reading_copy_sha256": "6842ed8da6042cba69ff91841f28ebf0efdfc3c690e47b730907e94170e805e4",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 3,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как текст, чек, линия, ГрафикКонтент, сгенерированный ИИ, может содержать ошибки.][image57]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image57`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image57"
+        ]
+      }
+    },
+    {
+      "title": "Использование буферов для компенсации изменчивости",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-2/main-cases/using-buffers-to-compensate-for-variability.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/main-cases/using-buffers-to-compensate-for-variability",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "03f03e49bf24b08f9773cc7c7aa5245303df0a7e207c0624b0e4ced315611c38",
+        "reading_copy_sha256": "185dda56cb10d8af10b0340ad0c41e1b1cb045d5f21214405d40b1f58e057ecd",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как текст, чек, линия, ГрафикКонтент, сгенерированный ИИ, может содержать ошибки.][image57]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image57`."
+          },
+          {
+            "source": "![Изображение выглядит как линияКонтент, сгенерированный ИИ, может содержать ошибки.][image58]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image58`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, линия, График, снимок экранаАвтоматически созданное описание][image59]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image59`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, линия, диаграммаАвтоматически созданное описание][image60]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image60`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, диаграмма, линияАвтоматически созданное описание][image61]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image61`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, диаграмма, линияАвтоматически созданное описание][image62]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image62`."
+          },
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, Шрифт, линияАвтоматически созданное описание][image63]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image63`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `218`, `219`, `220`, `221`, `222`, `223`, `224`. Их исходные маркеры сохранены.\n\n[^218]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^219]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^220]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^221]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^222]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^223]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^224]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 7
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "218",
+          "219",
+          "220",
+          "221",
+          "222",
+          "223",
+          "224"
+        ],
+        "missing_image_definitions": [
+          "image57",
+          "image58",
+          "image59",
+          "image60",
+          "image61",
+          "image62",
+          "image63"
+        ]
+      }
+    },
+    {
+      "title": "Представление моделей",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "633c98f153e5f0f51ae51ee3fc011732cfd5ad8aeb0390825345514a8ae4eb28",
+        "reading_copy_sha256": "633c98f153e5f0f51ae51ee3fc011732cfd5ad8aeb0390825345514a8ae4eb28",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Ситуация моделирования",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/modeling-scenario.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/modeling-scenario",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1ce06e310cc1406cb8f20f426488db19a2f86bf498860d82c938fbbc31f1132b",
+        "reading_copy_sha256": "1ce06e310cc1406cb8f20f426488db19a2f86bf498860d82c938fbbc31f1132b",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Уровни абстракции",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/levels-of-abstraction.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/levels-of-abstraction",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "bec63a91083f5b21768170296564261830bbf6c80220633cffe6f5308eb75a33",
+        "reading_copy_sha256": "2b11ad38993b82623c2fc99d1ceaba7adf24d3a0a02a411be30c4f8cc8c7d200",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "source_lines_with_normalized_emphasis": 1,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 5.1",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/assignment-5-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/assignment-5-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "226114341ec78e3ed03eafc5ff848c9df57309f14c6d84746bf6e982d3194b95",
+        "reading_copy_sha256": "226114341ec78e3ed03eafc5ff848c9df57309f14c6d84746bf6e982d3194b95",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Виды описаний",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/types-of-descriptions.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/types-of-descriptions",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "0ca4101e23c33fe0b01d393fc0992dba609f059100134b8679ca187d278edefd",
+        "reading_copy_sha256": "9d98c700210a5591f98816cf0b8989a560aa597b81ab79fb09d1cf83fcf4ec61",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 6,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 5.2",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/exercise-5-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/exercise-5-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "c36fbe3b547214bf9e0025e554ff82cef0e2c543571f229c3b2a4f0a3cd350a6",
+        "reading_copy_sha256": "c36fbe3b547214bf9e0025e554ff82cef0e2c543571f229c3b2a4f0a3cd350a6",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Предметные роли и язык описания",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/subject-roles-and-description-language.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/subject-roles-and-description-language",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "d99e6f3c99d4996edf8b18d69a05b27f288aaa65d5c8dc32ba81072fc75a4a2e",
+        "reading_copy_sha256": "d99e6f3c99d4996edf8b18d69a05b27f288aaa65d5c8dc32ba81072fc75a4a2e",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 5.3",
+      "order": 6,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/exercise-5-3.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/exercise-5-3",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "9f4c5cddf9f680db57c58529cf78a431b2608a569923059b4b90c0d200e9f17f",
+        "reading_copy_sha256": "9f4c5cddf9f680db57c58529cf78a431b2608a569923059b4b90c0d200e9f17f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 5.4 (факультативное)",
+      "order": 7,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/assignment-5-4-optional.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/assignment-5-4-optional",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "16dc88c3acf6150a01ac2193276e58c4afdb788cb76ac44c90881d367e44d9c5",
+        "reading_copy_sha256": "16dc88c3acf6150a01ac2193276e58c4afdb788cb76ac44c90881d367e44d9c5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Формат описания и моделеры",
+      "order": 8,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/description-format-and-modelers.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/description-format-and-modelers",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "1052a55a15f1074681e6b5445bcb116e094f01c998e998a90f23c766f8e11e3f",
+        "reading_copy_sha256": "1052a55a15f1074681e6b5445bcb116e094f01c998e998a90f23c766f8e11e3f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Модальность описания",
+      "order": 9,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/description-modality.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/description-modality",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "ffcb9d80101c17ef68c158c59d19d6533aa8800b21357d0ffb94718a5788453a",
+        "reading_copy_sha256": "3fbe82fbf6a1c995a70a88f827a075a3b9e0de58b06caf4faa05bf065d525f37",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [
+          {
+            "source": "https://en.wikipedia.org/wiki/Graph*database",
+            "reading_copy": "https://en.wikipedia.org/wiki/Graph_database"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Graph\\*database",
+            "reading_copy": "https://en.wikipedia.org/wiki/Graph_database"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Язык*разметки",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Язык_разметки"
+          },
+          {
+            "source": "https://ru.wikipedia.org/wiki/Язык\\*разметки",
+            "reading_copy": "https://ru.wikipedia.org/wiki/Язык_разметки"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Knowledge*graph",
+            "reading_copy": "https://en.wikipedia.org/wiki/Knowledge_graph"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Knowledge\\*graph",
+            "reading_copy": "https://en.wikipedia.org/wiki/Knowledge_graph"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 5.5",
+      "order": 10,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/assignment-5-5.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/assignment-5-5",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "704cf4854f7bfb351eccde29d5364aee345523590748ff12d5742cc3d2aeeb82",
+        "reading_copy_sha256": "704cf4854f7bfb351eccde29d5364aee345523590748ff12d5742cc3d2aeeb82",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Уровни детализации",
+      "order": 11,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/levels-of-detail.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/levels-of-detail",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "e8e4449af040fc61b70c7e66c2065643daf2330e244d93c40a9f3882b699b7e5",
+        "reading_copy_sha256": "2523cbcb6435fb0eccb6a842f462dd04c6ee0597e7e72c1670f7d5ad08c4ebdd",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 5.6",
+      "order": 12,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/exercise-5-6.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/exercise-5-6",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "7a96c5d60a7001675dec5eeb265be0f9d419cfaa350d7885e08764b59c76ee11",
+        "reading_copy_sha256": "7a96c5d60a7001675dec5eeb265be0f9d419cfaa350d7885e08764b59c76ee11",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Классификаторы",
+      "order": 13,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/classifiers.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/classifiers",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f6820e52bf96040ce91c6989f40bd4b1677b825870375355ddb4ddaba746f67e",
+        "reading_copy_sha256": "181b32d5a106ab7ab858968c3147d8445fbdc9b5f6854ccda8e63ce2fc9db9b5",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 1,
+        "repaired_source_links": [
+          {
+            "source": "https://en.wikipedia.org/wiki/Upper*ontology",
+            "reading_copy": "https://en.wikipedia.org/wiki/Upper_ontology"
+          },
+          {
+            "source": "https://en.wikipedia.org/wiki/Upper\\*ontology",
+            "reading_copy": "https://en.wikipedia.org/wiki/Upper_ontology"
+          }
+        ],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 5.7",
+      "order": 14,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/exercise-5-7.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/exercise-5-7",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "97f971fb121e242735ba0be9e59f45f1f728fe4d39ff9728c322ad6c1bee09ea",
+        "reading_copy_sha256": "97f971fb121e242735ba0be9e59f45f1f728fe4d39ff9728c322ad6c1bee09ea",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Описатели и отношения объектов",
+      "order": 15,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/object-descriptors-and-relationships.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/object-descriptors-and-relationships",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "96dd75497d56306dfdeee6f66bc0c9c65cc310a08ae5009420c775bfd42dbe1f",
+        "reading_copy_sha256": "96dd75497d56306dfdeee6f66bc0c9c65cc310a08ae5009420c775bfd42dbe1f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 5.8",
+      "order": 16,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/exercise-5-8.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/exercise-5-8",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "2c3cad92532f613f49ac5f3414313dc34819c077b85527f2769082992e94c931",
+        "reading_copy_sha256": "2c3cad92532f613f49ac5f3414313dc34819c077b85527f2769082992e94c931",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Составление описания или шаблона описания",
+      "order": 17,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/creating-a-description-or-description-template.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/creating-a-description-or-description-template",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "bcc00f6d9206382be36a74c15ed7f8c4308daad91671c834e10c04310cbf5c0a",
+        "reading_copy_sha256": "bcc00f6d9206382be36a74c15ed7f8c4308daad91671c834e10c04310cbf5c0a",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Задание 5.9",
+      "order": 18,
+      "markdown_path": "docs/ru/professional/modeling-2/model-presentation/assignment-5-9.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/model-presentation/assignment-5-9",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "96a6ecd9b9afdbeb83d889ad96cf965e578b2787c8d2e9e6c1422ad7625e986f",
+        "reading_copy_sha256": "96a6ecd9b9afdbeb83d889ad96cf965e578b2787c8d2e9e6c1422ad7625e986f",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Использование моделей в совместной работе",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-2/using-models-in-collaboration/index.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/using-models-in-collaboration/index",
+      "coverage": "navigation",
+      "formatting": {
+        "source_sha256": "d9d2097b8386f1e464ab94c81ce52505012e586031a4c786abb42787360ecaf0",
+        "reading_copy_sha256": "d9d2097b8386f1e464ab94c81ce52505012e586031a4c786abb42787360ecaf0",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Подготовка к составлению модели: ситуация моделирования",
+      "order": 0,
+      "markdown_path": "docs/ru/professional/modeling-2/using-models-in-collaboration/preparing-to-create-a-model-modeling-situation.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/using-models-in-collaboration/preparing-to-create-a-model-modeling-situation",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "a5e1a71a5940695777220ad2b69fc9726d387d60147d28eb77d2fa8a5b642c7f",
+        "reading_copy_sha256": "17ea4e01dc5616a7e9d77c82c979544dab3aa868028776541d5e04a3acefba22",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как диаграмма, План, текст, Технический чертежАвтоматически созданное описание][image53]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image53`."
+          }
+        ],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `169`, `170`, `171`, `172`, `173`, `174`, `175`, `176`, `177`, `178`, `179`, `180`, `181`, `182`. Их исходные маркеры сохранены.\n\n[^169]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^170]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^171]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^172]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^173]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^174]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^175]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^176]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^177]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^178]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^179]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^180]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^181]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^182]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 14
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "169",
+          "170",
+          "171",
+          "172",
+          "173",
+          "174",
+          "175",
+          "176",
+          "177",
+          "178",
+          "179",
+          "180",
+          "181",
+          "182"
+        ],
+        "missing_image_definitions": [
+          "image53"
+        ]
+      }
+    },
+    {
+      "title": "Предметные роли для ситуационных ролей",
+      "order": 1,
+      "markdown_path": "docs/ru/professional/modeling-2/using-models-in-collaboration/subject-roles-for-situational-roles.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/using-models-in-collaboration/subject-roles-for-situational-roles",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "365523793fae9466feebeda7bb91371df5bd08a7ed43d87da1e10e5fec2925ed",
+        "reading_copy_sha256": "5fa600d4d29ca5c7d458f104515e72e16193a9e85b115a7986b64614fd822c90",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `183`, `184`, `185`, `186`. Их исходные маркеры сохранены.\n\n[^183]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^184]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^185]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^186]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 4
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "183",
+          "184",
+          "185",
+          "186"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Упражнение 6.1",
+      "order": 2,
+      "markdown_path": "docs/ru/professional/modeling-2/using-models-in-collaboration/exercise-6-1.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/using-models-in-collaboration/exercise-6-1",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "fd0ed832b7f8e6756db1b3329501535ace1375319e904c66927d971f4944f297",
+        "reading_copy_sha256": "fd0ed832b7f8e6756db1b3329501535ace1375319e904c66927d971f4944f297",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Неявные предположения при моделировании",
+      "order": 3,
+      "markdown_path": "docs/ru/professional/modeling-2/using-models-in-collaboration/implicit-assumptions-in-modeling.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/using-models-in-collaboration/implicit-assumptions-in-modeling",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "f1bb6d86bb485f39fa278786282a2c41283dd3f6c8a40ee21552b8eb917d9243",
+        "reading_copy_sha256": "5978f2e6c82e410ba5eea61a7c06bd3866f71fe34dae0cd4879093e411822c23",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": "\n\n> **Неполнота источника:** в официальной Markdown-публикации отсутствуют тексты сносок `187`, `188`. Их исходные маркеры сохранены.\n\n[^187]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n\n[^188]: **Текст сноски отсутствует в официальной Markdown-публикации.**\n",
+        "missing_note_reference_count": 2
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [
+          "187",
+          "188"
+        ],
+        "missing_image_definitions": []
+      }
+    },
+    {
+      "title": "Собираем всё вместе",
+      "order": 4,
+      "markdown_path": "docs/ru/professional/modeling-2/using-models-in-collaboration/putting-it-all-together.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/using-models-in-collaboration/putting-it-all-together",
+      "coverage": "content_page",
+      "formatting": {
+        "source_sha256": "334fd06af62b56863f0bdcee1ac63e2d7ab4a2c0238552e78452b6e88b51a9a7",
+        "reading_copy_sha256": "5052c6d8baf16d87298d990a01c88e61d0ff92394e9a9789027caecf5a21a327",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [
+          {
+            "source": "![Изображение выглядит как текст, снимок экрана, диаграмма, линияАвтоматически созданное описание][image62]",
+            "reading_copy": "**Изображение отсутствует в опубликованном источнике:** `image62`."
+          }
+        ],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": [
+          "image62"
+        ]
+      }
+    },
+    {
+      "title": "Задание 6.2",
+      "order": 5,
+      "markdown_path": "docs/ru/professional/modeling-2/using-models-in-collaboration/assignment-6-2.md",
+      "official_public_url": "https://docs.system-school.ru/ru/professional/modeling-2/using-models-in-collaboration/assignment-6-2",
+      "coverage": "workbook_placeholder",
+      "formatting": {
+        "source_sha256": "b21c7ef887de74355a4fefa313d96c5406d68ca2ee0dfca6d11d709e9bda3920",
+        "reading_copy_sha256": "b21c7ef887de74355a4fefa313d96c5406d68ca2ee0dfca6d11d709e9bda3920",
+        "joined_adjacent_bold_spans": 0,
+        "adjacent_italic_boundaries_joined": 0,
+        "repaired_escaped_emphasis_spans": 0,
+        "repaired_source_links": [],
+        "converted_inline_footnotes": 0,
+        "image_paths": [],
+        "strong_spans_using_html_for_github": 0,
+        "unavailable_image_replacements": [],
+        "source_gap_annotation": ""
+      },
+      "source_gaps": {
+        "missing_footnote_definitions": [],
+        "missing_image_definitions": []
+      }
+    }
+  ],
+  "formatting_totals": {
+    "joined_adjacent_bold_spans": 1,
+    "adjacent_italic_boundaries_joined": 0,
+    "converted_inline_footnotes": 0,
+    "strong_spans_using_html_for_github": 16,
+    "repaired_escaped_emphasis_spans": 93,
+    "source_lines_with_normalized_emphasis": 13,
+    "italic_spans_using_html_for_github": 0
+  },
+  "source_gaps": {
+    "missing_footnote_definitions": [
+      "123",
+      "124",
+      "169",
+      "170",
+      "171",
+      "172",
+      "173",
+      "174",
+      "175",
+      "176",
+      "177",
+      "178",
+      "179",
+      "180",
+      "181",
+      "182",
+      "183",
+      "184",
+      "185",
+      "186",
+      "187",
+      "188",
+      "189",
+      "190",
+      "191",
+      "192",
+      "193",
+      "194",
+      "195",
+      "196",
+      "197",
+      "198",
+      "199",
+      "200",
+      "201",
+      "202",
+      "203",
+      "204",
+      "205",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "211",
+      "212",
+      "213",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219",
+      "220",
+      "221",
+      "222",
+      "223",
+      "224",
+      "97",
+      "98",
+      "99"
+    ],
+    "missing_image_definitions": [
+      "image10",
+      "image11",
+      "image12",
+      "image13",
+      "image14",
+      "image15",
+      "image16",
+      "image17",
+      "image18",
+      "image19",
+      "image20",
+      "image21",
+      "image22",
+      "image23",
+      "image24",
+      "image31",
+      "image32",
+      "image33",
+      "image38",
+      "image40",
+      "image5",
+      "image51",
+      "image53",
+      "image54",
+      "image55",
+      "image56",
+      "image57",
+      "image58",
+      "image59",
+      "image6",
+      "image60",
+      "image61",
+      "image62",
+      "image63",
+      "image7",
+      "image8"
+    ],
+    "heading_only_pages": [],
+    "note": "These references or page headings exist in the publisher snapshot, but their bodies/assets are absent there. No missing content has been invented."
+  }
+}
