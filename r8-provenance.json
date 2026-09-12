@@ -718,12 +718,13 @@
       "coverage": "content_page",
       "formatting": {
         "source_sha256": "12f89220c8d7c601be852b7c0b161c0a91e45298fa9191aa38f5495bcf3817ee",
-        "reading_copy_sha256": "9fcacb5abdd190fef92658c71602aaee61a97c6542e872b7a8d02b66ba8bc214",
+        "reading_copy_sha256": "93356c7f2d66e85e1f412139cecb9f6f80b96d99c9c93ca82decee25ca760bca",
         "joined_adjacent_bold_spans": 17,
-        "adjacent_italic_boundaries_joined": 0,
+        "adjacent_italic_boundaries_joined": 2,
         "converted_inline_footnotes": 6,
         "image_paths": [],
-        "strong_spans_using_html_for_github": 0
+        "strong_spans_using_html_for_github": 0,
+        "italic_spans_using_html_for_github": 1
       }
     },
     {
@@ -1010,7 +1011,7 @@
       "coverage": "content_page",
       "formatting": {
         "source_sha256": "1c81f05be54054dfe64391d25d5b4eb85e13c34b722284349ea225193de8116a",
-        "reading_copy_sha256": "052650267d1b07b09082c90baa7dceef965b1bd0da342f8723dd9cd4e2429c08",
+        "reading_copy_sha256": "179ef8ae0d5d3f5e69c0e51d94c2c5e3107f0c70e16f9612c7ed61852f00dd37",
         "joined_adjacent_bold_spans": 70,
         "adjacent_italic_boundaries_joined": 0,
         "converted_inline_footnotes": 9,
@@ -1052,7 +1053,8 @@
             "reading_copy": "../../../../public/ru/professional/systems-engineering/42.png"
           }
         ],
-        "strong_spans_using_html_for_github": 85
+        "strong_spans_using_html_for_github": 85,
+        "italic_spans_using_html_for_github": 1
       }
     },
     {
@@ -1607,7 +1609,7 @@
       "coverage": "content_page",
       "formatting": {
         "source_sha256": "3d64f8ccbadd0ea8e946c2e81df0a1c563c3bae0d5b904631317849ea831629f",
-        "reading_copy_sha256": "6a3aaa791d14ce8cd62d3a8d679adc464cfdf144972dfd24c1cad0a227ae728c",
+        "reading_copy_sha256": "700a03624a41a3832acd4cf73c2a7dd0a82f881ae9f1d6e6fddda2232aeb10ec",
         "joined_adjacent_bold_spans": 11,
         "adjacent_italic_boundaries_joined": 0,
         "converted_inline_footnotes": 9,
@@ -1617,7 +1619,8 @@
             "reading_copy": "../../../../public/ru/professional/systems-engineering/72.png"
           }
         ],
-        "strong_spans_using_html_for_github": 0
+        "strong_spans_using_html_for_github": 0,
+        "italic_spans_using_html_for_github": 1
       }
     },
     {
@@ -1899,8 +1902,9 @@
   ],
   "formatting_totals": {
     "joined_adjacent_bold_spans": 706,
-    "adjacent_italic_boundaries_joined": 8,
+    "adjacent_italic_boundaries_joined": 10,
     "converted_inline_footnotes": 393,
-    "strong_spans_using_html_for_github": 199
+    "strong_spans_using_html_for_github": 199,
+    "italic_spans_using_html_for_github": 3
   }
 }

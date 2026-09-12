@@ -2070,12 +2070,13 @@
       "coverage": "content_page",
       "formatting": {
         "source_sha256": "ffbcb1a8e1a93ba1825d656480fc5adf0988a6aafc65b0cee9979cb782c445e9",
-        "reading_copy_sha256": "ffde7541584a166ad80899a3ee94817c3d71e7b26d32dac7289320a5bcebaa31",
+        "reading_copy_sha256": "b532cac3400b24aa323977db5f412c8fa999af057a859c9d30195293d404055e",
         "joined_adjacent_bold_spans": 9,
         "adjacent_italic_boundaries_joined": 28,
         "converted_inline_footnotes": 2,
         "image_paths": [],
-        "strong_spans_using_html_for_github": 0
+        "strong_spans_using_html_for_github": 0,
+        "italic_spans_using_html_for_github": 1
       }
     },
     {
@@ -2086,12 +2087,13 @@
       "coverage": "content_page",
       "formatting": {
         "source_sha256": "c3be35ecf3594a324422a199760efb5f874e51a8eb62b0e0c1f3f8510506ea09",
-        "reading_copy_sha256": "2cc131eee0713a02b75bfa2309d00f32f678b9d4c1b47ebb9a981a439bb68a20",
+        "reading_copy_sha256": "2e9612feeefcd458757f840a3d30b6e962771b0e91b62231fbb7c25e61feaa09",
         "joined_adjacent_bold_spans": 7,
         "adjacent_italic_boundaries_joined": 54,
         "converted_inline_footnotes": 0,
         "image_paths": [],
-        "strong_spans_using_html_for_github": 0
+        "strong_spans_using_html_for_github": 0,
+        "italic_spans_using_html_for_github": 1
       }
     },
     {
@@ -2102,12 +2104,13 @@
       "coverage": "content_page",
       "formatting": {
         "source_sha256": "d87a80ff1d6d746c443f03984c4ae079ec73d2beafe944b1d0bcb2d5a76f8e11",
-        "reading_copy_sha256": "de0bc70563d27c83ea3c367a6fc578776ed74d7d002940ac1df112f80cd2ff5b",
+        "reading_copy_sha256": "537eb869a206ad8bbcb53abb5d79d37392f9842df9ee3e60322e6ca68c6952f2",
         "joined_adjacent_bold_spans": 0,
         "adjacent_italic_boundaries_joined": 20,
         "converted_inline_footnotes": 0,
         "image_paths": [],
-        "strong_spans_using_html_for_github": 0
+        "strong_spans_using_html_for_github": 0,
+        "italic_spans_using_html_for_github": 1
       }
     },
     {
@@ -2787,6 +2790,7 @@
     "joined_adjacent_bold_spans": 1194,
     "converted_inline_footnotes": 430,
     "strong_spans_using_html_for_github": 346,
-    "adjacent_italic_boundaries_joined": 169
+    "adjacent_italic_boundaries_joined": 169,
+    "italic_spans_using_html_for_github": 3
   }
 }
